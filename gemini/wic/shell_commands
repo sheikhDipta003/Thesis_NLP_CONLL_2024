@@ -1,0 +1,6 @@
+# shell commands
+
+# get the dataset
+!wget https://pilehvar.github.io/wic/package/WiC_dataset.zip
+!unzip /content/WiC_dataset.zip
+!pip install -q -U google-generativeai

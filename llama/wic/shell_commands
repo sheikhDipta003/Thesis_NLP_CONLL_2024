@@ -1,0 +1,7 @@
+# shell commands
+
+# get the dataset
+!wget https://pilehvar.github.io/wic/package/WiC_dataset.zip
+!unzip /content/WiC_dataset.zip
+# install api to replicate
+!pip install replicate

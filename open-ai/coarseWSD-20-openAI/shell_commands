@@ -1,0 +1,9 @@
+# shell commands
+
+# get the dataset
+!wget https://github.com/danlou/bert-disambiguation/archive/refs/heads/master.zip
+!unzip master.zip
+!mv bert-disambiguation-master master
+
+# install api to openAI
+!pip install openai

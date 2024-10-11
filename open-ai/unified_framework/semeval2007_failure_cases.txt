@@ -1,0 +1,3979 @@
+PROMPT: Which of the following senses is correct for the word "comments" in the following text:
+
+ Your comments implied we had discovered that the `` principal cause `` of homelessness is to be found in the large numbers of mentally ill and substance-abusing people in the homeless population .
+
+I) a statement that expresses a personal opinion or belief or adds information
+II) a written explanation or criticism or illustration that is added to a book or other textual material
+III) a report (often malicious) about the behavior of other people
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "discovered" in the following text:
+
+ Your comments implied we had discovered that the `` principal cause `` of homelessness is to be found in the large numbers of mentally ill and substance-abusing people in the homeless population .
+
+I) discover or determine the existence, presence, or fact of
+II) get to know or become aware of, usually accidentally
+III) make a discovery, make a new finding
+IV) make a discovery
+V) find unexpectedly
+VI) make known to the public information that was previously known only to a few people or that was meant to be kept a secret
+VII) see for the first time; make a discovery
+VIII) identify as in botany or biology, for example
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "cause" in the following text:
+
+ Your comments implied we had discovered that the `` principal cause `` of homelessness is to be found in the large numbers of mentally ill and substance-abusing people in the homeless population .
+
+I) events that provide the generative force that is the origin of something
+II) a justification for something existing or happening
+III) a series of actions advancing a principle or tending toward a particular end
+IV) any entity that produces an effect or is responsible for events or results
+V) a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "made" in the following text:
+
+ We have made no such statement .
+
+I) engage in
+II) give certain properties to something
+III) make or cause to be or to become
+IV) cause to do; cause to act in a specified manner
+V) give rise to; cause to happen or occur, not always intentionally
+VI) create or manufacture a man-made product
+VII) make, formulate, or derive in the mind
+VIII) compel or make somebody or something to act in a certain way
+IX) create by artistic means
+X) earn on some commercial or business transaction; earn as salary or wages
+XI) create or design, often in a certain way
+XII) to compose or represent:
+XIII) reach a goal, e.g.,
+XIV) be or be capable of being changed or made into
+XV) make by shaping or bringing together constituents
+XVI) perform or carry out
+XVII) make by combining materials and parts
+XVIII) change from one form into another
+XIX) act in a certain way so as to acquire
+XX) charge with a function; charge to be
+XXI) achieve a point or goal
+XXII) reach a destination, either real or abstract
+XXIII) institute, enact, or establish
+XXIV) carry out or commit
+XXV) form by assembling individuals or constituents
+XXVI) organize or be responsible for
+XXVII) put in order or neaten
+XXVIII) head into a specified direction
+XXIX) have a bowel movement
+XXX) undergo fabrication or creation
+XXXI) be suitable for
+XXXII) add up to
+XXXIII) amount to
+XXXIV) constitute the essence of
+XXXV) appear to begin an activity
+XXXVI) proceed along a path
+XXXVII) reach in time
+XXXVIII) gather and light the materials for
+XXXIX) prepare for eating by applying heat
+XL) induce to have sex
+XLI) assure the success of
+XLII) represent fictitiously, as in a play, or pretend to be or act like
+XLIII) consider as being
+XLIV) calculate as being
+XLV) cause to be enjoyable or pleasurable
+XLVI) favor the development of
+XLVII) develop into
+XLVIII) behave in a certain way
+XLIX) eliminate urine
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 16
+========
+
+PROMPT: Which of the following senses is correct for the word "statement" in the following text:
+
+ We have made no such statement .
+
+I) a message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc
+II) a fact or assertion offered as evidence that something is true
+III) (music) the presentation of a musical theme
+IV) a nonverbal message
+V) the act of affirming or asserting or stating something
+VI) (computer science) a line of code written as part of a computer program
+VII) a document showing credits and debits
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 5
+========
+
+PROMPT: Which of the following senses is correct for the word "become" in the following text:
+
+ It is clear that most mentally ill people and most alcoholics do not become homeless .
+
+I) enter or assume a certain state or condition
+II) undergo a change or development
+III) come into existence
+IV) enhance the appearance of
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "causes" in the following text:
+
+ The `` causes `` of homelessness are poorly understood and complex in any individual case .
+
+I) events that provide the generative force that is the origin of something
+II) a justification for something existing or happening
+III) a series of actions advancing a principle or tending toward a particular end
+IV) any entity that produces an effect or is responsible for events or results
+V) a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "note" in the following text:
+
+ You did not note that the homeless people we examined had a multitude of physical disorders in addition to their psychiatric problems and substance abuse .
+
+I) make mention of
+II) notice or perceive
+III) observe with care or pay close attention to
+IV) make a written note of
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "had" in the following text:
+
+ You did not note that the homeless people we examined had a multitude of physical disorders in addition to their psychiatric problems and substance abuse .
+
+I) have or possess, either in a concrete or an abstract sense
+II) have as a feature
+III) go through (mental or physical states or experiences)
+IV) have ownership or possession of
+V) cause to move; cause to be in a certain position or condition
+VI) serve oneself to, or consume regularly
+VII) have a personal or business relationship with someone
+VIII) organize or be responsible for
+IX) have left
+X) be confronted with
+XI) undergo
+XII) suffer from; be ill with
+XIII) cause to do; cause to act in a specified manner
+XIV) receive willingly something given or offered
+XV) get something; come into possession of
+XVI) undergo (as of injuries and illnesses)
+XVII) achieve a point or goal
+XVIII) cause to be born
+XIX) have sex with; archaic use
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 12
+========
+
+PROMPT: Which of the following senses is correct for the word "suffered" in the following text:
+
+ They suffered from malnutrition , chest diseases , cardiovascular disorders , skin problems , infectious diseases and the aftereffects of assaults and rape .
+
+I) undergo or be subjected to
+II) undergo (as of injuries and illnesses)
+III) experience (emotional) pain
+IV) put up with something or somebody unpleasant
+V) get worse
+VI) feel pain or be in pain
+VII) feel physical pain
+VIII) feel unwell or uncomfortable
+IX) be given to
+X) undergo or suffer
+XI) be set at a disadvantage
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "shelter" in the following text:
+
+ Homeless people not only lack safety , privacy and shelter , they also lack the elementary necessities of nutrition , cleanliness and basic health care .
+
+I) a structure that provides privacy and protection from danger
+II) protective covering that provides protection from the weather
+III) the condition of being protected
+IV) a way of organizing business to reduce the taxes it must pay on current earnings
+V) temporary housing for homeless or displaced persons
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "pointed out" in the following text:
+
+ In a recent report , the Institute of Medicine pointed out that certain health problems may predispose a person to homelessness , others may be a consequence of it , and a third category is composed of disorders whose treatment is difficult or impossible if a person lacks adequate shelter .
+
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: -1
+========
+
+PROMPT: Which of the following senses is correct for the word "problems" in the following text:
+
+ In a recent report , the Institute of Medicine pointed out that certain health problems may predispose a person to homelessness , others may be a consequence of it , and a third category is composed of disorders whose treatment is difficult or impossible if a person lacks adequate shelter .
+
+I) a state of difficulty that needs to be resolved
+II) a question raised for consideration or solution
+III) a source of difficulty
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "composed" in the following text:
+
+ In a recent report , the Institute of Medicine pointed out that certain health problems may predispose a person to homelessness , others may be a consequence of it , and a third category is composed of disorders whose treatment is difficult or impossible if a person lacks adequate shelter .
+
+I) form the substance of
+II) write music
+III) produce a literary work
+IV) put together out of existing material
+V) calm (someone, especially oneself); make quiet
+VI) make up plans or basic details for
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "shelter" in the following text:
+
+ In a recent report , the Institute of Medicine pointed out that certain health problems may predispose a person to homelessness , others may be a consequence of it , and a third category is composed of disorders whose treatment is difficult or impossible if a person lacks adequate shelter .
+
+I) a structure that provides privacy and protection from danger
+II) protective covering that provides protection from the weather
+III) the condition of being protected
+IV) a way of organizing business to reduce the taxes it must pay on current earnings
+V) temporary housing for homeless or displaced persons
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "require" in the following text:
+
+ This will require us to develop a much more sophisticated understanding of the dynamics of homelessness than we currently possess , an understanding that can be developed only through careful study and research .
+
+I) require as useful, just, or proper
+II) consider obligatory; request and expect
+III) make someone do something
+IV) have need of
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "develop" in the following text:
+
+ This will require us to develop a much more sophisticated understanding of the dynamics of homelessness than we currently possess , an understanding that can be developed only through careful study and research .
+
+I) make something new, such as a product or a mental or artistic creation
+II) work out
+III) gain through experience
+IV) come to have or undergo a change of (physical features and attributes)
+V) come into existence; take on form or shape
+VI) change the use of and make available or usable
+VII) elaborate, as of theories and hypotheses
+VIII) create by training and teaching
+IX) be gradually disclosed or unfolded; become manifest
+X) grow, progress, unfold, or evolve through a process of evolution, natural growth, differentiation, or a conducive environment
+XI) become technologically advanced
+XII) cause to grow and differentiate in ways conforming to its natural development
+XIII) generate gradually
+XIV) grow emotionally or mature
+XV) make visible by means of chemical solutions
+XVI) superimpose a three-dimensional surface on a plane without stretching, in geometry
+XVII) move one's pieces into strategically more advantageous positions
+XVIII) move into a strategically more advantageous position
+XIX) elaborate by the unfolding of a musical idea and by the working out of the rhythmic and harmonic changes in the theme
+XX) happen
+XXI) expand in the form of a series
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "possess" in the following text:
+
+ This will require us to develop a much more sophisticated understanding of the dynamics of homelessness than we currently possess , an understanding that can be developed only through careful study and research .
+
+I) have as an attribute, knowledge, or skill
+II) have ownership or possession of
+III) enter into and control, as of emotions or ideas
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "developed" in the following text:
+
+ This will require us to develop a much more sophisticated understanding of the dynamics of homelessness than we currently possess , an understanding that can be developed only through careful study and research .
+
+I) make something new, such as a product or a mental or artistic creation
+II) work out
+III) gain through experience
+IV) come to have or undergo a change of (physical features and attributes)
+V) come into existence; take on form or shape
+VI) change the use of and make available or usable
+VII) elaborate, as of theories and hypotheses
+VIII) create by training and teaching
+IX) be gradually disclosed or unfolded; become manifest
+X) grow, progress, unfold, or evolve through a process of evolution, natural growth, differentiation, or a conducive environment
+XI) become technologically advanced
+XII) cause to grow and differentiate in ways conforming to its natural development
+XIII) generate gradually
+XIV) grow emotionally or mature
+XV) make visible by means of chemical solutions
+XVI) superimpose a three-dimensional surface on a plane without stretching, in geometry
+XVII) move one's pieces into strategically more advantageous positions
+XVIII) move into a strategically more advantageous position
+XIX) elaborate by the unfolding of a musical idea and by the working out of the rhythmic and harmonic changes in the theme
+XX) happen
+XXI) expand in the form of a series
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "shows" in the following text:
+
+ The study shows that nearly 40 % of the homeless population is made up of women and children and that only 25 % of the homeless exhibits some combination of drug , alcohol and mental problems .
+
+I) give an exhibition of to an interested audience
+II) establish the validity of something, as by an example, explanation or experiment
+III) provide evidence for
+IV) make visible or noticeable
+V) show in, or as in, a picture
+VI) give expression to
+VII) indicate a place, direction, person, or thing; either spatially or figuratively
+VIII) be or become visible or noticeable
+IX) indicate a certain reading; of gauges and instruments
+X) give evidence of, as of records
+XI) take (someone) to their seats, as in theaters or auditoriums
+XII) finish third or better in a horse or dog race
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "exhibits" in the following text:
+
+ The study shows that nearly 40 % of the homeless population is made up of women and children and that only 25 % of the homeless exhibits some combination of drug , alcohol and mental problems .
+
+I) show an attribute, property, knowledge, or skill
+II) to show, make visible or apparent
+III) give an exhibition of to an interested audience
+IV) walk ostentatiously
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "combination" in the following text:
+
+ The study shows that nearly 40 % of the homeless population is made up of women and children and that only 25 % of the homeless exhibits some combination of drug , alcohol and mental problems .
+
+I) a collection of things that have been combined; an assemblage of separate parts or qualities
+II) a coordinated sequence of chess moves
+III) a sequence of numbers or letters that opens a combination lock
+IV) a group of people (often temporary) having a common purpose
+V) an alliance of people or corporations or countries for a special purpose (formerly to achieve some antisocial end but now for general political or economic purposes)
+VI) the act of arranging elements into specified groups without regard to order
+VII) the act of combining things to form a new whole
+
+Do not provide explanations. Just output the choice.
+RESULT: VII
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "created" in the following text:
+
+ According to Dr. Wright , homelessness is `` simultaneously a housing problem , an employment problem , a demographic problem , a problem of social disaffiliation , a mental health problem , a family violence problem , a problem created by the cutbacks in social welfare spending , a problem resulting from the decay of the traditional nuclear family , and a problem intimately connected to the recent increase in the number of persons living below the poverty level . ``
+
+I) make or cause to be or to become
+II) bring into existence
+III) pursue a creative activity; be engaged in a creative activity
+IV) invest with a new title, office, or rank
+V) create by artistic means
+VI) create or manufacture a man-made product
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "resulting" in the following text:
+
+ According to Dr. Wright , homelessness is `` simultaneously a housing problem , an employment problem , a demographic problem , a problem of social disaffiliation , a mental health problem , a family violence problem , a problem created by the cutbacks in social welfare spending , a problem resulting from the decay of the traditional nuclear family , and a problem intimately connected to the recent increase in the number of persons living below the poverty level . ``
+
+I) issue or terminate (in a specified way, state, etc.); end
+II) have as a result or residue
+III) come about or follow as a consequence
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "connected" in the following text:
+
+ According to Dr. Wright , homelessness is `` simultaneously a housing problem , an employment problem , a demographic problem , a problem of social disaffiliation , a mental health problem , a family violence problem , a problem created by the cutbacks in social welfare spending , a problem resulting from the decay of the traditional nuclear family , and a problem intimately connected to the recent increase in the number of persons living below the poverty level . ``
+
+I) connect, fasten, or put together two or more pieces
+II) make a logical or causal connection
+III) be or become joined or united or linked
+IV) join by means of communication equipment
+V) land on or hit solidly
+VI) join for the purpose of communication
+VII) be scheduled so as to provide continuing service, as in transportation
+VIII) establish a rapport or relationship
+IX) establish communication with someone
+X) plug into an outlet
+XI) hit or play a ball successfully
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "living" in the following text:
+
+ According to Dr. Wright , homelessness is `` simultaneously a housing problem , an employment problem , a demographic problem , a problem of social disaffiliation , a mental health problem , a family violence problem , a problem created by the cutbacks in social welfare spending , a problem resulting from the decay of the traditional nuclear family , and a problem intimately connected to the recent increase in the number of persons living below the poverty level . ``
+
+I) inhabit or live in; be an inhabitant of
+II) lead a certain kind of life; live in a certain style
+III) continue to live through hardship or adversity
+IV) support oneself
+V) have life, be alive
+VI) have firsthand knowledge of states, situations, emotions, or sensations
+VII) pursue a positive and satisfying existence
+
+Do not provide explanations. Just output the choice.
+RESULT: V
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "center" in the following text:
+
+ To quote the highly regarded director of a privately funded drop-in center for the homeless in New York : `` If you 're homeless , you do n't sleep for fear of being robbed or murdered .
+
+I) an area that is approximately central within some larger region
+II) the piece of ground in the outfield directly ahead of the catcher
+III) a building dedicated to a particular activity
+IV) a point equidistant from the ends of a line or the extremities of a figure
+V) the choicest or most essential or most vital part of some idea or experience
+VI) the object upon which interest and attention focuses
+VII) a cluster of nerve cells governing a specific bodily process
+VIII) the middle of a military or naval formation
+IX) (basketball) the person who plays center on a basketball team
+X) (football) the person who plays center on the line of scrimmage and snaps the ball to the quarterback
+XI) a place where some particular activity is concentrated
+XII) politically moderate persons; centrists
+XIII) (ice hockey) the person who plays center on a hockey team
+XIV) the sweet central portion of a piece of candy that is enclosed in chocolate or some other covering
+XV) mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers; usually includes restaurants and a convenient parking area; a modern version of the traditional marketplace
+XVI) the position on a hockey team of the player who participates in the face off at the beginning of the game
+XVII) (American football) the position of the player on the line of scrimmage who puts the ball in play
+XVIII) a position on a basketball team of the player who participates in the jump that starts the game
+
+Do not provide explanations. Just output the choice.
+RESULT: XI
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "fallen" in the following text:
+
+ But many others have fallen through cracks in the economy into the grim , brutal world of our city streets .
+
+I) descend in free fall under the influence of gravity
+II) move downward and lower, but not necessarily all the way
+III) pass suddenly and passively into a state of body or mind
+IV) come under, be classified or included
+V) fall from clouds
+VI) suffer defeat, failure, or ruin
+VII) die, as in battle or in a hunt
+VIII) touch or seem as if touching visually or audibly
+IX) be captured
+X) occur at a specified time or place
+XI) decrease in size, extent, or range
+XII) yield to temptation or sin
+XIII) lose office or power
+XIV) to be given by assignment or distribution
+XV) move in a specified direction
+XVI) be due
+XVII) lose one's chastity
+XVIII) to be given by right or inheritance
+XIX) come into the possession of
+XX) fall to somebody by assignment or lot
+XXI) be inherited by
+XXII) slope downward
+XXIII) lose an upright position suddenly
+XXIV) drop oneself to a lower or less erect position
+XXV) fall or flow in a certain way
+XXVI) assume a disappointed or sad expression
+XXVII) be cast down
+XXVIII) come out; issue
+XXIX) be born, used chiefly of lambs
+XXX) begin vigorously
+XXXI) go as if by falling
+XXXII) come as if by falling
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "women" in the following text:
+
+ You dismiss as `` sentimental `` the view that the reduction of federal housing-assistance programs by 77 % might have played a significant role in the increased number of men and women sleeping on our city streets during the Reagan-Bush years .
+
+I) an adult female person (as opposed to a man)
+II) a female person who plays a significant role (wife or mistress or girlfriend) in the life of a particular man
+III) a human female employed to do housework
+IV) women as a class
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "bothered" in the following text:
+
+ There is no sign that you bothered to consider the inverse of your logic : namely , that mental illness and substance abuse might be to some degree consequences rather than causes of homelessness .
+
+I) take the trouble to do something; concern oneself
+II) cause annoyance in; disturb, especially by minor irritations
+III) to cause inconvenience or discomfort to
+IV) intrude or enter uninvited
+V) make nervous or agitated
+VI) make confused or perplexed or puzzled
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "consider" in the following text:
+
+ There is no sign that you bothered to consider the inverse of your logic : namely , that mental illness and substance abuse might be to some degree consequences rather than causes of homelessness .
+
+I) deem to be
+II) give careful consideration to
+III) take into consideration for exemplifying purposes
+IV) show consideration for; take into account
+V) think about carefully; weigh
+VI) judge or regard; look upon; judge
+VII) look at attentively
+VIII) look at carefully; study mentally
+IX) regard or treat with consideration, respect, and esteem
+
+Do not provide explanations. Just output the choice.
+RESULT: V
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "stopped" in the following text:
+
+ Your research stopped when a convenient assertion could be made .
+
+I) come to a halt, stop moving
+II) put an end to a state or an activity
+III) stop from happening or developing
+IV) interrupt a trip
+V) cause to stop
+VI) prevent completion
+VII) hold back, as of a danger or an enemy; check the expansion or influence of
+VIII) seize on its way
+IX) have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical
+X) render unsuitable for passage
+XI) stop and wait, as if awaiting further instructions or developments
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 9
+========
+
+PROMPT: Which of the following senses is correct for the word "made" in the following text:
+
+ Your research stopped when a convenient assertion could be made .
+
+I) engage in
+II) give certain properties to something
+III) make or cause to be or to become
+IV) cause to do; cause to act in a specified manner
+V) give rise to; cause to happen or occur, not always intentionally
+VI) create or manufacture a man-made product
+VII) make, formulate, or derive in the mind
+VIII) compel or make somebody or something to act in a certain way
+IX) create by artistic means
+X) earn on some commercial or business transaction; earn as salary or wages
+XI) create or design, often in a certain way
+XII) to compose or represent:
+XIII) reach a goal, e.g.,
+XIV) be or be capable of being changed or made into
+XV) make by shaping or bringing together constituents
+XVI) perform or carry out
+XVII) make by combining materials and parts
+XVIII) change from one form into another
+XIX) act in a certain way so as to acquire
+XX) charge with a function; charge to be
+XXI) achieve a point or goal
+XXII) reach a destination, either real or abstract
+XXIII) institute, enact, or establish
+XXIV) carry out or commit
+XXV) form by assembling individuals or constituents
+XXVI) organize or be responsible for
+XXVII) put in order or neaten
+XXVIII) head into a specified direction
+XXIX) have a bowel movement
+XXX) undergo fabrication or creation
+XXXI) be suitable for
+XXXII) add up to
+XXXIII) amount to
+XXXIV) constitute the essence of
+XXXV) appear to begin an activity
+XXXVI) proceed along a path
+XXXVII) reach in time
+XXXVIII) gather and light the materials for
+XXXIX) prepare for eating by applying heat
+XL) induce to have sex
+XLI) assure the success of
+XLII) represent fictitiously, as in a play, or pretend to be or act like
+XLIII) consider as being
+XLIV) calculate as being
+XLV) cause to be enjoyable or pleasurable
+XLVI) favor the development of
+XLVII) develop into
+XLVIII) behave in a certain way
+XLIX) eliminate urine
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 16
+========
+
+PROMPT: Which of the following senses is correct for the word "march" in the following text:
+
+ Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` know a good thing when they see it , `` and that the crusade was based on greed or the profit motive .
+
+I) the month following February and preceding April
+II) the act of marching; walking with regular steps (especially in a procession of some kind)
+III) a steady advance
+IV) a procession of people walking together
+V) district consisting of the area on either side of a border or boundary of a country or an area
+VI) genre of music written for marching
+VII) a degree granted for the successful completion of advanced study of architecture
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 4
+========
+
+PROMPT: Which of the following senses is correct for the word "chose" in the following text:
+
+ Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` know a good thing when they see it , `` and that the crusade was based on greed or the profit motive .
+
+I) pick out, select, or choose from a number of alternatives
+II) select as an alternative over another
+III) see fit or proper to act in a certain way; decide to act in a certain way
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "cite" in the following text:
+
+ Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` know a good thing when they see it , `` and that the crusade was based on greed or the profit motive .
+
+I) make reference to
+II) commend
+III) refer to
+IV) repeat a passage from
+V) refer to for illustration or proof
+VI) advance evidence for
+VII) call in an official matter, such as to attend court
+
+Do not provide explanations. Just output the choice.
+RESULT: V
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "support" in the following text:
+
+ Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` know a good thing when they see it , `` and that the crusade was based on greed or the profit motive .
+
+I) the activity of providing for or maintaining by supplying with money or necessities
+II) aiding the cause or policy or interests of
+III) something providing immaterial assistance to a person or cause or interest
+IV) a military operation (often involving new supplies of men and materiel) to strengthen a military force or aid in the performance of its mission
+V) documentary validation
+VI) the financial means whereby one lives
+VII) supporting structure that holds up or provides a foundation
+VIII) the act of bearing the weight of or strengthening
+IX) a musical part (vocal or instrumental) that supports or provides background for other musical parts
+X) any device that bears the weight of another thing
+XI) financial resources provided to make some project possible
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 11
+========
+
+PROMPT: Which of the following senses is correct for the word "know" in the following text:
+
+ Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` know a good thing when they see it , `` and that the crusade was based on greed or the profit motive .
+
+I) be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about
+II) know how to do or perform something
+III) be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt
+IV) be familiar or acquainted with a person or an object
+V) have firsthand knowledge of states, situations, emotions, or sensations
+VI) accept (someone) to be what is claimed or accept his power and authority
+VII) have fixed in the mind
+VIII) have sexual intercourse with
+IX) know the nature or character of
+X) be able to distinguish, recognize as being different
+XI) perceive as familiar
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 10
+========
+
+PROMPT: Which of the following senses is correct for the word "thing" in the following text:
+
+ Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` know a good thing when they see it , `` and that the crusade was based on greed or the profit motive .
+
+I) a special situation
+II) an action
+III) a special abstraction
+IV) an artifact
+V) an event
+VI) a vaguely specified concern
+VII) a statement regarded as an object
+VIII) an entity that is not named specifically
+IX) any attribute or quality considered as having its own existence
+X) a special objective
+XI) a persistent illogical feeling of desire or aversion
+XII) a separate and self-contained entity
+
+Do not provide explanations. Just output the choice.
+RESULT: VIII
+Gold answer: 6
+========
+
+PROMPT: Which of the following senses is correct for the word "see" in the following text:
+
+ Of the approximately 200 sponsors of the recent march in Washington for the homeless , you chose to cite such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen , insinuating that the march got its major support from self-serving groups that `` know a good thing when they see it , `` and that the crusade was based on greed or the profit motive .
+
+I) perceive by sight or have the power to perceive by sight
+II) perceive (an idea or situation) mentally
+III) perceive or be contemporaneous with
+IV) imagine; conceive of; see in one's mind
+V) deem to be
+VI) get to know or become aware of, usually accidentally
+VII) see or watch
+VIII) come together
+IX) find out, learn, or determine with certainty, usually by making an inquiry or other effort
+X) be careful or certain to do something; make certain of something
+XI) go to see for professional or business reasons
+XII) go to see for a social visit
+XIII) go to see a place, as for entertainment
+XIV) take charge of or deal with
+XV) receive as a specified guest
+XVI) date regularly; have a steady relationship with
+XVII) see and understand, have a good eye
+XVIII) deliberate or decide
+XIX) observe as if with an eye
+XX) observe, check out, and look over carefully or inspect
+XXI) go or live through
+XXII) accompany or escort
+XXIII) match or meet
+XXIV) make sense of; assign a meaning to
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "mention" in the following text:
+
+ Why did n't you mention the YMCA or the YWCA or Catholic Charities USA or a hundred other nonprofit organizations that participated in the march ?
+
+I) make reference to
+II) make mention of
+III) commend
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "participated" in the following text:
+
+ Why did n't you mention the YMCA or the YWCA or Catholic Charities USA or a hundred other nonprofit organizations that participated in the march ?
+
+I) share in something
+II) become a participant; be involved in
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "examinations" in the following text:
+
+ As for the findings on the 203 Baltimore homeless who underwent psychiatric examinations , I suggest you conduct your own survey .
+
+I) the act of examining something closely (as for mistakes)
+II) a set of questions or exercises evaluating skill or knowledge
+III) formal systematic questioning
+IV) a detailed inspection of your conscience (as done daily by Jesuits)
+V) the act of giving students or candidates a test (as by questions) to determine what they know or have learned
+
+Do not provide explanations. Just output the choice.
+RESULT: V
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "survey" in the following text:
+
+ As for the findings on the 203 Baltimore homeless who underwent psychiatric examinations , I suggest you conduct your own survey .
+
+I) a detailed critical inspection
+II) short descriptive summary (of events)
+III) the act of looking or seeing or observing
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "including" in the following text:
+
+ Choose 203 business executives , including , perhaps , someone from your own staff , and put them out on the streets , to be deprived for one month of their homes , families and income .
+
+I) have as a part, be made up out of
+II) consider as part of something
+III) add as part of something else; put in as part of a set, group, or category
+IV) allow participation in or the right to be part of; permit to exercise the rights, functions, and responsibilities of
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "put" in the following text:
+
+ Choose 203 business executives , including , perhaps , someone from your own staff , and put them out on the streets , to be deprived for one month of their homes , families and income .
+
+I) put into a certain place or abstract location
+II) cause to be in a certain state; cause to be in a certain relation
+III) formulate in a particular style or language
+IV) attribute or give
+V) make an investment
+VI) estimate
+VII) cause (someone) to undergo something
+VIII) adapt
+IX) arrange thoughts, ideas, temporal events
+
+Do not provide explanations. Just output the choice.
+RESULT: VII
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "find" in the following text:
+
+ I would predict that within a short time most of them would find Thunderbird a satisfactory substitute for Chivas Regal and that their `` normal `` phobias , anxieties , depressions and substance abuse would increase dramatically .
+
+I) come upon, as if by accident; meet with
+II) discover or determine the existence, presence, or fact of
+III) come upon after searching; find the location of something that was missed or lost
+IV) establish after a calculation, investigation, experiment, survey, or study
+V) come to believe on the basis of emotion, intuitions, or indefinite grounds
+VI) perceive or be contemporaneous with
+VII) get something or somebody for a specific purpose
+VIII) make a discovery, make a new finding
+IX) make a discovery
+X) obtain through effort or management
+XI) decide on and make a declaration about
+XII) receive a specified treatment (abstract)
+XIII) perceive oneself to be in a certain condition or place
+XIV) get or find back; recover the use of
+XV) succeed in reaching; arrive at
+XVI) accept and make use of one's personality, abilities, and situation
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 5
+========
+
+PROMPT: Which of the following senses is correct for the word "begins" in the following text:
+
+ `` Feeding Frenzy `` ( Henry Holt , 326 pages , $ 19.95 ) , a highly detailed account of the Wedtech scandal , begins on a reassuring note .
+
+I) take the first step or steps in carrying out an action
+II) have a beginning, in a temporal, spatial, or evaluative sense
+III) set in motion, cause to start
+IV) begin to speak or say;  he began
+V) be the first item or point, constitute the beginning or start, come first in a series
+VI) have a beginning, of a temporal event
+VII) have a beginning characterized in some specified way
+VIII) begin an event that is implied and limited by the nature or inherent function of the direct object
+IX) achieve or accomplish in the least degree, usually used in the negative
+X) begin to speak, understand, read, and write a language
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 7
+========
+
+PROMPT: Which of the following senses is correct for the word "gives" in the following text:
+
+ Right up front in the preface , co-author William Sternberg gives us an example of his own integrity .
+
+I) cause to have, in the abstract sense or physical sense
+II) be the cause or source of
+III) transfer possession of something concrete or abstract to somebody
+IV) convey or reveal information
+V) convey, as of a compliment, regards, attention, etc.; bestow
+VI) organize or be responsible for
+VII) convey or communicate; of a smile, a look, a physical gesture
+VIII) give as a present; make a gift of
+IX) cause to happen or be responsible for
+X) dedicate
+XI) give or supply
+XII) transmit (knowledge or skills)
+XIII) bring about
+XIV) leave with; give temporarily
+XV) emit or utter
+XVI) endure the loss of
+XVII) place into the hands or custody of
+XVIII) give entirely to a specific person, activity, or cause
+XIX) give (as medicine)
+XX) give or convey physically
+XXI) bestow
+XXII) bestow, especially officially
+XXIII) move in order to make room for someone for something
+XXIV) give food to
+XXV) contribute to some cause
+XXVI) break down, literally or metaphorically
+XXVII) estimate the duration or outcome of something
+XXVIII) execute and deliver
+XXIX) deliver in exchange or recompense
+XXX) afford access to
+XXXI) present to view
+XXXII) perform for an audience
+XXXIII) be flexible under stress of physical force
+XXXIV) propose
+XXXV) accord by verdict
+XXXVI) manifest or show
+XXXVII) offer in good faith
+XXXVIII) submit for consideration, judgment, or use
+XXXIX) guide or direct, as by behavior of persuasion
+XL) allow to have or take
+XLI) inflict as a punishment
+XLII) occur
+XLIII) consent to engage in sexual intercourse with a man
+XLIV) proffer (a body part)
+
+Do not provide explanations. Just output the choice.
+RESULT: V
+Gold answer: 4
+========
+
+PROMPT: Which of the following senses is correct for the word "example" in the following text:
+
+ Right up front in the preface , co-author William Sternberg gives us an example of his own integrity .
+
+I) an item of information that is typical of a class or group
+II) a representative form or pattern
+III) something to be imitated
+IV) punishment intended as a warning to others
+V) an occurrence of something
+VI) a task performed or problem solved in order to develop skill or understanding
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "tells" in the following text:
+
+ When offered a free trip from the Bronx , Wedtech 's home , to Washington , D.C. , by one of Wedtech 's principals , he tells the reader , `` mindful of accepting anything of value from those I was writing about , I declined . ``
+
+I) express in words
+II) let something be known
+III) narrate or give a detailed account of
+IV) give instructions to or direct somebody to do something with authority
+V) discern or comprehend
+VI) inform positively and with certainty and confidence
+VII) give evidence
+VIII) mark as different
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "question" in the following text:
+
+ Any question as to why an author would believe this plaintive , high-minded note of assurance is necessary is answered by reading this book about sticky fingers and sweaty scammers .
+
+I) an instance of questioning
+II) the subject matter at issue
+III) a sentence of inquiry that asks for a reply
+IV) uncertainty about the truth or factuality or existence of something
+V) a formal proposal for action made to a deliberative assembly for discussion and vote
+VI) an informal reference to a marriage proposal
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "believe" in the following text:
+
+ Any question as to why an author would believe this plaintive , high-minded note of assurance is necessary is answered by reading this book about sticky fingers and sweaty scammers .
+
+I) accept as true; take to be true
+II) judge or regard; look upon; judge
+III) be confident about something
+IV) follow a credo; have a faith; be a believer
+V) credit with veracity
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "answered" in the following text:
+
+ Any question as to why an author would believe this plaintive , high-minded note of assurance is necessary is answered by reading this book about sticky fingers and sweaty scammers .
+
+I) react verbally
+II) respond to a signal
+III) give the correct answer or solution to
+IV) understand the meaning of
+V) give a defence or refutation of (a charge) or in (an argument)
+VI) be liable or accountable
+VII) be sufficient; be adequate, either in quality or quantity
+VIII) match or correspond
+IX) be satisfactory for; meet the requirements of or serve the purpose of
+X) react to a stimulus or command
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 4
+========
+
+PROMPT: Which of the following senses is correct for the word "lead" in the following text:
+
+ Bribe by bribe , Mr. Sternberg and his co-author , Matthew C. Harrison Jr. , lead us along the path Wedtech traveled , from its inception as a small manufacturing company to the status of full-fledged defense contractor , entrusted with the task of producing vital equipment for the Army and Navy .
+
+I) take somebody somewhere
+II) have as a result or residue
+III) tend to or result in
+IV) travel in front of; go in advance of others
+V) cause to undertake a certain action
+VI) stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point
+VII) be in charge of
+VIII) be ahead of others; be the first
+IX) be conducive to
+X) lead, as in the performance of a composition
+XI) lead, extend, or afford access
+XII) move ahead (of others) in time or space
+XIII) cause something to pass or lead somewhere
+XIV) preside over
+
+Do not provide explanations. Just output the choice.
+RESULT: XIV
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "entrusted" in the following text:
+
+ Bribe by bribe , Mr. Sternberg and his co-author , Matthew C. Harrison Jr. , lead us along the path Wedtech traveled , from its inception as a small manufacturing company to the status of full-fledged defense contractor , entrusted with the task of producing vital equipment for the Army and Navy .
+
+I) confer a trust upon
+II) put into the care or protection of someone
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "book" in the following text:
+
+ The book revolves around John Mariotta , the founder of the company , and Fred Neuberger , who became his partner soon after Wedtech 's creation .
+
+I) a written work or composition that has been published (printed on pages bound together)
+II) physical objects consisting of a number of pages bound together
+III) a compilation of the known facts regarding something or someone
+IV) a written version of a play or other dramatic composition; used in preparing for a performance
+V) a record in which commercial accounts are recorded
+VI) a collection of playing cards satisfying the rules of a card game
+VII) a collection of rules or prescribed standards on the basis of which decisions are made
+VIII) the sacred writings of Islam revealed by God to the prophet Muhammad during his life at Mecca and Medina
+IX) the sacred writings of the Christian religions
+X) a major division of a long written composition
+XI) a number of sheets (ticket or stamps etc.) bound together on one edge
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "partner" in the following text:
+
+ The book revolves around John Mariotta , the founder of the company , and Fred Neuberger , who became his partner soon after Wedtech 's creation .
+
+I) a person's partner in marriage
+II) an associate in an activity or endeavor or sphere of common interest
+III) a person who is a member of a partnership
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "started" in the following text:
+
+ Although started in 1965 , Wedtech did n't really get rolling until 1975 , when Mr. Neuberger discovered the federal government 's Section 8 A minority business program .
+
+I) take the first step or steps in carrying out an action
+II) set in motion, cause to start
+III) leave
+IV) have a beginning, in a temporal, spatial, or evaluative sense
+V) bring into being
+VI) get off the ground
+VII) move or jump suddenly, as if in surprise or alarm
+VIII) get going or set in motion
+IX) begin or set in motion
+X) begin work or acting in a certain capacity, office or job
+XI) play in the starting lineup
+XII) have a beginning characterized in some specified way
+XIII) begin an event that is implied and limited by the nature or inherent function of the direct object
+XIV) bulge outward
+
+Do not provide explanations. Just output the choice.
+RESULT: IX
+Gold answer: 5
+========
+
+PROMPT: Which of the following senses is correct for the word "get" in the following text:
+
+ Although started in 1965 , Wedtech did n't really get rolling until 1975 , when Mr. Neuberger discovered the federal government 's Section 8 A minority business program .
+
+I) come into the possession of something concrete or abstract
+II) enter or assume a certain state or condition
+III) cause to move; cause to be in a certain position or condition
+IV) receive a specified treatment (abstract)
+V) reach a destination; arrive by movement or progress
+VI) go or come after and bring or take back
+VII) go through (mental or physical states or experiences)
+VIII) take vengeance on or get even
+IX) achieve a point or goal
+X) cause to do; cause to act in a specified manner
+XI) succeed in catching or seizing, especially after a chase
+XII) come to have or undergo a change of (physical features and attributes)
+XIII) be stricken by an illness, fall victim to an illness
+XIV) communicate with a place or person; establish communication with, as if by telephone
+XV) give certain properties to something
+XVI) move into a desired direction of discourse
+XVII) grasp with the mind or develop an understanding of
+XVIII) attract and fix
+XIX) reach with a blow or hit in a particular spot
+XX) reach by calculation
+XXI) acquire as a result of some effort or action
+XXII) purchase
+XXIII) perceive by hearing
+XXIV) suffer from the receipt of
+XXV) receive as a retribution or punishment
+XXVI) leave immediately; used usually in the imperative form
+XXVII) reach and board
+XXVIII) irritate
+XXIX) evoke an emotional response
+XXX) apprehend and reproduce accurately
+XXXI) earn or achieve a base by being walked by the pitcher
+XXXII) overcome or destroy
+XXXIII) be a mystery or bewildering to
+XXXIV) take the first step or steps in carrying out an action
+XXXV) undergo (as of injuries and illnesses)
+XXXVI) make children
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 34
+========
+
+PROMPT: Which of the following senses is correct for the word "discovered" in the following text:
+
+ Although started in 1965 , Wedtech did n't really get rolling until 1975 , when Mr. Neuberger discovered the federal government 's Section 8 A minority business program .
+
+I) discover or determine the existence, presence, or fact of
+II) get to know or become aware of, usually accidentally
+III) make a discovery, make a new finding
+IV) make a discovery
+V) find unexpectedly
+VI) make known to the public information that was previously known only to a few people or that was meant to be kept a secret
+VII) see for the first time; make a discovery
+VIII) identify as in botany or biology, for example
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 5
+========
+
+PROMPT: Which of the following senses is correct for the word "awarded" in the following text:
+
+ This is a Johnson-era , Great Society creation that mandates certain government contracts be awarded noncompetitively to minority businesses .
+
+I) give, especially as an honor or reward
+II) give as judged due or on the basis of merit
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "partners" in the following text:
+
+ The two partners merely had to falsify the true ownership of the corporation .
+
+I) a person's partner in marriage
+II) an associate in an activity or endeavor or sphere of common interest
+III) a person who is a member of a partnership
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "had" in the following text:
+
+ The two partners merely had to falsify the true ownership of the corporation .
+
+I) have or possess, either in a concrete or an abstract sense
+II) have as a feature
+III) go through (mental or physical states or experiences)
+IV) have ownership or possession of
+V) cause to move; cause to be in a certain position or condition
+VI) serve oneself to, or consume regularly
+VII) have a personal or business relationship with someone
+VIII) organize or be responsible for
+IX) have left
+X) be confronted with
+XI) undergo
+XII) suffer from; be ill with
+XIII) cause to do; cause to act in a specified manner
+XIV) receive willingly something given or offered
+XV) get something; come into possession of
+XVI) undergo (as of injuries and illnesses)
+XVII) achieve a point or goal
+XVIII) cause to be born
+XIX) have sex with; archaic use
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 13
+========
+
+PROMPT: Which of the following senses is correct for the word "ownership" in the following text:
+
+ The two partners merely had to falsify the true ownership of the corporation .
+
+I) the relation of an owner to the thing possessed; possession with the right to transfer possession to others
+II) the act of having and controlling property
+III) the state or fact of being an owner
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "area" in the following text:
+
+ Besides being a `` minority-owned company `` Wedtech was located in the South Bronx , a blighted area , made famous by Jimmy Carter in his 1976 presidential campaign .
+
+I) a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)
+II) a subject of study
+III) a part of an animal that has a special function or is supplied by a given artery or nerve
+IV) a particular environment or walk of life
+V) a part of a structure having some specific characteristic or function
+VI) the extent of a 2-dimensional surface enclosed within a boundary
+
+Do not provide explanations. Just output the choice.
+RESULT: VI
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "made" in the following text:
+
+ Besides being a `` minority-owned company `` Wedtech was located in the South Bronx , a blighted area , made famous by Jimmy Carter in his 1976 presidential campaign .
+
+I) engage in
+II) give certain properties to something
+III) make or cause to be or to become
+IV) cause to do; cause to act in a specified manner
+V) give rise to; cause to happen or occur, not always intentionally
+VI) create or manufacture a man-made product
+VII) make, formulate, or derive in the mind
+VIII) compel or make somebody or something to act in a certain way
+IX) create by artistic means
+X) earn on some commercial or business transaction; earn as salary or wages
+XI) create or design, often in a certain way
+XII) to compose or represent:
+XIII) reach a goal, e.g.,
+XIV) be or be capable of being changed or made into
+XV) make by shaping or bringing together constituents
+XVI) perform or carry out
+XVII) make by combining materials and parts
+XVIII) change from one form into another
+XIX) act in a certain way so as to acquire
+XX) charge with a function; charge to be
+XXI) achieve a point or goal
+XXII) reach a destination, either real or abstract
+XXIII) institute, enact, or establish
+XXIV) carry out or commit
+XXV) form by assembling individuals or constituents
+XXVI) organize or be responsible for
+XXVII) put in order or neaten
+XXVIII) head into a specified direction
+XXIX) have a bowel movement
+XXX) undergo fabrication or creation
+XXXI) be suitable for
+XXXII) add up to
+XXXIII) amount to
+XXXIV) constitute the essence of
+XXXV) appear to begin an activity
+XXXVI) proceed along a path
+XXXVII) reach in time
+XXXVIII) gather and light the materials for
+XXXIX) prepare for eating by applying heat
+XL) induce to have sex
+XLI) assure the success of
+XLII) represent fictitiously, as in a play, or pretend to be or act like
+XLIII) consider as being
+XLIV) calculate as being
+XLV) cause to be enjoyable or pleasurable
+XLVI) favor the development of
+XLVII) develop into
+XLVIII) behave in a certain way
+XLIX) eliminate urine
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "kept" in the following text:
+
+ The company plugged itself right into Carter campaign rhetoric about rebuilding the South Bronx and kept using the minority -- South Bronx angle through the Reagan '80s .
+
+I) keep in a certain state, position, or activity; e.g.,
+II) continue a certain state, condition, or activity
+III) retain possession of
+IV) stop (someone or something) from doing something or being in a certain state
+V) conform one's action or practice to
+VI) stick to correctly or closely
+VII) look after; be the keeper of; have charge of
+VIII) maintain by writing regular records
+IX) supply with room and board
+X) allow to remain in a place or position or maintain a property or feature
+XI) supply with necessities and support
+XII) fail to spoil or rot
+XIII) behave as expected during of holidays or rites
+XIV) keep under control; keep in check
+XV) maintain in safety from injury, harm, or danger
+XVI) raise
+XVII) retain rights to
+XVIII) store or keep customarily
+XIX) have as a supply
+XX) maintain for use and service
+XXI) hold and prevent from leaving
+XXII) prevent (food) from rotting
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "Starting" in the following text:
+
+ Starting with Congressman Mario Biaggi now serving a jail sentence , the company began a career of bribing federal , state and local public officials and those close to public officials , right up to and including E. Robert Wallach , close friend and adviser to former Attorney General Ed Meese .
+
+I) take the first step or steps in carrying out an action
+II) set in motion, cause to start
+III) leave
+IV) have a beginning, in a temporal, spatial, or evaluative sense
+V) bring into being
+VI) get off the ground
+VII) move or jump suddenly, as if in surprise or alarm
+VIII) get going or set in motion
+IX) begin or set in motion
+X) begin work or acting in a certain capacity, office or job
+XI) play in the starting lineup
+XII) have a beginning characterized in some specified way
+XIII) begin an event that is implied and limited by the nature or inherent function of the direct object
+XIV) bulge outward
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "sentence" in the following text:
+
+ Starting with Congressman Mario Biaggi now serving a jail sentence , the company began a career of bribing federal , state and local public officials and those close to public officials , right up to and including E. Robert Wallach , close friend and adviser to former Attorney General Ed Meese .
+
+I) a string of words satisfying the grammatical rules of a language
+II) (criminal law) a final judgment of guilty in a criminal case and the punishment that is imposed
+III) the period of time a prisoner is imprisoned
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "career" in the following text:
+
+ Starting with Congressman Mario Biaggi now serving a jail sentence , the company began a career of bribing federal , state and local public officials and those close to public officials , right up to and including E. Robert Wallach , close friend and adviser to former Attorney General Ed Meese .
+
+I) the particular occupation for which you are trained
+II) the general progression of your working or professional life
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "including" in the following text:
+
+ Starting with Congressman Mario Biaggi now serving a jail sentence , the company began a career of bribing federal , state and local public officials and those close to public officials , right up to and including E. Robert Wallach , close friend and adviser to former Attorney General Ed Meese .
+
+I) have as a part, be made up out of
+II) consider as part of something
+III) add as part of something else; put in as part of a set, group, or category
+IV) allow participation in or the right to be part of; permit to exercise the rights, functions, and responsibilities of
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "made" in the following text:
+
+ It made ample use of the modern techniques of influence peddling , retaining politically connected `` respectable `` law firms , investment bankers and political consultants , including Reagan confidant Lyn Nofzinger .
+
+I) engage in
+II) give certain properties to something
+III) make or cause to be or to become
+IV) cause to do; cause to act in a specified manner
+V) give rise to; cause to happen or occur, not always intentionally
+VI) create or manufacture a man-made product
+VII) make, formulate, or derive in the mind
+VIII) compel or make somebody or something to act in a certain way
+IX) create by artistic means
+X) earn on some commercial or business transaction; earn as salary or wages
+XI) create or design, often in a certain way
+XII) to compose or represent:
+XIII) reach a goal, e.g.,
+XIV) be or be capable of being changed or made into
+XV) make by shaping or bringing together constituents
+XVI) perform or carry out
+XVII) make by combining materials and parts
+XVIII) change from one form into another
+XIX) act in a certain way so as to acquire
+XX) charge with a function; charge to be
+XXI) achieve a point or goal
+XXII) reach a destination, either real or abstract
+XXIII) institute, enact, or establish
+XXIV) carry out or commit
+XXV) form by assembling individuals or constituents
+XXVI) organize or be responsible for
+XXVII) put in order or neaten
+XXVIII) head into a specified direction
+XXIX) have a bowel movement
+XXX) undergo fabrication or creation
+XXXI) be suitable for
+XXXII) add up to
+XXXIII) amount to
+XXXIV) constitute the essence of
+XXXV) appear to begin an activity
+XXXVI) proceed along a path
+XXXVII) reach in time
+XXXVIII) gather and light the materials for
+XXXIX) prepare for eating by applying heat
+XL) induce to have sex
+XLI) assure the success of
+XLII) represent fictitiously, as in a play, or pretend to be or act like
+XLIII) consider as being
+XLIV) calculate as being
+XLV) cause to be enjoyable or pleasurable
+XLVI) favor the development of
+XLVII) develop into
+XLVIII) behave in a certain way
+XLIX) eliminate urine
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "use" in the following text:
+
+ It made ample use of the modern techniques of influence peddling , retaining politically connected `` respectable `` law firms , investment bankers and political consultants , including Reagan confidant Lyn Nofzinger .
+
+I) the act of using
+II) what something is used for
+III) a particular service
+IV) (economics) the utilization of economic goods to satisfy needs or in manufacturing
+V) (psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition
+VI) exerting shrewd or devious influence especially for one's own advantage
+VII) (law) the exercise of the legal right to enjoy the benefits of owning property
+
+Do not provide explanations. Just output the choice.
+RESULT: VI
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "including" in the following text:
+
+ It made ample use of the modern techniques of influence peddling , retaining politically connected `` respectable `` law firms , investment bankers and political consultants , including Reagan confidant Lyn Nofzinger .
+
+I) have as a part, be made up out of
+II) consider as part of something
+III) add as part of something else; put in as part of a set, group, or category
+IV) allow participation in or the right to be part of; permit to exercise the rights, functions, and responsibilities of
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "used" in the following text:
+
+ Wedtech management used the merit system .
+
+I) put into service; make work or employ for a particular purpose or for its inherent or natural purpose
+II) take or consume (regularly or habitually)
+III) use up, consume fully
+IV) seek or achieve an end by using to one's advantage
+V) avail oneself to
+VI) habitually do something (use only in the past tense)
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "system" in the following text:
+
+ Wedtech management used the merit system .
+
+I) instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity
+II) a group of independent but interrelated elements comprising a unified whole
+III) (physical chemistry) a sample of matter in which substances in different phases are in equilibrium
+IV) a complex of methods or rules governing behavior
+V) an organized structure for arranging or classifying
+VI) a group of physiologically or anatomically related organs or parts
+VII) a procedure or process for obtaining an objective
+VIII) the living body considered as made up of interdependent components forming a unified whole
+IX) an ordered manner; orderliness by virtue of being methodical and well organized
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 4
+========
+
+PROMPT: Which of the following senses is correct for the word "found" in the following text:
+
+ If you were not an effective crook , you found yourself out in the cold , a fate that eventually befell Mr. Mariotta , the firm 's semiliterate `` minority `` person .
+
+I) set up or found
+II) set up or lay the groundwork for
+III) use as a basis for; found on
+IV) come upon, as if by accident; meet with
+V) discover or determine the existence, presence, or fact of
+VI) come upon after searching; find the location of something that was missed or lost
+VII) establish after a calculation, investigation, experiment, survey, or study
+VIII) come to believe on the basis of emotion, intuitions, or indefinite grounds
+IX) perceive or be contemporaneous with
+X) get something or somebody for a specific purpose
+XI) make a discovery, make a new finding
+XII) make a discovery
+XIII) obtain through effort or management
+XIV) decide on and make a declaration about
+XV) receive a specified treatment (abstract)
+XVI) perceive oneself to be in a certain condition or place
+XVII) get or find back; recover the use of
+XVIII) succeed in reaching; arrive at
+XIX) accept and make use of one's personality, abilities, and situation
+
+Do not provide explanations. Just output the choice.
+RESULT: VI
+Gold answer: 16
+========
+
+PROMPT: Which of the following senses is correct for the word "fate" in the following text:
+
+ If you were not an effective crook , you found yourself out in the cold , a fate that eventually befell Mr. Mariotta , the firm 's semiliterate `` minority `` person .
+
+I) an event (or a course of events) that will inevitably happen in the future
+II) the ultimate agency regarded as predetermining the course of events (often personified as a woman)
+III) your overall circumstances or condition in life (including everything that happens to you)
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "show" in the following text:
+
+ None of the scams show much ingenuity : Auditors found crookery the first day on the job .
+
+I) give an exhibition of to an interested audience
+II) establish the validity of something, as by an example, explanation or experiment
+III) provide evidence for
+IV) make visible or noticeable
+V) show in, or as in, a picture
+VI) give expression to
+VII) indicate a place, direction, person, or thing; either spatially or figuratively
+VIII) be or become visible or noticeable
+IX) indicate a certain reading; of gauges and instruments
+X) give evidence of, as of records
+XI) take (someone) to their seats, as in theaters or auditoriums
+XII) finish third or better in a horse or dog race
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "found" in the following text:
+
+ None of the scams show much ingenuity : Auditors found crookery the first day on the job .
+
+I) set up or found
+II) set up or lay the groundwork for
+III) use as a basis for; found on
+IV) come upon, as if by accident; meet with
+V) discover or determine the existence, presence, or fact of
+VI) come upon after searching; find the location of something that was missed or lost
+VII) establish after a calculation, investigation, experiment, survey, or study
+VIII) come to believe on the basis of emotion, intuitions, or indefinite grounds
+IX) perceive or be contemporaneous with
+X) get something or somebody for a specific purpose
+XI) make a discovery, make a new finding
+XII) make a discovery
+XIII) obtain through effort or management
+XIV) decide on and make a declaration about
+XV) receive a specified treatment (abstract)
+XVI) perceive oneself to be in a certain condition or place
+XVII) get or find back; recover the use of
+XVIII) succeed in reaching; arrive at
+XIX) accept and make use of one's personality, abilities, and situation
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 5
+========
+
+PROMPT: Which of the following senses is correct for the word "wrestling" in the following text:
+
+ Among the lot of them , not one is wrestling with good and evil , or especially intelligent or even temporarily insane .
+
+I) combat to overcome an opposing tendency or force
+II) engage in deep thought, consideration, or debate
+III) to move in a twisting or contorted motion, (especially when struggling)
+IV) engage in a wrestling match
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "changed" in the following text:
+
+ The one character at least somewhat interesting was Irving Louis Lobsenz , a pediatrician who changed his name to Rusty Kent London and became a master gambler and author of a book on blackjack .
+
+I) cause to change; make different; cause a transformation
+II) undergo a change; become different in essence; losing one's or its original nature
+III) become different in some particular way, without permanently losing one's or its former characteristics or essence
+IV) lay aside, abandon, or leave for another
+V) change clothes; put on different clothes
+VI) exchange or replace with another, usually of the same kind or category
+VII) give to, and receive from, one another
+VIII) change from one vehicle or transportation line to another
+IX) become deeper in tone
+X) remove or replace the coverings of
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 6
+========
+
+PROMPT: Which of the following senses is correct for the word "get" in the following text:
+
+ He enters the story toward the end , just in time to get arrested .
+
+I) come into the possession of something concrete or abstract
+II) enter or assume a certain state or condition
+III) cause to move; cause to be in a certain position or condition
+IV) receive a specified treatment (abstract)
+V) reach a destination; arrive by movement or progress
+VI) go or come after and bring or take back
+VII) go through (mental or physical states or experiences)
+VIII) take vengeance on or get even
+IX) achieve a point or goal
+X) cause to do; cause to act in a specified manner
+XI) succeed in catching or seizing, especially after a chase
+XII) come to have or undergo a change of (physical features and attributes)
+XIII) be stricken by an illness, fall victim to an illness
+XIV) communicate with a place or person; establish communication with, as if by telephone
+XV) give certain properties to something
+XVI) move into a desired direction of discourse
+XVII) grasp with the mind or develop an understanding of
+XVIII) attract and fix
+XIX) reach with a blow or hit in a particular spot
+XX) reach by calculation
+XXI) acquire as a result of some effort or action
+XXII) purchase
+XXIII) perceive by hearing
+XXIV) suffer from the receipt of
+XXV) receive as a retribution or punishment
+XXVI) leave immediately; used usually in the imperative form
+XXVII) reach and board
+XXVIII) irritate
+XXIX) evoke an emotional response
+XXX) apprehend and reproduce accurately
+XXXI) earn or achieve a base by being walked by the pitcher
+XXXII) overcome or destroy
+XXXIII) be a mystery or bewildering to
+XXXIV) take the first step or steps in carrying out an action
+XXXV) undergo (as of injuries and illnesses)
+XXXVI) make children
+
+Do not provide explanations. Just output the choice.
+RESULT: XI
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "Absorbed" in the following text:
+
+ Absorbed in doling out `` Feeding Frenzy 's `` tidbits , the authors gloss over the root causes of Wedtech , namely the Section 8 A federal program under whose auspices the scandal took place .
+
+I) become imbued
+II) take up mentally
+III) take up, as of debts or payments
+IV) take in, also metaphorically
+V) cause to become one with
+VI) suck or take up or in
+VII) devote (oneself) fully to
+VIII) assimilate or take in
+IX) consume all of one's attention or time
+
+Do not provide explanations. Just output the choice.
+RESULT: VII
+Gold answer: 9
+========
+
+PROMPT: Which of the following senses is correct for the word "authors" in the following text:
+
+ Absorbed in doling out `` Feeding Frenzy 's `` tidbits , the authors gloss over the root causes of Wedtech , namely the Section 8 A federal program under whose auspices the scandal took place .
+
+I) writes (books or stories or articles or the like) professionally (for pay)
+II) someone who originates or causes or initiates something
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "saying" in the following text:
+
+ They do at least come around to saying that the courts might want to end `` rigid affirmative action programs . ``
+
+I) express in words
+II) report or maintain
+III) express a supposition
+IV) have or contain a certain wording or form
+V) give instructions to or direct somebody to do something with authority
+VI) speak, pronounce, or utter in a certain way
+VII) communicate or express nonverbally
+VIII) utter aloud
+IX) state as one's opinion or judgement; declare
+X) recite or repeat a fixed text
+XI) indicate
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 9
+========
+
+PROMPT: Which of the following senses is correct for the word "courts" in the following text:
+
+ They do at least come around to saying that the courts might want to end `` rigid affirmative action programs . ``
+
+I) an assembly (including one or more judges) to conduct judicial business
+II) a room in which a lawcourt sits
+III) the sovereign and his advisers who are the governing power of a state
+IV) a specially marked horizontal area within which a game is played
+V) Australian woman tennis player who won many major championships (born in 1947)
+VI) the family and retinue of a sovereign or prince
+VII) a hotel for motorists; provides direct access from rooms to parking area
+VIII) a tribunal that is presided over by a magistrate or by one or more judges who administer justice according to the laws
+IX) the residence of a sovereign or nobleman
+X) an area wholly or partly surrounded by walls or buildings
+XI) respectful deference
+
+Do not provide explanations. Just output the choice.
+RESULT: VIII
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "end" in the following text:
+
+ They do at least come around to saying that the courts might want to end `` rigid affirmative action programs . ``
+
+I) have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical
+II) bring to an end or halt
+III) be the end of; be the last or concluding part of
+IV) put an end to
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "programs" in the following text:
+
+ They do at least come around to saying that the courts might want to end `` rigid affirmative action programs . ``
+
+I) a series of steps to be carried out or goals to be accomplished
+II) a system of projects or services intended to meet a public need
+III) a radio or television show
+IV) a document stating the aims and principles of a political party
+V) an announcement of the events that will occur as part of a theatrical or sporting event
+VI) an integrated course of academic studies
+VII) (computer science) a sequence of instructions that a computer can interpret and execute
+VIII) a performance (or series of performances) at a public presentation
+
+Do not provide explanations. Just output the choice.
+RESULT: VII
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "gold" in the following text:
+
+ Programs like Section 8 A are a little like leaving gold in the street and then expressing surprise when thieves walk by to scoop it up .
+
+I) coins made of gold
+II) a deep yellow color
+III) a soft yellow malleable ductile (trivalent and univalent) metallic element; occurs mainly as nuggets in rocks and alluvial deposits; does not react with most chemicals but is attacked by chlorine and aqua regia
+IV) great wealth; --Ben Jonson
+V) something likened to the metal in brightness or preciousness or superiority etc.
+
+Do not provide explanations. Just output the choice.
+RESULT: V
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "expressing" in the following text:
+
+ Programs like Section 8 A are a little like leaving gold in the street and then expressing surprise when thieves walk by to scoop it up .
+
+I) give expression to
+II) articulate; either verbally or with a cry, shout, or noise
+III) serve as a means for expressing something
+IV) indicate through a symbol, formula, etc.
+V) manifest the effects of (a gene or genetic trait)
+VI) obtain from a substance, as by mechanical action
+VII) send by rapid transport or special messenger service
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "surprise" in the following text:
+
+ Programs like Section 8 A are a little like leaving gold in the street and then expressing surprise when thieves walk by to scoop it up .
+
+I) the astonishment you feel when something totally unexpected happens to you
+II) a sudden unexpected event
+III) the act of surprising someone
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "seem" in the following text:
+
+ They take place in government programs that seem tailor-made for corruption .
+
+I) give a certain impression or have a certain outward aspect
+II) seem to be true, probable, or apparent
+III) appear to exist
+IV) appear to one's own mind or opinion
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "programs" in the following text:
+
+ Why are programs like this not eliminated ?
+
+I) a series of steps to be carried out or goals to be accomplished
+II) a system of projects or services intended to meet a public need
+III) a radio or television show
+IV) a document stating the aims and principles of a political party
+V) an announcement of the events that will occur as part of a theatrical or sporting event
+VI) an integrated course of academic studies
+VII) (computer science) a sequence of instructions that a computer can interpret and execute
+VIII) a performance (or series of performances) at a public presentation
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "provide" in the following text:
+
+ `` Feeding Frenzy `` does provide a few clues .
+
+I) give something useful or necessary to
+II) give what is desired or needed, especially support, food or sustenance
+III) determine (what is to happen in certain contingencies), especially by including a proviso condition or stipulation
+IV) mount or put up
+V) make a possibility or provide opportunity for; permit to be attainable or cause to remain
+VI) supply means of subsistence; earn a living
+VII) take measures in preparation for
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "described" in the following text:
+
+ In and around all levels of government in the U.S. are groups of people who can best be described as belonging to a political insider commercial party .
+
+I) give a description of
+II) to give an account or representation of in words
+III) make a mark or lines on a surface
+IV) identify as in botany or biology, for example
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "belonging" in the following text:
+
+ In and around all levels of government in the U.S. are groups of people who can best be described as belonging to a political insider commercial party .
+
+I) be owned by; be in the possession of
+II) be suitable or acceptable
+III) be in the right place or situation
+IV) be rightly classified in a class or category
+V) be a member, adherent, inhabitant, etc. (of a group, organization, or place)
+VI) be a part or adjunct
+
+Do not provide explanations. Just output the choice.
+RESULT: V
+Gold answer: 4
+========
+
+PROMPT: Which of the following senses is correct for the word "maintaining" in the following text:
+
+ They know that whenever government is redistributing wealth , regulating commerce or maintaining a large defense establishment , there is big money to be made in influencing , brokering or selling the processes and decisions of government .
+
+I) keep in a certain state, position, or activity; e.g.,
+II) keep in safety and protect from harm, decay, loss, or destruction
+III) supply with necessities and support
+IV) state categorically
+V) have and exercise
+VI) maintain for use and service
+VII) maintain by writing regular records
+VIII) state or assert
+IX) support against an opponent
+X) stick to correctly or closely
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "influencing" in the following text:
+
+ They know that whenever government is redistributing wealth , regulating commerce or maintaining a large defense establishment , there is big money to be made in influencing , brokering or selling the processes and decisions of government .
+
+I) have and exert influence or effect
+II) shape or influence; give direction to
+III) induce into action by using one's charm
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "have" in the following text:
+
+ They are our version of the East bloc 's Nomenklatura and they have absolutely no wish to see anything change .
+
+I) have or possess, either in a concrete or an abstract sense
+II) have as a feature
+III) go through (mental or physical states or experiences)
+IV) have ownership or possession of
+V) cause to move; cause to be in a certain position or condition
+VI) serve oneself to, or consume regularly
+VII) have a personal or business relationship with someone
+VIII) organize or be responsible for
+IX) have left
+X) be confronted with
+XI) undergo
+XII) suffer from; be ill with
+XIII) cause to do; cause to act in a specified manner
+XIV) receive willingly something given or offered
+XV) get something; come into possession of
+XVI) undergo (as of injuries and illnesses)
+XVII) achieve a point or goal
+XVIII) cause to be born
+XIX) have sex with; archaic use
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "see" in the following text:
+
+ They are our version of the East bloc 's Nomenklatura and they have absolutely no wish to see anything change .
+
+I) perceive by sight or have the power to perceive by sight
+II) perceive (an idea or situation) mentally
+III) perceive or be contemporaneous with
+IV) imagine; conceive of; see in one's mind
+V) deem to be
+VI) get to know or become aware of, usually accidentally
+VII) see or watch
+VIII) come together
+IX) find out, learn, or determine with certainty, usually by making an inquiry or other effort
+X) be careful or certain to do something; make certain of something
+XI) go to see for professional or business reasons
+XII) go to see for a social visit
+XIII) go to see a place, as for entertainment
+XIV) take charge of or deal with
+XV) receive as a specified guest
+XVI) date regularly; have a steady relationship with
+XVII) see and understand, have a good eye
+XVIII) deliberate or decide
+XIX) observe as if with an eye
+XX) observe, check out, and look over carefully or inspect
+XXI) go or live through
+XXII) accompany or escort
+XXIII) match or meet
+XXIV) make sense of; assign a meaning to
+
+Do not provide explanations. Just output the choice.
+RESULT: V
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "change" in the following text:
+
+ They are our version of the East bloc 's Nomenklatura and they have absolutely no wish to see anything change .
+
+I) cause to change; make different; cause a transformation
+II) undergo a change; become different in essence; losing one's or its original nature
+III) become different in some particular way, without permanently losing one's or its former characteristics or essence
+IV) lay aside, abandon, or leave for another
+V) change clothes; put on different clothes
+VI) exchange or replace with another, usually of the same kind or category
+VII) give to, and receive from, one another
+VIII) change from one vehicle or transportation line to another
+IX) become deeper in tone
+X) remove or replace the coverings of
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "raised" in the following text:
+
+ This is the real issue raised by the Wedtech scandal .
+
+I) raise the level or amount of something
+II) raise from a lower to a higher position
+III) cause to be heard or known; express or utter
+IV) collect funds for a specific purpose
+V) cultivate by growing, often involving improvements by means of agricultural techniques
+VI) bring up
+VII) summon into action or bring into existence, often as if by magic
+VIII) move upwards
+IX) construct, build, or erect
+X) call forth (emotions, feelings, and responses)
+XI) create a disturbance, especially by making a great noise
+XII) raise in rank or condition
+XIII) increase
+XIV) give a promotion to or assign to a higher position
+XV) cause to puff up with a leaven
+XVI) bid (one's partner's suit) at a higher level
+XVII) bet more than the previous player
+XVIII) cause to assemble or enlist in the military
+XIX) put forward for consideration or discussion
+XX) pronounce (vowels) by bringing the tongue closer to the roof of the mouth
+XXI) activate or stir up
+XXII) establish radio communications with
+XXIII) multiply (a number) by itself a specified number of times: 8 is 2 raised to the power 3
+XXIV) bring (a surface or a design) into relief and cause to project
+XXV) invigorate or heighten
+XXVI) put an end to
+XXVII) cause to become alive again
+
+Do not provide explanations. Just output the choice.
+RESULT: XII
+Gold answer: 19
+========
+
+PROMPT: Which of the following senses is correct for the word "reach" in the following text:
+
+ I had to reach back to French 101 when the monsieur avec clipboard leaned over my shoulder during the coffee phase of dinner and asked whether I wanted to ride in a montgolfiere .
+
+I) reach a destination, either real or abstract
+II) reach a point in time, or a certain state or level
+III) move forward or upward in order to touch; also in a metaphorical sense
+IV) be in or establish communication with
+V) to gain with effort
+VI) to extend as far as
+VII) reach a goal, e.g.,
+VIII) place into the hands or custody of
+IX) to exert much effort or energy
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 6
+========
+
+PROMPT: Which of the following senses is correct for the word "asked" in the following text:
+
+ I had to reach back to French 101 when the monsieur avec clipboard leaned over my shoulder during the coffee phase of dinner and asked whether I wanted to ride in a montgolfiere .
+
+I) inquire about
+II) make a request or demand for something to somebody
+III) direct or put; seek an answer to
+IV) consider obligatory; request and expect
+V) address a question to and expect an answer from
+VI) require as useful, just, or proper
+VII) require or ask for as a price or condition
+
+Do not provide explanations. Just output the choice.
+RESULT: V
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "read" in the following text:
+
+ I was a last-minute read interloping attendee at a French journalism convention and so far the festivities had been taken up entirely by eating , drinking , smoking , sleeping and drinking .
+
+I) interpret something that is written or printed
+II) have or contain a certain wording or form
+III) look at, interpret, and say out loud something that is written or printed
+IV) obtain data from magnetic tapes
+V) interpret the significance of, as of palms, tea leaves, intestines, the sky; also of human behavior
+VI) interpret something in a certain way; convey a particular meaning or impression
+VII) be a student of a certain subject
+VIII) indicate a certain reading; of gauges and instruments
+IX) audition for a stage role by reading parts of a role
+X) to hear and understand
+XI) make sense of a language
+
+Do not provide explanations. Just output the choice.
+RESULT: VIII
+Gold answer: 6
+========
+
+PROMPT: Which of the following senses is correct for the word "man" in the following text:
+
+ The man with the clipboard represented a halfhearted attempt to introduce a bit of les sportif into our itinerary .
+
+I) an adult person who is male (as opposed to a woman)
+II) someone who serves in the armed forces; a member of a military force
+III) the generic use of the word to refer to any human being
+IV) any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage
+V) a male subordinate
+VI) an adult male person who has a manly character (virile and courageous competent)
+VII) a manservant who acts as a personal attendant to his employer
+VIII) a male person who plays a significant role (husband or lover or boyfriend) in the life of a particular woman
+IX) one of the British Isles in the Irish Sea
+X) game equipment consisting of an object used in playing certain board games
+XI) all of the living human inhabitants of the earth
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "represented" in the following text:
+
+ The man with the clipboard represented a halfhearted attempt to introduce a bit of les sportif into our itinerary .
+
+I) take the place of or be parallel or equivalent to
+II) express indirectly by an image, form, or model; be a symbol
+III) be representative or typical for
+IV) be a delegate or spokesperson for; represent somebody's interest or be a proxy or substitute for, as of politicians and office holders representing their constituents, or of a tenant representing other tenants in a housing dispute
+V) serve as a means of expressing something
+VI) be characteristic of
+VII) form or compose
+VIII) be the defense counsel for someone in a trial
+IX) create an image or likeness of
+X) play a role or part
+XI) perform (a play), especially on a stage
+XII) describe or present, usually with respect to a particular quality
+XIII) point out or draw attention to in protest or remonstrance
+XIV) bring forward and present to the mind
+XV) to establish a mapping (of mathematical elements or sets)
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 7
+========
+
+PROMPT: Which of the following senses is correct for the word "introduce" in the following text:
+
+ The man with the clipboard represented a halfhearted attempt to introduce a bit of les sportif into our itinerary .
+
+I) cause to come to know personally
+II) bring something new to an environment
+III) introduce
+IV) bring in a new person or object into a familiar environment
+V) bring in or establish in a new place or environment
+VI) put or introduce into something
+VII) bring before the public for the first time, as of an actor, song, etc.
+VIII) put before (a body)
+IX) furnish with a preface or introduction
+X) be a precursor of
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 5
+========
+
+PROMPT: Which of the following senses is correct for the word "machine" in the following text:
+
+ But as the French embody a Zen-like state of blase when it comes to athletics try finding a Nautilus machine in Paris , my fellow conventioners were having none of it .
+
+I) any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks
+II) an efficient person
+III) an intricate organization that accomplishes its goals efficiently
+IV) a device for overcoming resistance at one point by applying force at some other point
+V) a group that controls the activities of a political party
+VI) a motor vehicle with four wheels; usually propelled by an internal combustion engine
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "having" in the following text:
+
+ But as the French embody a Zen-like state of blase when it comes to athletics try finding a Nautilus machine in Paris , my fellow conventioners were having none of it .
+
+I) have or possess, either in a concrete or an abstract sense
+II) have as a feature
+III) go through (mental or physical states or experiences)
+IV) have ownership or possession of
+V) cause to move; cause to be in a certain position or condition
+VI) serve oneself to, or consume regularly
+VII) have a personal or business relationship with someone
+VIII) organize or be responsible for
+IX) have left
+X) be confronted with
+XI) undergo
+XII) suffer from; be ill with
+XIII) cause to do; cause to act in a specified manner
+XIV) receive willingly something given or offered
+XV) get something; come into possession of
+XVI) undergo (as of injuries and illnesses)
+XVII) achieve a point or goal
+XVIII) cause to be born
+XIX) have sex with; archaic use
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 14
+========
+
+PROMPT: Which of the following senses is correct for the word "interrupting" in the following text:
+
+ The diners at my table simply lit more Gauloises and scoffed at the suggestion of interrupting a perfectly good Saturday morning to go golfing or even montgolfing ballooning to you ; the brothers Montgolfier , French of course , were the world 's first hot-air balloonists .
+
+I) make a break in
+II) destroy the peace or tranquility of
+III) interfere in someone else's activity
+IV) terminate
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "responses" in the following text:
+
+ Back in the U.S.A. this kind of chi-chi airborne activity wins heartwarmingly covetous responses .
+
+I) a result
+II) a bodily process occurring due to the effect of some antecedent stimulus or agent
+III) a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation
+IV) the manner in which something is greeted
+V) a phrase recited or sung by the congregation following a versicle by the priest or minister
+VI) the speech act of continuing a conversational exchange
+VII) the manner in which an electrical or mechanical device responds to an input signal or a range of input signals
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 6
+========
+
+PROMPT: Which of the following senses is correct for the word "followed" in the following text:
+
+ Americans it seems have followed Malcolm Forbes 's hot-air lead and taken to ballooning in a heady way .
+
+I) to travel behind, go after, come after
+II) be later in time
+III) come as a logical consequence; follow logically
+IV) travel along a certain course
+V) act in accordance with someone's rules, commands, or wishes
+VI) come after in time, as a result
+VII) behave in accordance or in agreement with
+VIII) be next
+IX) choose and follow; as of theories, ideas, policies, strategies or plans
+X) to bring something about at a later time than
+XI) imitate in behavior; take as a model
+XII) follow, discover, or ascertain the course of development of something
+XIII) follow with the eyes or the mind
+XIV) be the successor (of)
+XV) perform an accompaniment to
+XVI) keep informed
+XVII) to be the product or result
+XVIII) accept and follow the leadership or command or guidance of
+XIX) adhere to or practice
+XX) work in a specific place, with a specific subject, or in a specific function
+XXI) keep under surveillance
+XXII) follow in or as if in pursuit
+XXIII) grasp the meaning
+XXIV) keep to
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 11
+========
+
+PROMPT: Which of the following senses is correct for the word "passed" in the following text:
+
+ During the past 25 years , the number of balloonists those who have passed a Federal Aviation Authority lighter-than-air test have swelled from a couple hundred to several thousand , with some estimates running as high as 10,000 .
+
+I) go across or through
+II) move past
+III) make laws, bills, etc. or bring into effect by legislation
+IV) pass by
+V) place into the hands or custody of
+VI) stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point
+VII) travel past
+VIII) come to pass
+IX) go unchallenged; be approved
+X) pass time in a specific way
+XI) pass over, across, or through
+XII) transmit information
+XIII) disappear gradually
+XIV) go successfully through a test or a selection process
+XV) be superior or better than some standard
+XVI) accept or judge as acceptable
+XVII) allow to go without comment or censure
+XVIII) transfer to another; of rights or property
+XIX) pass into a specified state or condition
+XX) throw (a ball) to another player
+XXI) be inherited by
+XXII) cause to pass
+XXIII) grant authorization or clearance for
+XXIV) pass from physical life and lose all bodily attributes and functions necessary to sustain life
+XXV) eliminate from the body
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 14
+========
+
+PROMPT: Which of the following senses is correct for the word "running" in the following text:
+
+ During the past 25 years , the number of balloonists those who have passed a Federal Aviation Authority lighter-than-air test have swelled from a couple hundred to several thousand , with some estimates running as high as 10,000 .
+
+I) move fast by using one's feet, with one foot off the ground at any given time
+II) flee; take to one's heels; cut and run
+III) stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point
+IV) direct or control; projects, businesses, etc.
+V) have a particular form
+VI) move along, of liquids
+VII) perform as expected when applied
+VIII) change or be different within limits
+IX) run, stand, or compete for an office or a position
+X) cause to emit recorded audio or video
+XI) move about freely and without restraint, or act as if running around in an uncontrolled way
+XII) have a tendency or disposition to do or be something; be inclined
+XIII) be operating, running or functioning
+XIV) change from one state to another
+XV) cause to perform
+XVI) be affected by; be subjected to
+XVII) continue to exist
+XVIII) occur persistently
+XIX) carry out a process or program, as on a computer or a machine
+XX) include as the content; broadcast or publicize
+XXI) carry out
+XXII) pass over, across, or through
+XXIII) cause something to pass or lead somewhere
+XXIV) make without a miss
+XXV) deal in illegally, such as arms or liquor
+XXVI) cause an animal to move fast
+XXVII) be diffused
+XXVIII) sail before the wind
+XXIX) cover by running; run a certain distance
+XXX) extend or continue for a certain period of time
+XXXI) set animals loose to graze
+XXXII) keep company
+XXXIII) run with the ball; in such sports as football
+XXXIV) travel rapidly, by any (unspecified) means
+XXXV) travel a route regularly
+XXXVI) pursue for food or sport (as of wild animals)
+XXXVII) compete in a race
+XXXVIII) progress by being changed
+XXXIX) reduce or cause to be reduced from a solid to a liquid state, usually by heating
+XL) come unraveled or undone as if by snagging
+XLI) become undone
+
+Do not provide explanations. Just output the choice.
+RESULT: XIII
+Gold answer: 8
+========
+
+PROMPT: Which of the following senses is correct for the word "including" in the following text:
+
+ Some 30 balloon shows are held annually in the U.S. , including the world 's largest convocation of ersatz Phineas Foggs -- the nine-day Albuquerque International Balloon Fiesta that attracts some 800,000 enthusiasts and more than 500 balloons , some of which are fetchingly shaped to resemble Carmen Miranda , Garfield or a 12-story-high condom .
+
+I) have as a part, be made up out of
+II) consider as part of something
+III) add as part of something else; put in as part of a set, group, or category
+IV) allow participation in or the right to be part of; permit to exercise the rights, functions, and responsibilities of
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "attracts" in the following text:
+
+ Some 30 balloon shows are held annually in the U.S. , including the world 's largest convocation of ersatz Phineas Foggs -- the nine-day Albuquerque International Balloon Fiesta that attracts some 800,000 enthusiasts and more than 500 balloons , some of which are fetchingly shaped to resemble Carmen Miranda , Garfield or a 12-story-high condom .
+
+I) direct toward itself or oneself by means of some psychological power or physical attributes
+II) be attractive to
+III) exert a force on (a body) causing it to approach or prevent it from moving away
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "status" in the following text:
+
+ The condom balloon was denied official entry status this year .
+
+I) the relative position or standing of things or especially persons in a society
+II) a state at a particular time
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "held" in the following text:
+
+ Ballooning at the de rigueur hour of 6 a.m. held all the attraction for most people of sunrise root-canal work .
+
+I) keep in a certain state, position, or activity; e.g.,
+II) have or hold in one's hands or grip
+III) organize or be responsible for
+IV) have or possess, either in a concrete or an abstract sense
+V) keep in mind or convey as a conviction or view
+VI) maintain (a theory, thoughts, or feelings)
+VII) to close within bounds, limit or hold back from movement
+VIII) secure and keep for possible future use or application
+IX) have rightfully; of rights, titles, and offices
+X) be the physical support of; carry the weight of
+XI) contain or hold; have within
+XII) have room for; hold without crowding
+XIII) remain in a certain state, position, or condition
+XIV) support or hold in a certain manner
+XV) be valid, applicable, or true
+XVI) assert or affirm
+XVII) have as a major characteristic
+XVIII) be capable of holding or containing
+XIX) arrange for and reserve (something for someone else) in advance
+XX) protect against a challenge or attack
+XXI) bind by an obligation; cause to be indebted
+XXII) hold the attention of
+XXIII) remain committed to
+XXIV) resist or confront with resistance
+XXV) be pertinent or relevant or applicable
+XXVI) stop dealing with
+XXVII) lessen the intensity of; temper; hold in restraint; hold or keep within limits
+XXVIII) keep from departing
+XXIX) take and maintain control over, often by violent means
+XXX) cause to stop
+XXXI) cover as for protection against noise or smell
+XXXII) drink alcohol without showing ill effects
+XXXIII) aim, point, or direct
+XXXIV) declare to be
+XXXV) be in accord; be in agreement
+XXXVI) keep from exhaling or expelling
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 17
+========
+
+PROMPT: Which of the following senses is correct for the word "Feeling" in the following text:
+
+ Feeling the naggings of a culture imperative , I promptly signed up .
+
+I) undergo an emotional sensation or be in a particular state of mind
+II) come to believe on the basis of emotion, intuitions, or indefinite grounds
+III) perceive by a physical sensation, e.g., coming from the skin or muscles
+IV) be conscious of a physical, mental, or emotional state
+V) have a feeling or perception about oneself in reaction to someone's behavior or attitude
+VI) undergo passive experience of:
+VII) be felt or perceived in a certain way
+VIII) grope or feel in search of something
+IX) examine by touch
+X) examine (a body part) by palpation
+XI) find by testing or cautious exploration
+XII) produce a certain impression
+XIII) pass one's hands over the sexual organs of
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 6
+========
+
+PROMPT: Which of the following senses is correct for the word "thing" in the following text:
+
+ The first thing anybody will tell you about ballooning is that it requires zip in the way of athletic prowess , or even a measure of derring-do .
+
+I) a special situation
+II) an action
+III) a special abstraction
+IV) an artifact
+V) an event
+VI) a vaguely specified concern
+VII) a statement regarded as an object
+VIII) an entity that is not named specifically
+IX) any attribute or quality considered as having its own existence
+X) a special objective
+XI) a persistent illogical feeling of desire or aversion
+XII) a separate and self-contained entity
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 7
+========
+
+PROMPT: Which of the following senses is correct for the word "requires" in the following text:
+
+ The first thing anybody will tell you about ballooning is that it requires zip in the way of athletic prowess , or even a measure of derring-do .
+
+I) require as useful, just, or proper
+II) consider obligatory; request and expect
+III) make someone do something
+IV) have need of
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "go" in the following text:
+
+ What they wo n't tell you is not to go aloft in anything you do n't want to get wet .
+
+I) change location; move, travel, or proceed, also metaphorically
+II) follow a procedure or take a course
+III) move away from a place into another direction
+IV) enter or assume a certain state or condition
+V) be awarded; be allotted
+VI) have a particular form
+VII) stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point
+VIII) follow a certain course
+IX) be abolished or discarded
+X) be or continue to be in a certain condition
+XI) make a certain noise or sound
+XII) perform as expected when applied
+XIII) to be spent or finished
+XIV) progress by being changed
+XV) continue to live through hardship or adversity
+XVI) pass, fare, or elapse; of a certain state of affairs or action
+XVII) pass from physical life and lose all bodily attributes and functions necessary to sustain life
+XVIII) be in the right place or situation
+XIX) be ranked or compare
+XX) begin or set in motion
+XXI) have a turn; make one's move in a game
+XXII) be contained in
+XXIII) be sounded, played, or expressed
+XXIV) blend or harmonize
+XXV) lead, extend, or afford access
+XXVI) be the right size or shape; fit correctly or as desired
+XXVII) go through in search of something; search through someone's belongings in an unauthorized way
+XXVIII) be spent
+XXIX) give support (to) or make a choice (of) one out of a group or number
+XXX) stop operating or functioning
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 4
+========
+
+PROMPT: Which of the following senses is correct for the word "talking" in the following text:
+
+ I 'm talking about landing in a canal .
+
+I) exchange thoughts; talk with
+II) express in speech
+III) use language
+IV) reveal information
+V) divulge confidential information or secrets
+VI) deliver a lecture or talk
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "referred" in the following text:
+
+ To wit , my maiden voyage and novitiates are referred to as virgins began at dawn on a dew-sodden fairway and ended at noon in a soggy field .
+
+I) make reference to
+II) be relevant to
+III) think of, regard, or classify under a subsuming principle or with a general group or in relation to another
+IV) send or direct for treatment, information, or a decision
+V) seek information from
+VI) have as a meaning
+VII) use a name to designate
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "began" in the following text:
+
+ To wit , my maiden voyage and novitiates are referred to as virgins began at dawn on a dew-sodden fairway and ended at noon in a soggy field .
+
+I) take the first step or steps in carrying out an action
+II) have a beginning, in a temporal, spatial, or evaluative sense
+III) set in motion, cause to start
+IV) begin to speak or say;  he began
+V) be the first item or point, constitute the beginning or start, come first in a series
+VI) have a beginning, of a temporal event
+VII) have a beginning characterized in some specified way
+VIII) begin an event that is implied and limited by the nature or inherent function of the direct object
+IX) achieve or accomplish in the least degree, usually used in the negative
+X) begin to speak, understand, read, and write a language
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 6
+========
+
+PROMPT: Which of the following senses is correct for the word "came" in the following text:
+
+ In between came lots of coffee drinking while watching the balloons inflate and lots of standing around deciding who would fly in what balloon and in what order the baskets hold no more than four passengers .
+
+I) move toward, travel toward something or somebody or approach something or somebody
+II) reach a destination; arrive by movement or progress
+III) come to pass; arrive, as in due course
+IV) reach or enter a state, relation, condition, use, or position
+V) to be the product or result
+VI) be found or available
+VII) come forth
+VIII) be a native of
+IX) extend or reach
+X) exist or occur in a certain point in a series
+XI) cover a certain distance
+XII) come under, be classified or included
+XIII) happen as a result
+XIV) add up in number or quantity
+XV) develop into
+XVI) be received
+XVII) come to one's mind; suggest itself
+XVIII) come from; be connected by a relationship of blood, for example
+XIX) proceed or get along
+XX) experience orgasm
+XXI) have a certain priority
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 10
+========
+
+PROMPT: Which of the following senses is correct for the word "lots" in the following text:
+
+ In between came lots of coffee drinking while watching the balloons inflate and lots of standing around deciding who would fly in what balloon and in what order the baskets hold no more than four passengers .
+
+I) a large number or amount
+II) (often followed by `of') a large number or amount or extent
+III) a parcel of land having fixed boundaries
+IV) an unofficial association of people or groups
+V) your overall circumstances or condition in life (including everything that happens to you)
+VI) anything (straws or pebbles etc.) taken or chosen at random
+VII) any collection in its entirety
+VIII) (Old Testament) nephew of Abraham; God destroyed Sodom and Gomorrah but chose to spare Lot and his family who were told to flee without looking back at the destruction
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "watching" in the following text:
+
+ In between came lots of coffee drinking while watching the balloons inflate and lots of standing around deciding who would fly in what balloon and in what order the baskets hold no more than four passengers .
+
+I) look attentively
+II) follow with the eyes or the mind
+III) see or watch
+IV) observe with attention
+V) be vigilant, be on the lookout or be careful
+VI) observe or determine by looking
+VII) find out, learn, or determine with certainty, usually by making an inquiry or other effort
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "inflate" in the following text:
+
+ In between came lots of coffee drinking while watching the balloons inflate and lots of standing around deciding who would fly in what balloon and in what order the baskets hold no more than four passengers .
+
+I) exaggerate or make bigger
+II) fill with gas or air
+III) cause prices to rise by increasing the available currency or credit
+IV) increase the amount or availability of, creating a rise in value
+V) become inflated
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 5
+========
+
+PROMPT: Which of the following senses is correct for the word "standing" in the following text:
+
+ In between came lots of coffee drinking while watching the balloons inflate and lots of standing around deciding who would fly in what balloon and in what order the baskets hold no more than four passengers .
+
+I) be standing; be upright
+II) be in some specified state or condition
+III) occupy a place or location, also metaphorically
+IV) hold one's ground; maintain a position; be steadfast or upright
+V) put up with something or somebody unpleasant
+VI) have or maintain a position or stand on an issue
+VII) remain inactive or immobile
+VIII) be in effect; be or remain in force
+IX) be tall; have a height of; copula
+X) put into an upright position
+XI) withstand the force of something
+XII) be available for stud services
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "fly" in the following text:
+
+ In between came lots of coffee drinking while watching the balloons inflate and lots of standing around deciding who would fly in what balloon and in what order the baskets hold no more than four passengers .
+
+I) travel through the air; be airborne
+II) move quickly or suddenly
+III) operate an airplane
+IV) transport by aeroplane
+V) cause to fly or float
+VI) be dispersed or disseminated
+VII) change quickly from one emotional state to another
+VIII) pass away rapidly
+IX) travel in an airplane
+X) display in the air or cause to float
+XI) run away quickly
+XII) travel over (an area of land or sea) in an aircraft
+XIII) hit a fly
+XIV) decrease rapidly and disappear
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 9
+========
+
+PROMPT: Which of the following senses is correct for the word "hold" in the following text:
+
+ In between came lots of coffee drinking while watching the balloons inflate and lots of standing around deciding who would fly in what balloon and in what order the baskets hold no more than four passengers .
+
+I) keep in a certain state, position, or activity; e.g.,
+II) have or hold in one's hands or grip
+III) organize or be responsible for
+IV) have or possess, either in a concrete or an abstract sense
+V) keep in mind or convey as a conviction or view
+VI) maintain (a theory, thoughts, or feelings)
+VII) to close within bounds, limit or hold back from movement
+VIII) secure and keep for possible future use or application
+IX) have rightfully; of rights, titles, and offices
+X) be the physical support of; carry the weight of
+XI) contain or hold; have within
+XII) have room for; hold without crowding
+XIII) remain in a certain state, position, or condition
+XIV) support or hold in a certain manner
+XV) be valid, applicable, or true
+XVI) assert or affirm
+XVII) have as a major characteristic
+XVIII) be capable of holding or containing
+XIX) arrange for and reserve (something for someone else) in advance
+XX) protect against a challenge or attack
+XXI) bind by an obligation; cause to be indebted
+XXII) hold the attention of
+XXIII) remain committed to
+XXIV) resist or confront with resistance
+XXV) be pertinent or relevant or applicable
+XXVI) stop dealing with
+XXVII) lessen the intensity of; temper; hold in restraint; hold or keep within limits
+XXVIII) keep from departing
+XXIX) take and maintain control over, often by violent means
+XXX) cause to stop
+XXXI) cover as for protection against noise or smell
+XXXII) drink alcohol without showing ill effects
+XXXIII) aim, point, or direct
+XXXIV) declare to be
+XXXV) be in accord; be in agreement
+XXXVI) keep from exhaling or expelling
+
+Do not provide explanations. Just output the choice.
+RESULT: XI
+Gold answer: 18
+========
+
+PROMPT: Which of the following senses is correct for the word "followed" in the following text:
+
+ When it was n't my turn in the balloon I followed its progress from the `` chase car , `` listening to the driver holler into a walkie-talkie .
+
+I) to travel behind, go after, come after
+II) be later in time
+III) come as a logical consequence; follow logically
+IV) travel along a certain course
+V) act in accordance with someone's rules, commands, or wishes
+VI) come after in time, as a result
+VII) behave in accordance or in agreement with
+VIII) be next
+IX) choose and follow; as of theories, ideas, policies, strategies or plans
+X) to bring something about at a later time than
+XI) imitate in behavior; take as a model
+XII) follow, discover, or ascertain the course of development of something
+XIII) follow with the eyes or the mind
+XIV) be the successor (of)
+XV) perform an accompaniment to
+XVI) keep informed
+XVII) to be the product or result
+XVIII) accept and follow the leadership or command or guidance of
+XIX) adhere to or practice
+XX) work in a specific place, with a specific subject, or in a specific function
+XXI) keep under surveillance
+XXII) follow in or as if in pursuit
+XXIII) grasp the meaning
+XXIV) keep to
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 12
+========
+
+PROMPT: Which of the following senses is correct for the word "progress" in the following text:
+
+ When it was n't my turn in the balloon I followed its progress from the `` chase car , `` listening to the driver holler into a walkie-talkie .
+
+I) gradual improvement or growth or development
+II) the act of moving forward (as toward a goal)
+III) a movement forward
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 3
+========
+
+PROMPT: Which of the following senses is correct for the word "listening" in the following text:
+
+ When it was n't my turn in the balloon I followed its progress from the `` chase car , `` listening to the driver holler into a walkie-talkie .
+
+I) hear with intention
+II) listen and pay attention
+III) pay close attention to; give heed to
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "driver" in the following text:
+
+ When it was n't my turn in the balloon I followed its progress from the `` chase car , `` listening to the driver holler into a walkie-talkie .
+
+I) the operator of a motor vehicle
+II) someone who drives animals that pull a vehicle
+III) a golfer who hits the golf ball with a driver
+IV) (computer science) a program that determines how a computer will communicate with a peripheral device
+V) a golf club (a wood) with a near vertical face that is used for hitting long shots from the tee
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "came" in the following text:
+
+ After long stretches of this attendant ground activity came 20 or so lovely minutes of drifting above the Vosges watching the silver mists rise off the river and the French cows amble about the fields .
+
+I) move toward, travel toward something or somebody or approach something or somebody
+II) reach a destination; arrive by movement or progress
+III) come to pass; arrive, as in due course
+IV) reach or enter a state, relation, condition, use, or position
+V) to be the product or result
+VI) be found or available
+VII) come forth
+VIII) be a native of
+IX) extend or reach
+X) exist or occur in a certain point in a series
+XI) cover a certain distance
+XII) come under, be classified or included
+XIII) happen as a result
+XIV) add up in number or quantity
+XV) develop into
+XVI) be received
+XVII) come to one's mind; suggest itself
+XVIII) come from; be connected by a relationship of blood, for example
+XIX) proceed or get along
+XX) experience orgasm
+XXI) have a certain priority
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 10
+========
+
+PROMPT: Which of the following senses is correct for the word "drifting" in the following text:
+
+ After long stretches of this attendant ground activity came 20 or so lovely minutes of drifting above the Vosges watching the silver mists rise off the river and the French cows amble about the fields .
+
+I) be in motion due to some air or water current
+II) wander from a direct course or at random
+III) move about aimlessly or without any destination, often in search of food or employment
+IV) vary or move from a fixed point or course
+V) live unhurriedly, irresponsibly, or freely
+VI) move in an unhurried fashion
+VII) cause to be carried by a current
+VIII) drive slowly and far afield for grazing
+IX) be subject to fluctuation
+X) be piled up in banks or heaps by the force of wind or a current
+
+Do not provide explanations. Just output the choice.
+RESULT: VI
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "watching" in the following text:
+
+ After long stretches of this attendant ground activity came 20 or so lovely minutes of drifting above the Vosges watching the silver mists rise off the river and the French cows amble about the fields .
+
+I) look attentively
+II) follow with the eyes or the mind
+III) see or watch
+IV) observe with attention
+V) be vigilant, be on the lookout or be careful
+VI) observe or determine by looking
+VII) find out, learn, or determine with certainty, usually by making an inquiry or other effort
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "cows" in the following text:
+
+ After long stretches of this attendant ground activity came 20 or so lovely minutes of drifting above the Vosges watching the silver mists rise off the river and the French cows amble about the fields .
+
+I) domesticated bovine animals as a group regardless of sex or age; ; ; - Bible
+II) female of domestic cattle:
+III) mature female of mammals of which the male is called `bull'
+IV) a large unpleasant woman
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "feel" in the following text:
+
+ It 's hard not to feel that God 's in his heaven with this kind of bird's-eye view of the world , even if your pilote in silly plaid beret kept pointing out how `` belle `` it all was .
+
+I) undergo an emotional sensation or be in a particular state of mind
+II) come to believe on the basis of emotion, intuitions, or indefinite grounds
+III) perceive by a physical sensation, e.g., coming from the skin or muscles
+IV) be conscious of a physical, mental, or emotional state
+V) have a feeling or perception about oneself in reaction to someone's behavior or attitude
+VI) undergo passive experience of:
+VII) be felt or perceived in a certain way
+VIII) grope or feel in search of something
+IX) examine by touch
+X) examine (a body part) by palpation
+XI) find by testing or cautious exploration
+XII) produce a certain impression
+XIII) pass one's hands over the sexual organs of
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "kept" in the following text:
+
+ It 's hard not to feel that God 's in his heaven with this kind of bird's-eye view of the world , even if your pilote in silly plaid beret kept pointing out how `` belle `` it all was .
+
+I) keep in a certain state, position, or activity; e.g.,
+II) continue a certain state, condition, or activity
+III) retain possession of
+IV) stop (someone or something) from doing something or being in a certain state
+V) conform one's action or practice to
+VI) stick to correctly or closely
+VII) look after; be the keeper of; have charge of
+VIII) maintain by writing regular records
+IX) supply with room and board
+X) allow to remain in a place or position or maintain a property or feature
+XI) supply with necessities and support
+XII) fail to spoil or rot
+XIII) behave as expected during of holidays or rites
+XIV) keep under control; keep in check
+XV) maintain in safety from injury, harm, or danger
+XVI) raise
+XVII) retain rights to
+XVIII) store or keep customarily
+XIX) have as a supply
+XX) maintain for use and service
+XXI) hold and prevent from leaving
+XXII) prevent (food) from rotting
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "came" in the following text:
+
+ Eventually little French farmers and their little French farmwives came out of their stone houses and put their hands above their tiny eyes and squinted at us .
+
+I) move toward, travel toward something or somebody or approach something or somebody
+II) reach a destination; arrive by movement or progress
+III) come to pass; arrive, as in due course
+IV) reach or enter a state, relation, condition, use, or position
+V) to be the product or result
+VI) be found or available
+VII) come forth
+VIII) be a native of
+IX) extend or reach
+X) exist or occur in a certain point in a series
+XI) cover a certain distance
+XII) come under, be classified or included
+XIII) happen as a result
+XIV) add up in number or quantity
+XV) develop into
+XVI) be received
+XVII) come to one's mind; suggest itself
+XVIII) come from; be connected by a relationship of blood, for example
+XIX) proceed or get along
+XX) experience orgasm
+XXI) have a certain priority
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "See" in the following text:
+
+ See , the other rule of thumb about ballooning is that you ca n't steer .
+
+I) perceive by sight or have the power to perceive by sight
+II) perceive (an idea or situation) mentally
+III) perceive or be contemporaneous with
+IV) imagine; conceive of; see in one's mind
+V) deem to be
+VI) get to know or become aware of, usually accidentally
+VII) see or watch
+VIII) come together
+IX) find out, learn, or determine with certainty, usually by making an inquiry or other effort
+X) be careful or certain to do something; make certain of something
+XI) go to see for professional or business reasons
+XII) go to see for a social visit
+XIII) go to see a place, as for entertainment
+XIV) take charge of or deal with
+XV) receive as a specified guest
+XVI) date regularly; have a steady relationship with
+XVII) see and understand, have a good eye
+XVIII) deliberate or decide
+XIX) observe as if with an eye
+XX) observe, check out, and look over carefully or inspect
+XXI) go or live through
+XXII) accompany or escort
+XXIII) match or meet
+XXIV) make sense of; assign a meaning to
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "heating" in the following text:
+
+ You can go only up or down by heating the balloon 's air with a propane burner , which does make the top of your head feel hot and ride the air currents .
+
+I) make hot or hotter
+II) provide with heat
+III) arouse or excite feelings and passions
+IV) gain heat or get hot
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "air" in the following text:
+
+ You can go only up or down by heating the balloon 's air with a propane burner , which does make the top of your head feel hot and ride the air currents .
+
+I) a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of
+II) the region above the ground
+III) a distinctive but intangible quality surrounding a person or thing
+IV) a slight wind (usually refreshing)
+V) the mass of air surrounding the Earth
+VI) once thought to be one of four elements composing the universe (Empedocles)
+VII) a succession of notes forming a distinctive sequence
+VIII) medium for radio and television broadcasting
+IX) travel via aircraft
+
+Do not provide explanations. Just output the choice.
+RESULT: V
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "make" in the following text:
+
+ You can go only up or down by heating the balloon 's air with a propane burner , which does make the top of your head feel hot and ride the air currents .
+
+I) engage in
+II) give certain properties to something
+III) make or cause to be or to become
+IV) cause to do; cause to act in a specified manner
+V) give rise to; cause to happen or occur, not always intentionally
+VI) create or manufacture a man-made product
+VII) make, formulate, or derive in the mind
+VIII) compel or make somebody or something to act in a certain way
+IX) create by artistic means
+X) earn on some commercial or business transaction; earn as salary or wages
+XI) create or design, often in a certain way
+XII) to compose or represent:
+XIII) reach a goal, e.g.,
+XIV) be or be capable of being changed or made into
+XV) make by shaping or bringing together constituents
+XVI) perform or carry out
+XVII) make by combining materials and parts
+XVIII) change from one form into another
+XIX) act in a certain way so as to acquire
+XX) charge with a function; charge to be
+XXI) achieve a point or goal
+XXII) reach a destination, either real or abstract
+XXIII) institute, enact, or establish
+XXIV) carry out or commit
+XXV) form by assembling individuals or constituents
+XXVI) organize or be responsible for
+XXVII) put in order or neaten
+XXVIII) head into a specified direction
+XXIX) have a bowel movement
+XXX) undergo fabrication or creation
+XXXI) be suitable for
+XXXII) add up to
+XXXIII) amount to
+XXXIV) constitute the essence of
+XXXV) appear to begin an activity
+XXXVI) proceed along a path
+XXXVII) reach in time
+XXXVIII) gather and light the materials for
+XXXIX) prepare for eating by applying heat
+XL) induce to have sex
+XLI) assure the success of
+XLII) represent fictitiously, as in a play, or pretend to be or act like
+XLIII) consider as being
+XLIV) calculate as being
+XLV) cause to be enjoyable or pleasurable
+XLVI) favor the development of
+XLVII) develop into
+XLVIII) behave in a certain way
+XLIX) eliminate urine
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "top" in the following text:
+
+ You can go only up or down by heating the balloon 's air with a propane burner , which does make the top of your head feel hot and ride the air currents .
+
+I) the upper part of anything
+II) the highest or uppermost side of anything
+III) the top or extreme point of something (usually a mountain or hill)
+IV) the first half of an inning; while the visiting team is at bat
+V) the highest level or degree attainable; the highest stage of development
+VI) the greatest possible intensity
+VII) platform surrounding the head of a lower mast
+VIII) a conical child's plaything tapering to a steel point on which it can be made to spin
+IX) covering for a hole (especially a hole in the top of a container)
+X) a garment (especially for women) that extends from the shoulders to the waist or hips
+XI) a canvas tent to house the audience at a circus performance
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "feel" in the following text:
+
+ You can go only up or down by heating the balloon 's air with a propane burner , which does make the top of your head feel hot and ride the air currents .
+
+I) undergo an emotional sensation or be in a particular state of mind
+II) come to believe on the basis of emotion, intuitions, or indefinite grounds
+III) perceive by a physical sensation, e.g., coming from the skin or muscles
+IV) be conscious of a physical, mental, or emotional state
+V) have a feeling or perception about oneself in reaction to someone's behavior or attitude
+VI) undergo passive experience of:
+VII) be felt or perceived in a certain way
+VIII) grope or feel in search of something
+IX) examine by touch
+X) examine (a body part) by palpation
+XI) find by testing or cautious exploration
+XII) produce a certain impression
+XIII) pass one's hands over the sexual organs of
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 7
+========
+
+PROMPT: Which of the following senses is correct for the word "ride" in the following text:
+
+ You can go only up or down by heating the balloon 's air with a propane burner , which does make the top of your head feel hot and ride the air currents .
+
+I) sit and travel on the back of animal, usually while controlling its motions
+II) be carried or travel on or in a vehicle
+III) continue undisturbed and without interference
+IV) move like a floating object
+V) harass with persistent criticism or carping
+VI) be sustained or supported or borne
+VII) have certain properties when driven
+VIII) be contingent on
+IX) lie moored or anchored
+X) sit on and control a vehicle
+XI) climb up on the body
+XII) ride over, along, or through
+XIII) keep partially engaged by slightly depressing a pedal with the foot
+XIV) copulate with
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 6
+========
+
+PROMPT: Which of the following senses is correct for the word "makes" in the following text:
+
+ Which makes the chase car necessary .
+
+I) engage in
+II) give certain properties to something
+III) make or cause to be or to become
+IV) cause to do; cause to act in a specified manner
+V) give rise to; cause to happen or occur, not always intentionally
+VI) create or manufacture a man-made product
+VII) make, formulate, or derive in the mind
+VIII) compel or make somebody or something to act in a certain way
+IX) create by artistic means
+X) earn on some commercial or business transaction; earn as salary or wages
+XI) create or design, often in a certain way
+XII) to compose or represent:
+XIII) reach a goal, e.g.,
+XIV) be or be capable of being changed or made into
+XV) make by shaping or bringing together constituents
+XVI) perform or carry out
+XVII) make by combining materials and parts
+XVIII) change from one form into another
+XIX) act in a certain way so as to acquire
+XX) charge with a function; charge to be
+XXI) achieve a point or goal
+XXII) reach a destination, either real or abstract
+XXIII) institute, enact, or establish
+XXIV) carry out or commit
+XXV) form by assembling individuals or constituents
+XXVI) organize or be responsible for
+XXVII) put in order or neaten
+XXVIII) head into a specified direction
+XXIX) have a bowel movement
+XXX) undergo fabrication or creation
+XXXI) be suitable for
+XXXII) add up to
+XXXIII) amount to
+XXXIV) constitute the essence of
+XXXV) appear to begin an activity
+XXXVI) proceed along a path
+XXXVII) reach in time
+XXXVIII) gather and light the materials for
+XXXIX) prepare for eating by applying heat
+XL) induce to have sex
+XLI) assure the success of
+XLII) represent fictitiously, as in a play, or pretend to be or act like
+XLIII) consider as being
+XLIV) calculate as being
+XLV) cause to be enjoyable or pleasurable
+XLVI) favor the development of
+XLVII) develop into
+XLVIII) behave in a certain way
+XLIX) eliminate urine
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "hour" in the following text:
+
+ Most balloonists seldom go higher than 2,000 feet and most average a leisurely 5-10 miles an hour .
+
+I) a period of time equal to 1/24th of a day
+II) clock time
+III) a special and memorable period
+IV) distance measured by the time taken to cover it
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "cruising" in the following text:
+
+ When the balloon is cruising along at a steady altitude there is little sense of motion .
+
+I) drive around aimlessly but ostentatiously and at leisure
+II) travel at a moderate speed
+III) look for a sexual partner in a public place
+IV) sail or travel about for pleasure, relaxation, or sightseeing
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "ascending" in the following text:
+
+ Only when one is ascending -- or in our case descending a tad trop rapidement -- does one feel , well , airborne in a picnic basket .
+
+I) travel up,
+II) go back in order of genealogical succession
+III) become king or queen
+IV) appear to be moving upward, as by means of tendrils
+V) go along towards (a river's) source
+VI) slope upwards
+VII) come up, of celestial bodies
+VIII) move to a better position in life or to a better job; "She ascended from a life of poverty to one of great
+
+Do not provide explanations. Just output the choice.
+RESULT: VI
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "companion" in the following text:
+
+ `` What 's he doing ? `` hissed my companion , who was the only other English-speaking member of the convention and whose knuckles were white .
+
+I) a friend who is frequently in the company of another
+II) a traveler who accompanies you
+III) one paid to accompany or assist or live with another
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "pilot" in the following text:
+
+ `` Attention , `` yelled our pilot as our basket plunged into the canal .
+
+I) someone who is licensed to operate an aircraft in flight
+II) a person qualified to guide ships through difficult waters going into or out of a harbor
+III) a program exemplifying a contemplated series; intended to attract sponsors
+IV) something that serves as a model or a basis for making copies
+V) small auxiliary gas burner that provides a flame to ignite a larger gas burner
+VI) an inclined metal frame at the front of a locomotive to clear the track
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "leaping" in the following text:
+
+ `` You bet attention , `` I yelled back , leaping atop the propane tanks , `` I 'm wearing alligator loafers ! ``
+
+I) move forward by leaps and bounds
+II) pass abruptly from one state or topic to another
+III) jump down from an elevated point
+IV) cause to jump or leap
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "wearing" in the following text:
+
+ `` You bet attention , `` I yelled back , leaping atop the propane tanks , `` I 'm wearing alligator loafers ! ``
+
+I) be dressed in
+II) have on one's person
+III) have in one's aspect; wear an expression of one's attitude or personality
+IV) deteriorate through use or stress
+V) have or show an appearance of
+VI) last and be usable
+VII) go to pieces
+VIII) exhaust or get tired through overuse or great strain or stress
+IX) put clothing on one's body
+
+Do not provide explanations. Just output the choice.
+RESULT: IX
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "pilot" in the following text:
+
+ Our pilot simply laughed , fired up the burner and with another blast of flame lifted us , oh , a good 12-inches above the water level .
+
+I) someone who is licensed to operate an aircraft in flight
+II) a person qualified to guide ships through difficult waters going into or out of a harbor
+III) a program exemplifying a contemplated series; intended to attract sponsors
+IV) something that serves as a model or a basis for making copies
+V) small auxiliary gas burner that provides a flame to ignite a larger gas burner
+VI) an inclined metal frame at the front of a locomotive to clear the track
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "lifted" in the following text:
+
+ Our pilot simply laughed , fired up the burner and with another blast of flame lifted us , oh , a good 12-inches above the water level .
+
+I) raise from a lower to a higher position
+II) take hold of something and move it to a different location
+III) move upwards
+IV) move upward
+V) make audible
+VI) cancel officially
+VII) make off with belongings of others
+VIII) raise or haul up with or as if with mechanical help
+IX) invigorate or heighten
+X) raise in rank or condition
+XI) take off or away by decreasing
+XII) rise up
+XIII) pay off (a mortgage)
+XIV) take without referencing from someone else's writing or speech; of intellectual property
+XV) take illegally
+XVI) fly people or goods to or from places not accessible by other means
+XVII) take (root crops) out of the ground
+XVIII) call to stop the hunt or to retire, as of hunting dogs
+XIX) rise upward, as from pressure or moisture
+XX) put an end to
+XXI) remove (hair) by scalping
+XXII) remove from a seedbed or from a nursery
+XXIII) remove from a surface
+XXIV) perform cosmetic surgery on someone's face
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "plunged" in the following text:
+
+ We scuttled along for a few feet before he plunged us into the drink again .
+
+I) thrust or throw into
+II) drop steeply
+III) dash violently or with great speed or impetuosity
+IV) begin with vigor
+V) cause to be immersed
+VI) fall abruptly
+VII) immerse briefly into a liquid so as to wet, coat, or saturate
+VIII) devote (oneself) fully to
+
+Do not provide explanations. Just output the choice.
+RESULT: V
+Gold answer: 7
+========
+
+PROMPT: Which of the following senses is correct for the word "came" in the following text:
+
+ Eventually we came to rest in a soggy patch of field where we had the exquisite pleasure of scrambling out of the basket into the mud while the French half of our ballooning tag team scrambled in .
+
+I) move toward, travel toward something or somebody or approach something or somebody
+II) reach a destination; arrive by movement or progress
+III) come to pass; arrive, as in due course
+IV) reach or enter a state, relation, condition, use, or position
+V) to be the product or result
+VI) be found or available
+VII) come forth
+VIII) be a native of
+IX) extend or reach
+X) exist or occur in a certain point in a series
+XI) cover a certain distance
+XII) come under, be classified or included
+XIII) happen as a result
+XIV) add up in number or quantity
+XV) develop into
+XVI) be received
+XVII) come to one's mind; suggest itself
+XVIII) come from; be connected by a relationship of blood, for example
+XIX) proceed or get along
+XX) experience orgasm
+XXI) have a certain priority
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 4
+========
+
+PROMPT: Which of the following senses is correct for the word "rest" in the following text:
+
+ Eventually we came to rest in a soggy patch of field where we had the exquisite pleasure of scrambling out of the basket into the mud while the French half of our ballooning tag team scrambled in .
+
+I) not move; be in a resting position
+II) take a short break from one's activities in order to relax
+III) give a rest to
+IV) have a place in relation to something else
+V) be at rest
+VI) stay the same; remain in a certain state
+VII) be inherent or innate in
+VIII) put something in a resting position, as for support or steadying
+IX) sit, as on a branch
+X) rest on or as if on a pillow
+XI) be inactive, refrain from acting
+
+Do not provide explanations. Just output the choice.
+RESULT: V
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "pleasure" in the following text:
+
+ Eventually we came to rest in a soggy patch of field where we had the exquisite pleasure of scrambling out of the basket into the mud while the French half of our ballooning tag team scrambled in .
+
+I) a fundamental feeling that is hard to define but that people desire to experience
+II) something or someone that provides a source of happiness
+III) a formal expression
+IV) an activity that affords enjoyment
+V) sexual gratification
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "scrambling" in the following text:
+
+ Eventually we came to rest in a soggy patch of field where we had the exquisite pleasure of scrambling out of the basket into the mud while the French half of our ballooning tag team scrambled in .
+
+I) to move hurriedly
+II) climb awkwardly, as if by scrambling
+III) bring into random order
+IV) stir vigorously
+V) make unintelligible
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "got" in the following text:
+
+ Back in the chase car , we drove around some more , got stuck in a ditch , enlisted the aid of a local farmer to get out the trailer hitch and pull us out of the ditch .
+
+I) come into the possession of something concrete or abstract
+II) enter or assume a certain state or condition
+III) cause to move; cause to be in a certain position or condition
+IV) receive a specified treatment (abstract)
+V) reach a destination; arrive by movement or progress
+VI) go or come after and bring or take back
+VII) go through (mental or physical states or experiences)
+VIII) take vengeance on or get even
+IX) achieve a point or goal
+X) cause to do; cause to act in a specified manner
+XI) succeed in catching or seizing, especially after a chase
+XII) come to have or undergo a change of (physical features and attributes)
+XIII) be stricken by an illness, fall victim to an illness
+XIV) communicate with a place or person; establish communication with, as if by telephone
+XV) give certain properties to something
+XVI) move into a desired direction of discourse
+XVII) grasp with the mind or develop an understanding of
+XVIII) attract and fix
+XIX) reach with a blow or hit in a particular spot
+XX) reach by calculation
+XXI) acquire as a result of some effort or action
+XXII) purchase
+XXIII) perceive by hearing
+XXIV) suffer from the receipt of
+XXV) receive as a retribution or punishment
+XXVI) leave immediately; used usually in the imperative form
+XXVII) reach and board
+XXVIII) irritate
+XXIX) evoke an emotional response
+XXX) apprehend and reproduce accurately
+XXXI) earn or achieve a base by being walked by the pitcher
+XXXII) overcome or destroy
+XXXIII) be a mystery or bewildering to
+XXXIV) take the first step or steps in carrying out an action
+XXXV) undergo (as of injuries and illnesses)
+XXXVI) make children
+
+Do not provide explanations. Just output the choice.
+RESULT: IX
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "pull" in the following text:
+
+ Back in the chase car , we drove around some more , got stuck in a ditch , enlisted the aid of a local farmer to get out the trailer hitch and pull us out of the ditch .
+
+I) cause to move by pulling
+II) direct toward itself or oneself by means of some psychological power or physical attributes
+III) move into a certain direction
+IV) apply force so as to cause motion towards the source of the motion
+V) perform an act, usually with a negative connotation
+VI) bring, take, or pull out of a container or from under a cover
+VII) steer into a certain direction
+VIII) strain abnormally
+IX) cause to move in a certain direction by exerting a force upon, either physically or in an abstract sense
+X) operate when rowing a boat
+XI) rein in to keep from winning a race
+XII) tear or be torn violently
+XIII) hit in the direction that the player is facing when carrying through the swing
+XIV) strip of feathers
+XV) remove, usually with some force or effort; also used in an abstract sense
+XVI) take sides with; align oneself with; show strong sympathy for
+XVII) take away
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 15
+========
+
+PROMPT: Which of the following senses is correct for the word "come" in the following text:
+
+ We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+
+I) move toward, travel toward something or somebody or approach something or somebody
+II) reach a destination; arrive by movement or progress
+III) come to pass; arrive, as in due course
+IV) reach or enter a state, relation, condition, use, or position
+V) to be the product or result
+VI) be found or available
+VII) come forth
+VIII) be a native of
+IX) extend or reach
+X) exist or occur in a certain point in a series
+XI) cover a certain distance
+XII) come under, be classified or included
+XIII) happen as a result
+XIV) add up in number or quantity
+XV) develop into
+XVI) be received
+XVII) come to one's mind; suggest itself
+XVIII) come from; be connected by a relationship of blood, for example
+XIX) proceed or get along
+XX) experience orgasm
+XXI) have a certain priority
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 4
+========
+
+PROMPT: Which of the following senses is correct for the word "rest" in the following text:
+
+ We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+
+I) not move; be in a resting position
+II) take a short break from one's activities in order to relax
+III) give a rest to
+IV) have a place in relation to something else
+V) be at rest
+VI) stay the same; remain in a certain state
+VII) be inherent or innate in
+VIII) put something in a resting position, as for support or steadying
+IX) sit, as on a branch
+X) rest on or as if on a pillow
+XI) be inactive, refrain from acting
+
+Do not provide explanations. Just output the choice.
+RESULT: V
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "watched" in the following text:
+
+ We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+
+I) look attentively
+II) follow with the eyes or the mind
+III) see or watch
+IV) observe with attention
+V) be vigilant, be on the lookout or be careful
+VI) observe or determine by looking
+VII) find out, learn, or determine with certainty, usually by making an inquiry or other effort
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "included" in the following text:
+
+ We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+
+I) have as a part, be made up out of
+II) consider as part of something
+III) add as part of something else; put in as part of a set, group, or category
+IV) allow participation in or the right to be part of; permit to exercise the rights, functions, and responsibilities of
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "punching" in the following text:
+
+ We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+
+I) deliver a quick blow to
+II) drive forcibly as if by a punch
+III) make a hole into or between, as for ease of separation
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "rolling" in the following text:
+
+ We finally rendezvoused with our balloon , which had come to rest on a dirt road amid a clutch of Epinalers who watched us disassemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of yanking the balloon to the ground , punching all the air out of it , rolling it up and cramming it and the basket into the trailer .
+
+I) move by turning over or rotating
+II) move along on or as if on wheels or a wheeled vehicle
+III) occur in soft rounded shapes
+IV) flatten or spread with a roller
+V) emit, produce, or utter with a deep prolonged reverberating sound
+VI) arrange or or coil around
+VII) begin operating or running
+VIII) shape by rolling
+IX) execute a roll, in tumbling
+X) sell something to or obtain something from by energetic and especially underhanded activity
+XI) move in a wavy pattern or with a rising and falling motion
+XII) move about aimlessly or without any destination, often in search of food or employment
+XIII) move, rock, or sway from side to side
+XIV) cause to move by turning over or in a circular manner of as if on an axis
+XV) pronounce with a roll, of the phoneme /r/
+XVI) boil vigorously
+XVII) take the shape of a roll or cylinder
+XVIII) show certain properties when being rolled
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: -1
+========
+
+PROMPT: Which of the following senses is correct for the word "followed" in the following text:
+
+ It was the most exercise we 'd had all morning and it was followed by our driving immediately to the nearest watering hole .
+
+I) to travel behind, go after, come after
+II) be later in time
+III) come as a logical consequence; follow logically
+IV) travel along a certain course
+V) act in accordance with someone's rules, commands, or wishes
+VI) come after in time, as a result
+VII) behave in accordance or in agreement with
+VIII) be next
+IX) choose and follow; as of theories, ideas, policies, strategies or plans
+X) to bring something about at a later time than
+XI) imitate in behavior; take as a model
+XII) follow, discover, or ascertain the course of development of something
+XIII) follow with the eyes or the mind
+XIV) be the successor (of)
+XV) perform an accompaniment to
+XVI) keep informed
+XVII) to be the product or result
+XVIII) accept and follow the leadership or command or guidance of
+XIX) adhere to or practice
+XX) work in a specific place, with a specific subject, or in a specific function
+XXI) keep under surveillance
+XXII) follow in or as if in pursuit
+XXIII) grasp the meaning
+XXIV) keep to
+
+Do not provide explanations. Just output the choice.
+RESULT: I
+Gold answer: 6
+========
+
+PROMPT: Which of the following senses is correct for the word "meant" in the following text:
+
+ This meant returning to the golf course , where we watched a few French duffers maul the first tee while we sat under Cinzano umbrellas , me nursing an espresso and my ego .
+
+I) mean or intend to express or convey
+II) have as a logical consequence
+III) denote or connote
+IV) have in mind as a purpose
+V) have a specified degree of importance
+VI) intend to refer to
+VII) destine or designate for a certain purpose
+
+Do not provide explanations. Just output the choice.
+RESULT: IV
+Gold answer: 2
+========
+
+PROMPT: Which of the following senses is correct for the word "watched" in the following text:
+
+ This meant returning to the golf course , where we watched a few French duffers maul the first tee while we sat under Cinzano umbrellas , me nursing an espresso and my ego .
+
+I) look attentively
+II) follow with the eyes or the mind
+III) see or watch
+IV) observe with attention
+V) be vigilant, be on the lookout or be careful
+VI) observe or determine by looking
+VII) find out, learn, or determine with certainty, usually by making an inquiry or other effort
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "tee" in the following text:
+
+ This meant returning to the golf course , where we watched a few French duffers maul the first tee while we sat under Cinzano umbrellas , me nursing an espresso and my ego .
+
+I) the starting place for each hole on a golf course
+II) support holding a football on end and above the ground preparatory to the kickoff
+III) a short peg put into the ground to hold a golf ball off the ground
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "sat" in the following text:
+
+ This meant returning to the golf course , where we watched a few French duffers maul the first tee while we sat under Cinzano umbrellas , me nursing an espresso and my ego .
+
+I) be seated
+II) be around, often idly or without specific purpose
+III) take a seat
+IV) be in session
+V) assume a posture as for artistic purposes
+VI) sit and travel on the back of animal, usually while controlling its motions
+VII) be located or situated somewhere
+VIII) work or act as a baby-sitter
+IX) show to a seat; assign a seat for
+X) serve in a specific professional capacity
+
+Do not provide explanations. Just output the choice.
+RESULT: II
+Gold answer: 1
+========
+
+PROMPT: Which of the following senses is correct for the word "figured" in the following text:
+
+ Still , I figured the event 's envy-quotient back in the U.S.A. was near peerless .
+
+I) judge to be probable
+II) be or play a part of or in
+III) imagine; conceive of; see in one's mind
+IV) make a mathematical calculation or computation
+V) understand
+
+Do not provide explanations. Just output the choice.
+RESULT: III
+Gold answer: 1
+========
+

@@ -1,0 +1,5690 @@
+PROMPT: Is the sense of 'defeat' same in the following two sentences, say Yes or No:
+sentence1: It was a narrow defeat .
+sentence2: The army 's only defeat .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'penetration' same in the following two sentences, say Yes or No:
+sentence1: The penetration of upper management by women .
+sentence2: Any penetration , however slight , is sufficient to complete the offense .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'deliberation' same in the following two sentences, say Yes or No:
+sentence1: He was a man of judicial deliberation .
+sentence2: A little deliberation would have deterred them .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'navel' same in the following two sentences, say Yes or No:
+sentence1: They argued whether or not Adam had a navel .
+sentence2: You were not supposed to show your navel on television .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'afforest' same in the following two sentences, say Yes or No:
+sentence1: After we leave the quarry , we intend to afforest the land and turn it into a nature reserve .
+sentence2: Afforest the mountains .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'purchase' same in the following two sentences, say Yes or No:
+sentence1: They offer a free hamburger with the purchase of a drink .
+sentence2: They closed the purchase with a handshake .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'software' same in the following two sentences, say Yes or No:
+sentence1: Did you test the software package to ensure completeness ?
+sentence2: The market for software is expected to expand .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'push' same in the following two sentences, say Yes or No:
+sentence1: Some details got lost in the push to get the project done .
+sentence2: The army made a push toward the sea .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'include' same in the following two sentences, say Yes or No:
+sentence1: I include you in the list of culprits .
+sentence2: The list includes the names of many famous writers .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'companion' same in the following two sentences, say Yes or No:
+sentence1: His dog has been his trusted companion for the last five years .
+sentence2: Drinking companions .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'reveal' same in the following two sentences, say Yes or No:
+sentence1: The actress wo n't reveal how old she is .
+sentence2: He revealed the children found .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'raise' same in the following two sentences, say Yes or No:
+sentence1: To raise a wall , or a heap of stones .
+sentence2: Raise a barn .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'amass' same in the following two sentences, say Yes or No:
+sentence1: To amass a treasure or a fortune .
+sentence2: She is amassing a lot of data for her thesis .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'leash' same in the following two sentences, say Yes or No:
+sentence1: He 's always gotten a long leash .
+sentence2: Kept a tight leash on his emotions .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'making' same in the following two sentences, say Yes or No:
+sentence1: The making of measurements .
+sentence2: It was already in the making .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'cure' same in the following two sentences, say Yes or No:
+sentence1: Cure meats .
+sentence2: Cure hay .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'rift' same in the following two sentences, say Yes or No:
+sentence1: My marriage is in trouble , the fight created a rift between us and we ca n't reconnect .
+sentence2: The Grand Canyon is a rift in the Earth 's surface , but is smaller than some of the undersea ones .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'swim' same in the following two sentences, say Yes or No:
+sentence1: We had to swim for 20 minutes to reach the shore .
+sentence2: A big fish was swimming in the tank .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'quiet' same in the following two sentences, say Yes or No:
+sentence1: The teacher did her best to quiet the children down .
+sentence2: When you quiet , we can start talking .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'consultation' same in the following two sentences, say Yes or No:
+sentence1: A consultation of several medical specialists .
+sentence2: Frequent consultations with his lawyer .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'chiromance' same in the following two sentences, say Yes or No:
+sentence1: She refused to chiromance my fate .
+sentence2: The Gypsies chiromanced .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'work' same in the following two sentences, say Yes or No:
+sentence1: Work equals force times distance .
+sentence2: Work is done against friction to drag a bag along the ground .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'humour' same in the following two sentences, say Yes or No:
+sentence1: The sensitive subject was treated with humour , but in such way that no one was offended .
+sentence2: She has a great sense of humour , and I always laugh a lot whenever we get together .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'neighbor' same in the following two sentences, say Yes or No:
+sentence1: What is the closest neighbor to the Earth ?
+sentence2: Fort Worth is a neighbor of Dallas .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'sinking' same in the following two sentences, say Yes or No:
+sentence1: He could not control the sinking of his legs .
+sentence2: After several hours of sinking an unexpected rally rescued the market .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'sneak' same in the following two sentences, say Yes or No:
+sentence1: Sneak a look .
+sentence2: Sneak a cigarette .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'fetish' same in the following two sentences, say Yes or No:
+sentence1: I know a guy who has a foot fetish .
+sentence2: Common male fetishes are breasts , legs , hair , shoes , and underwear .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'seizure' same in the following two sentences, say Yes or No:
+sentence1: The seizure of a thief , a property , a throne , etc .
+sentence2: The search warrant permitted the seizure of evidence .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'team' same in the following two sentences, say Yes or No:
+sentence1: We need more volunteers for the netball team .
+sentence2: The IT manager leads a team of three software developers .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'conduct' same in the following two sentences, say Yes or No:
+sentence1: You can not conduct business like this .
+sentence2: To conduct the affairs of a kingdom .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'abort' same in the following two sentences, say Yes or No:
+sentence1: I wasted a year of my life working on an abort .
+sentence2: He sent a short message requesting an abort due to extreme winds in the area .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'glass' same in the following two sentences, say Yes or No:
+sentence1: She collected old glass .
+sentence2: We collected art glass .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'oppose' same in the following two sentences, say Yes or No:
+sentence1: The senator said he would oppose the bill .
+sentence2: The board opposed his motion .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'married' same in the following two sentences, say Yes or No:
+sentence1: My plan is to wait to have sex until i 'm married .
+sentence2: We invited several young marrieds .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'utility' same in the following two sentences, say Yes or No:
+sentence1: A computer system provides utility programs to perform the tasks needed by most users .
+sentence2: I 've bought a new disk utility that can recover deleted files .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'hold' same in the following two sentences, say Yes or No:
+sentence1: Hold in place .
+sentence2: She always held herself as a lady .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'center' same in the following two sentences, say Yes or No:
+sentence1: Convention center .
+sentence2: They received messages from several centers .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'morale' same in the following two sentences, say Yes or No:
+sentence1: Morale is an important quality in soldiers . With good morale they 'll charge into a hail of bullets ; without it they wo n't even cross a street .
+sentence2: After the layoffs morale was at an all time low , they were so dispirited nothing was getting done .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'picture' same in the following two sentences, say Yes or No:
+sentence1: The author gives a depressing picture of life in Poland .
+sentence2: Too often the narrative was interrupted by long word pictures .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'judge' same in the following two sentences, say Yes or No:
+sentence1: I judge a man 's character by the cut of his suit .
+sentence2: I can not judge some works of modern art .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'fire' same in the following two sentences, say Yes or No:
+sentence1: Do n't fire until you see the whites of their eyes .
+sentence2: The gun fired .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'roast' same in the following two sentences, say Yes or No:
+sentence1: Roast the turkey .
+sentence2: To roast meat on a spit .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'dress' same in the following two sentences, say Yes or No:
+sentence1: He came to the party in formal dress .
+sentence2: Fastidious about his dress .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'miss' same in the following two sentences, say Yes or No:
+sentence1: How could I miss that typo ?
+sentence2: The workers on the conveyor belt miss one out of ten .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'chip' same in the following two sentences, say Yes or No:
+sentence1: Be careful not to chip the paint .
+sentence2: Chip a tooth .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'share' same in the following two sentences, say Yes or No:
+sentence1: They share a language .
+sentence2: To share a shelter with another .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'approach' same in the following two sentences, say Yes or No:
+sentence1: Would counsel please approach the bench ? asked the judge .
+sentence2: He approached the age of manhood .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'restore' same in the following two sentences, say Yes or No:
+sentence1: Restore the emperor to the throne .
+sentence2: To restore harmony among those who are at variance .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'bell' same in the following two sentences, say Yes or No:
+sentence1: Saved by the bell .
+sentence2: She heard the distant toll of church bells .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'logic' same in the following two sentences, say Yes or No:
+sentence1: Economic logic requires it .
+sentence2: By the logic of war .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'drip' same in the following two sentences, say Yes or No:
+sentence1: After putting oil on the side of the salad , the chef should drip a little vinegar in the oil .
+sentence2: My broken pen dripped ink onto the table .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'marmalade' same in the following two sentences, say Yes or No:
+sentence1: Thick cut marmalade .
+sentence2: Lime marmalade .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'dress' same in the following two sentences, say Yes or No:
+sentence1: Parents must feed and dress their child .
+sentence2: I rose and dressed before daybreak .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'square' same in the following two sentences, say Yes or No:
+sentence1: You can compute the area of a square if you know the length of its sides .
+sentence2: A checkerboard has 64 squares .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'seating' same in the following two sentences, say Yes or No:
+sentence1: There is plenty of comfortable seating .
+sentence2: There is seating for 40 students in this classroom .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'favor' same in the following two sentences, say Yes or No:
+sentence1: She enjoyed the queen 's favor .
+sentence2: To fall out of favor .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'snorter' same in the following two sentences, say Yes or No:
+sentence1: The storm was n't long but it was a snorter .
+sentence2: A snorter of a sermon .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'producer' same in the following two sentences, say Yes or No:
+sentence1: Maine is a leading producer of potatoes .
+sentence2: This microorganism is a producer of disease .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'lock' same in the following two sentences, say Yes or No:
+sentence1: If you put the brakes on too hard , the wheels will lock .
+sentence2: She locked her jewels in the safe .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'interview' same in the following two sentences, say Yes or No:
+sentence1: The reporter gave the witness an interview .
+sentence2: My interviews with teenagers revealed a weakening of religious bonds .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'backup' same in the following two sentences, say Yes or No:
+sentence1: A traffic backup on the main street .
+sentence2: He discovered a backup in the toilet .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'lubricate' same in the following two sentences, say Yes or No:
+sentence1: Lubricate my car .
+sentence2: The liquid in this can lubricates well .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'presence' same in the following two sentences, say Yes or No:
+sentence1: He felt the presence of an evil force .
+sentence2: He sensed the presence of danger .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'bandage' same in the following two sentences, say Yes or No:
+sentence1: Bandage an incision .
+sentence2: The nurse bandaged a sprained ankle .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'move' same in the following two sentences, say Yes or No:
+sentence1: I was sitting on the sofa for a long time , I was too lazy to move .
+sentence2: We moved from our previous position .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'pitch' same in the following two sentences, say Yes or No:
+sentence1: Pitch a tent .
+sentence2: Pitch the tent over there .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'marginalization' same in the following two sentences, say Yes or No:
+sentence1: The marginalization of the underclass .
+sentence2: The marginalization of literature .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'defang' same in the following two sentences, say Yes or No:
+sentence1: Defang the poisonous snake .
+sentence2: The snake was defanged .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'sister' same in the following two sentences, say Yes or No:
+sentence1: My sister is always driving me crazy .
+sentence2: My sister married a musician .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'expose' same in the following two sentences, say Yes or No:
+sentence1: Expose the blanket to sunshine .
+sentence2: Expose your students to art .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'sound' same in the following two sentences, say Yes or No:
+sentence1: The sound of rain on the roof .
+sentence2: The beautiful sound of music .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'jolt' same in the following two sentences, say Yes or No:
+sentence1: The door closed with a jolt .
+sentence2: All the jars and jolts were smoothed out by the shock absorbers .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'fill' same in the following two sentences, say Yes or No:
+sentence1: There was not enough fill for the trench .
+sentence2: The mixer returned to the plant for another fill .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'depth' same in the following two sentences, say Yes or No:
+sentence1: The depth of the water .
+sentence2: Depth of a closet .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'nonproliferation' same in the following two sentences, say Yes or No:
+sentence1: Nuclear disarmament and nonproliferation are closely related goals .
+sentence2: They protested that the nonproliferation treaty was just a plot to maintain the hegemony of those who already had nuclear weapons .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'drag' same in the following two sentences, say Yes or No:
+sentence1: Too many laws are a drag on the use of new land .
+sentence2: Taxation is a drag on the economy .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'religion' same in the following two sentences, say Yes or No:
+sentence1: Islam is a major religion in parts of Asia and Africa .
+sentence2: Eckankar is a new religion but Zoroastrianism is an old religion .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'squash' same in the following two sentences, say Yes or No:
+sentence1: We all managed to squash into Mum 's tiny car .
+sentence2: Somehow , she squashed all her books into her backpack , which was now too heavy to carry .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'sex' same in the following two sentences, say Yes or No:
+sentence1: She did n't want to know the sex of the foetus .
+sentence2: Slime molds are sometimes erroneously said to have thirteen sexes .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'estimate' same in the following two sentences, say Yes or No:
+sentence1: I estimate this chicken to weigh three pounds .
+sentence2: He estimated what would be likely .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'relish' same in the following two sentences, say Yes or No:
+sentence1: I do n't relish the idea of going out tonight .
+sentence2: He relishes their time together .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'guard' same in the following two sentences, say Yes or No:
+sentence1: The left guard was injured on the play .
+sentence2: Guards must be good blockers .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'unleash' same in the following two sentences, say Yes or No:
+sentence1: Unleash the dogs in the park .
+sentence2: He unleashed his dog in the park .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'rock' same in the following two sentences, say Yes or No:
+sentence1: There were rocks all over the garden .
+sentence2: Thou art Peter , and upon this rock I will build my church -- Gospel According to Matthew .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'patch' same in the following two sentences, say Yes or No:
+sentence1: A patch of bad weather .
+sentence2: When ice skating , be sure to stay away from reeds , there 's always thin patches of ice there and you could fall through .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'zone' same in the following two sentences, say Yes or No:
+sentence1: The white zone is for loading and unloading only .
+sentence2: There is a no-smoking zone that extends 25 feet outside of each entrance .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'scopolamine' same in the following two sentences, say Yes or No:
+sentence1: Transdermal scopolamine is used to treat motion sickness .
+sentence2: Someone sedated with scopolamine has difficulty lying .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'assume' same in the following two sentences, say Yes or No:
+sentence1: Mr. Jones will assume the position of a lifeguard until a proper replacement is found .
+sentence2: She assumed strange manners .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'nightclub' same in the following two sentences, say Yes or No:
+sentence1: There are both gays and heteros in this nightclub .
+sentence2: The gossip columnist got his information by visiting nightclubs every night .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'flex' same in the following two sentences, say Yes or No:
+sentence1: Flex your wrists .
+sentence2: Flex a muscle .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'form' same in the following two sentences, say Yes or No:
+sentence1: Social groups form everywhere .
+sentence2: They formed a company .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'sacrifice' same in the following two sentences, say Yes or No:
+sentence1: The general had to sacrifice several soldiers to save the regiment .
+sentence2: The animals were sacrificed after the experiment .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'hem' same in the following two sentences, say Yes or No:
+sentence1: It seeped along the hem of his jacket .
+sentence2: Let down the hem .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'right' same in the following two sentences, say Yes or No:
+sentence1: We 're on the side of right in this contest .
+sentence2: Mineral rights .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'understand' same in the following two sentences, say Yes or No:
+sentence1: She did not understand her husband .
+sentence2: I understand him to be a good doctor .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'have' same in the following two sentences, say Yes or No:
+sentence1: I have a house and a car .
+sentence2: I 've got a house in the country .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'neck' same in the following two sentences, say Yes or No:
+sentence1: The horse won by a neck .
+sentence2: He admired her long graceful neck .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'pedal' same in the following two sentences, say Yes or No:
+sentence1: The pedal of a loom .
+sentence2: There are three pedals on manual cars , two on automatics .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'totality' same in the following two sentences, say Yes or No:
+sentence1: Appalled by the totality of the destruction .
+sentence2: The totality of war and its consequences .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'course' same in the following two sentences, say Yes or No:
+sentence1: The course had only nine holes .
+sentence2: The course was less than a mile .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'awareness' same in the following two sentences, say Yes or No:
+sentence1: The crash intruded on his awareness .
+sentence2: I gradually passed from sleep to full awareness .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'remove' same in the following two sentences, say Yes or No:
+sentence1: Remove a case to another court .
+sentence2: He removed his children to the countryside .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'snap' same in the following two sentences, say Yes or No:
+sentence1: If you bend it too much , it will snap .
+sentence2: He snapped his stick in anger .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'style' same in the following two sentences, say Yes or No:
+sentence1: Style the dress .
+sentence2: Style my hair .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'dignity' same in the following two sentences, say Yes or No:
+sentence1: It was beneath his dignity to cheat .
+sentence2: Showed his true dignity when under pressure .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'footing' same in the following two sentences, say Yes or No:
+sentence1: On a friendly footing .
+sentence2: They were on a friendly footing .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'kettle' same in the following two sentences, say Yes or No:
+sentence1: There 's a hot kettle of soup on the stove .
+sentence2: To cook pasta , you first need to put the kettle on .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'river' same in the following two sentences, say Yes or No:
+sentence1: The river was navigable for 50 miles .
+sentence2: Occasionally rivers overflow their banks and cause floods .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'ingenuity' same in the following two sentences, say Yes or No:
+sentence1: Poverty is the mother of ingenuity .
+sentence2: Ingenuity is one of the characteristics of a beaver .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'suit' same in the following two sentences, say Yes or No:
+sentence1: In bridge you must follow suit .
+sentence2: A flush is five cards in the same suit .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'close' same in the following two sentences, say Yes or No:
+sentence1: Close a book .
+sentence2: Close a wound .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'degree' same in the following two sentences, say Yes or No:
+sentence1: A second degree burn .
+sentence2: Murder in the second degree .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'establishment' same in the following two sentences, say Yes or No:
+sentence1: He quickly became recognized as a member of the establishment .
+sentence2: The firm celebrated twenty years since their establishment by updating their look .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'march' same in the following two sentences, say Yes or No:
+sentence1: The march of time .
+sentence2: The march of science .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'fortune' same in the following two sentences, say Yes or No:
+sentence1: It was as if fortune guided his hand .
+sentence2: Whatever my fortune may be .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'cascade' same in the following two sentences, say Yes or No:
+sentence1: Separation of isotopes by a cascade of processes .
+sentence2: Progressing in severity as though a cascade of genetic damage was occurring .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'enterprise' same in the following two sentences, say Yes or No:
+sentence1: A micro enterprise is defined as a business having 5 or fewer employees and a low seed capital .
+sentence2: A growing enterprise must have a bold leader .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'entertain' same in the following two sentences, say Yes or No:
+sentence1: Entertain interesting notions .
+sentence2: He entertained the notion of moving to South America .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'exile' same in the following two sentences, say Yes or No:
+sentence1: Men in exile dream of hope .
+sentence2: They chose exile rather than assimilation .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'reading' same in the following two sentences, say Yes or No:
+sentence1: Suggestions for further reading .
+sentence2: His main reading was detective stories .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'comply' same in the following two sentences, say Yes or No:
+sentence1: You must comply or else !
+sentence2: He complied with my instructions .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'cloud' same in the following two sentences, say Yes or No:
+sentence1: He opened the door and was greeted by a cloud of bats .
+sentence2: Clouds of blossoms .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'marshal' same in the following two sentences, say Yes or No:
+sentence1: Marshal the troops .
+sentence2: Marshal facts or arguments .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'climax' same in the following two sentences, say Yes or No:
+sentence1: The deathbed scene is the climax of the play .
+sentence2: The climax of the artist 's career .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'marry' same in the following two sentences, say Yes or No:
+sentence1: A justice of the peace will marry Jones and Smith .
+sentence2: The minister married us on Saturday .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'sex' same in the following two sentences, say Yes or No:
+sentence1: He wanted a better sex life .
+sentence2: The film contained no sex or violence .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'theology' same in the following two sentences, say Yes or No:
+sentence1: Jewish theology .
+sentence2: He studied theology at Oxford .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'void' same in the following two sentences, say Yes or No:
+sentence1: Void a plea .
+sentence2: He voided the check and returned it .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'fault' same in the following two sentences, say Yes or No:
+sentence1: The fault lies with you .
+sentence2: It was John 's fault .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'rounding' same in the following two sentences, say Yes or No:
+sentence1: Taxes are rounded off to the nearest dollar but the rounding error is surprisingly small .
+sentence2: The error in the calculation was attributable to rounding .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'devotee' same in the following two sentences, say Yes or No:
+sentence1: A devotee of classical music .
+sentence2: He was a devotee of Arnold Schwarzenegger .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'captain' same in the following two sentences, say Yes or No:
+sentence1: A captain of industry .
+sentence2: John Henry said to the captain , " A man ai n't nothing but a man . " .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'signage' same in the following two sentences, say Yes or No:
+sentence1: The signage in the airport is designed to point the way clearly to important locations .
+sentence2: The poor signage at Heathrow is only in English .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'air' same in the following two sentences, say Yes or No:
+sentence1: If you 've time to spare go by air .
+sentence2: Air travel involves too much waiting in airports .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'excursion' same in the following two sentences, say Yes or No:
+sentence1: While driving home I took an excursion and saw some deer .
+sentence2: Many summer excursions to the shore .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'suppress' same in the following two sentences, say Yes or No:
+sentence1: The rescue team managed to suppress the flow of oil by blasting the drilling hole .
+sentence2: This drug can suppress the hemorrhage .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'support' same in the following two sentences, say Yes or No:
+sentence1: I support France in the World Cup .
+sentence2: She supported him during the illness .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'popularity' same in the following two sentences, say Yes or No:
+sentence1: This gallant laboring to avoid popularity falls into a habit of affectation . — Ben Jonson .
+sentence2: His charm soon won him affection and popularity .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'shopping' same in the following two sentences, say Yes or No:
+sentence1: Does her shopping at the mall rather than down town .
+sentence2: Went shopping for a reliable plumber .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'occasion' same in the following two sentences, say Yes or No:
+sentence1: At this point , she seized the occasion to make her own observation .
+sentence2: On the occasion of his 60th birthday .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'taker' same in the following two sentences, say Yes or No:
+sentence1: She is known as quite a risk taker .
+sentence2: The study could not confirm the real percentage of drug takers in the country .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'corner' same in the following two sentences, say Yes or No:
+sentence1: Standing on the corner watching all the girls go by .
+sentence2: The liquor store on the corner also sold lottery tickets .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'zero' same in the following two sentences, say Yes or No:
+sentence1: The zero sign in American Sign Language is considered rude in some cultures .
+sentence2: The probability is 1 in 1,000,000,000,000,000 — a number having five ciphers of zeros .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'jump' same in the following two sentences, say Yes or No:
+sentence1: The parachutist did n't want to jump .
+sentence2: Every year , hundreds of people jump off the Golden Gate bridge .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'consist' same in the following two sentences, say Yes or No:
+sentence1: What does love consist in ?
+sentence2: The payment consists in food .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'opinion' same in the following two sentences, say Yes or No:
+sentence1: Truth , in matters of religion , is simply the opinion that has survived . - Oscar Wilde .
+sentence2: My opinion differs from yours .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'blood' same in the following two sentences, say Yes or No:
+sentence1: The ancients believed that blood was the seat of the emotions .
+sentence2: Blood carries oxygen and nutrients to the tissues and carries away waste products .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'palpitate' same in the following two sentences, say Yes or No:
+sentence1: When he just looks at me , my heart begins to palpitate with excitement .
+sentence2: His heart palpitated .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'wade' same in the following two sentences, say Yes or No:
+sentence1: Can we wade across the river to the other side ?
+sentence2: Wade the pond .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'keep' same in the following two sentences, say Yes or No:
+sentence1: Keep boarders .
+sentence2: He is keeping three women in the guest cottage .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'ingenuity' same in the following two sentences, say Yes or No:
+sentence1: A plot of great ingenuity .
+sentence2: The pyramids demonstrate the ingenuity of the ancient Egyptians .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'miss' same in the following two sentences, say Yes or No:
+sentence1: I miss you ! Come home soon !
+sentence2: He misses his mother .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'theory' same in the following two sentences, say Yes or No:
+sentence1: They killed him on the theory that dead men tell no tales .
+sentence2: The architect has a theory that more is less .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'need' same in the following two sentences, say Yes or No:
+sentence1: She satisfied his need for affection .
+sentence2: God has no need of men to accomplish His work .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'trade' same in the following two sentences, say Yes or No:
+sentence1: Trade in an old car for a new one .
+sentence2: The bells traded places .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'celebrate' same in the following two sentences, say Yes or No:
+sentence1: Celebrate Christmas .
+sentence2: To celebrate a birthday .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'account' same in the following two sentences, say Yes or No:
+sentence1: Do n't do it on my account .
+sentence2: The paper was rejected on account of its length .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'answer' same in the following two sentences, say Yes or No:
+sentence1: His answer to any problem was to get drunk .
+sentence2: Their answer was to sue me .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'efflux' same in the following two sentences, say Yes or No:
+sentence1: We all age through the efflux of time .
+sentence2: The efflux of matter from a boil can be painful .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'devour' same in the following two sentences, say Yes or No:
+sentence1: She intended to devour the book .
+sentence2: She devoured his novels .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'retie' same in the following two sentences, say Yes or No:
+sentence1: Retie the string and make it strong enough now .
+sentence2: She stopped walking for a moment to retie her shoe .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'manifestation' same in the following two sentences, say Yes or No:
+sentence1: A manifestation of disease .
+sentence2: A manifestation of great emotion .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'heating' same in the following two sentences, say Yes or No:
+sentence1: They have radiant heating .
+sentence2: The heating system was n't working .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'blur' same in the following two sentences, say Yes or No:
+sentence1: To blur a photograph by moving the camera while taking it .
+sentence2: The fog blurs my vision .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'martini' same in the following two sentences, say Yes or No:
+sentence1: My boss is out on another of his three martini lunches .
+sentence2: Will you join us at six o'clock for martinis ?
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'recognition' same in the following two sentences, say Yes or No:
+sentence1: Experimental psychologists measure the elapsed time from the onset of the stimulus to its recognition by the observer .
+sentence2: A politician whose recall of names was as remarkable as his recognition of faces .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'violence' same in the following two sentences, say Yes or No:
+sentence1: The storm 's violence .
+sentence2: The violence of the storm , fortunately , was more awesome than destructive .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'habit' same in the following two sentences, say Yes or No:
+sentence1: She had a habit twirling the ends of her hair .
+sentence2: Owls have nocturnal habits .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'coolant' same in the following two sentences, say Yes or No:
+sentence1: He added more coolant to the car 's radiator .
+sentence2: The atomic reactor used a gas coolant .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'station' same in the following two sentences, say Yes or No:
+sentence1: Married above her station .
+sentence2: The responsibilities of a man in his station .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'die' same in the following two sentences, say Yes or No:
+sentence1: My secret will die with me !
+sentence2: Their anger died .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'sound' same in the following two sentences, say Yes or No:
+sentence1: Sound the bell .
+sentence2: Sound a certain note .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'engage' same in the following two sentences, say Yes or No:
+sentence1: The teeth of one cogwheel engage those of another .
+sentence2: Make sure the gear is engaged .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'yoke' same in the following two sentences, say Yes or No:
+sentence1: Under the yoke of a tyrant .
+sentence2: They threw off the yoke of domination .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'rein' same in the following two sentences, say Yes or No:
+sentence1: Rein a horse .
+sentence2: He reined in his horses in front of the post office .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'tiger' same in the following two sentences, say Yes or No:
+sentence1: He 's a tiger on the tennis court .
+sentence2: It aroused the tiger in me .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'population' same in the following two sentences, say Yes or No:
+sentence1: The population of New Jersey will not stand for this !
+sentence2: They hired hunters to keep down the deer population .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'smoke' same in the following two sentences, say Yes or No:
+sentence1: Do you smoke ?
+sentence2: He 's smoking his pipe .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'clean' same in the following two sentences, say Yes or No:
+sentence1: Clean your fingernails before dinner .
+sentence2: Clean up before you see your grandparents .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'close' same in the following two sentences, say Yes or No:
+sentence1: Close the circuit .
+sentence2: Close up an umbrella .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'concord' same in the following two sentences, say Yes or No:
+sentence1: Both philosophers concord on this point .
+sentence2: Their ideas concorded .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'grip' same in the following two sentences, say Yes or No:
+sentence1: He was in the grip of a powerful emotion .
+sentence2: A good grip on French history .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'despair' same in the following two sentences, say Yes or No:
+sentence1: They were rescued from despair at the last minute .
+sentence2: In the depths of despair .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'people' same in the following two sentences, say Yes or No:
+sentence1: Old people .
+sentence2: There were at least 200 people in the audience .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'definition' same in the following two sentences, say Yes or No:
+sentence1: The definition of a telescope .
+sentence2: Exercise had given his muscles superior definition .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'pleasure' same in the following two sentences, say Yes or No:
+sentence1: The pleasure of his company .
+sentence2: He was tingling with pleasure .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'voice' same in the following two sentences, say Yes or No:
+sentence1: After the fire a still small voice . — 1 Kings 19:12 .
+sentence2: A singer takes good care of his voice .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'leviathan' same in the following two sentences, say Yes or No:
+sentence1: It was a leviathan among redwoods .
+sentence2: They were assigned the leviathan of textbooks .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'grace' same in the following two sentences, say Yes or No:
+sentence1: The Virgin lived in a state of grace .
+sentence2: It was debated whether saving grace could be obtained outside the membership of the church .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'hiccup' same in the following two sentences, say Yes or No:
+sentence1: There was a loud hiccup from the back of the room and the class erupted in laughter .
+sentence2: He has the hiccups - give him a glass of water .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'deliverable' same in the following two sentences, say Yes or No:
+sentence1: We packaged the deliverable , a program called FLOOD.EXE , in an installer file .
+sentence2: Under this contract the deliverables include both software and hardware .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'selection' same in the following two sentences, say Yes or No:
+sentence1: The store carried a large selection of shoes .
+sentence2: I 've brought a selection of fine cheeses to go with your wine .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'patent' same in the following two sentences, say Yes or No:
+sentence1: Should I patent this invention ?
+sentence2: I patented my idea .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'end' same in the following two sentences, say Yes or No:
+sentence1: The phone rang at the other end .
+sentence2: Both ends wrote at the same time .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'fill' same in the following two sentences, say Yes or No:
+sentence1: The bucket filled with rain .
+sentence2: Fill the child with pride .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'replay' same in the following two sentences, say Yes or No:
+sentence1: Replay a point .
+sentence2: We replayed the game .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'efficiency' same in the following two sentences, say Yes or No:
+sentence1: The efficiency of the planning department is deplorable .
+sentence2: She did the work with great efficiency .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'radiate' same in the following two sentences, say Yes or No:
+sentence1: This plants radiate spines in all directions .
+sentence2: Spokes radiate from the hub of the wheel .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'back' same in the following two sentences, say Yes or No:
+sentence1: To back the oars .
+sentence2: The car backed up and hit the tree .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'purse' same in the following two sentences, say Yes or No:
+sentence1: He and his wife shared a common purse .
+sentence2: He made the contribution out of his own purse .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'month' same in the following two sentences, say Yes or No:
+sentence1: July is my favourite month .
+sentence2: He paid the bill last month .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'silence' same in the following two sentences, say Yes or No:
+sentence1: He needed silence in order to sleep .
+sentence2: When the motor stopped , the silence was almost deafening .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'shade' same in the following two sentences, say Yes or No:
+sentence1: As the sun moved he readjusted the shade .
+sentence2: They used umbrellas as shades .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'probe' same in the following two sentences, say Yes or No:
+sentence1: Probe an anthill .
+sentence2: If you probe further , you may discover different reasons .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'effect' same in the following two sentences, say Yes or No:
+sentence1: The magnetic effect was greater when the rod was lengthwise .
+sentence2: The effect of the hurricane was a devastated landscape .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'blow' same in the following two sentences, say Yes or No:
+sentence1: Blow a horse .
+sentence2: To blow a horse .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'truth' same in the following two sentences, say Yes or No:
+sentence1: The situation brought home to us the blunt truth of the military threat .
+sentence2: He was famous for the truth of his portraits .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'progress' same in the following two sentences, say Yes or No:
+sentence1: Great progress in the arts .
+sentence2: Science has made extraordinary progress in the last fifty years .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'rascal' same in the following two sentences, say Yes or No:
+sentence1: That little rascal bit me !
+sentence2: If you have deer in the area , you may have to put a fence around your garden to keep the rascals out .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'suppress' same in the following two sentences, say Yes or No:
+sentence1: Suppress a yawn .
+sentence2: Hot blackcurrant juice mixed with honey may suppress cough .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'take' same in the following two sentences, say Yes or No:
+sentence1: The take must be repeated .
+sentence2: Act seven , scene three , take two .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'begin' same in the following two sentences, say Yes or No:
+sentence1: You can not even begin to understand the problem we had to deal with during the war .
+sentence2: This economic measure does n't even begin to deal with the problem of inflation .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'frost' same in the following two sentences, say Yes or No:
+sentence1: Frost the glass .
+sentence2: She frosts her hair .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'kindling' same in the following two sentences, say Yes or No:
+sentence1: Go and collect some kindling .
+sentence2: The kindlings of love .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'screen' same in the following two sentences, say Yes or No:
+sentence1: Screen the job applicants .
+sentence2: Screen the suitcases .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'magnitude' same in the following two sentences, say Yes or No:
+sentence1: About the magnitude of a small pea .
+sentence2: They tried to predict the magnitude of the explosion .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'hand' same in the following two sentences, say Yes or No:
+sentence1: Hand me the spoon , please .
+sentence2: He handed them the letter .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'poor' same in the following two sentences, say Yes or No:
+sentence1: The urban poor need assistance .
+sentence2: The poor are always with us .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'sleep' same in the following two sentences, say Yes or No:
+sentence1: We need to conduct an overnight sleep test to diagnose your sleep problem .
+sentence2: He did n't get enough sleep last night .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'impose' same in the following two sentences, say Yes or No:
+sentence1: I can not impose that I get what I want .
+sentence2: I can not impose my opinion .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'roughness' same in the following two sentences, say Yes or No:
+sentence1: The roughness of her voice was a signal to keep quiet .
+sentence2: Men associate the roughness of nonstandard working-class speech with masculinity .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'feedstock' same in the following two sentences, say Yes or No:
+sentence1: The filtered extract of the mash is the feedstock for the fermenter .
+sentence2: Bio-materials may be substituted for petrochemical feedstocks as petroleum prices rise .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'deuce' same in the following two sentences, say Yes or No:
+sentence1: Love is a bodily infirmity . . . which breaks out the deuce knows how or why ( Thackeray ) .
+sentence2: The deuce with it .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'pluck' same in the following two sentences, say Yes or No:
+sentence1: Pluck the flowers off the bush .
+sentence2: She plucked the phone from her bag and dialled .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'inexperience' same in the following two sentences, say Yes or No:
+sentence1: I failed to get the job due to inexperience .
+sentence2: Procedural inexperience created difficulties .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'show' same in the following two sentences, say Yes or No:
+sentence1: All he had to show for four years of attendance at college was a framed piece of paper .
+sentence2: She shows her dogs frequently .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'narcolepsy' same in the following two sentences, say Yes or No:
+sentence1: He believes that narcolepsy is attributable to an inability to suppress REM sleep during waking .
+sentence2: Excitement induced narcolepsy caused him to sleep through the most important events of his life .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'path' same in the following two sentences, say Yes or No:
+sentence1: The hurricane demolished houses in its path .
+sentence2: The path of a meteor , of a caravan , or of a storm .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'bar' same in the following two sentences, say Yes or No:
+sentence1: He drowned his sorrows in whiskey at the bar .
+sentence2: The street was lined with all-night bars .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'fact' same in the following two sentences, say Yes or No:
+sentence1: Your fears have no basis in fact .
+sentence2: How much of the story is fact and how much fiction is hard to tell .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'debt' same in the following two sentences, say Yes or No:
+sentence1: He is badly in debt .
+sentence2: I am in your debt .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'help' same in the following two sentences, say Yes or No:
+sentence1: He was a great help to me when I was moving house .
+sentence2: I 've printed out a list of math helps .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'triumph' same in the following two sentences, say Yes or No:
+sentence1: The triumph of knowledge .
+sentence2: The agreement was a triumph for common sense .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'standing' same in the following two sentences, say Yes or No:
+sentence1: A member in good standing .
+sentence2: Of equal standing .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'confront' same in the following two sentences, say Yes or No:
+sentence1: You must confront your opponent .
+sentence2: John confronted it with emergency measures .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'assent' same in the following two sentences, say Yes or No:
+sentence1: I will give this act my assent .
+sentence2: He gave his assent eagerly .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'precedence' same in the following two sentences, say Yes or No:
+sentence1: Its precedence as the world 's leading manufacturer of pharmaceuticals .
+sentence2: Family takes precedence over work , in an emergency .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'light' same in the following two sentences, say Yes or No:
+sentence1: They saw the light of the beacon .
+sentence2: There was a light at every corner .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'lover' same in the following two sentences, say Yes or No:
+sentence1: A lover of fine wines .
+sentence2: A lover of his country .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'comparison' same in the following two sentences, say Yes or No:
+sentence1: They made a comparison of noise levels .
+sentence2: To bring a thing into comparison with another .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'pack' same in the following two sentences, say Yes or No:
+sentence1: You had better pack your swollen ankle with ice .
+sentence2: The nurse packed gauze in the wound .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'screen' same in the following two sentences, say Yes or No:
+sentence1: A metal screen protected the observers .
+sentence2: They put screens in the windows for protection against insects .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'press' same in the following two sentences, say Yes or No:
+sentence1: Press your thumb on this spot .
+sentence2: He pressed down on the boards .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'top' same in the following two sentences, say Yes or No:
+sentence1: I do n't want to be bald , so just top my hair .
+sentence2: Top trees and bushes .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'freshness' same in the following two sentences, say Yes or No:
+sentence1: The freshness of the air revived him .
+sentence2: She loved the freshness of newly baked bread .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'dawn' same in the following two sentences, say Yes or No:
+sentence1: The dawn of civilization .
+sentence2: It was the dawn of the Roman Empire .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'overwinter' same in the following two sentences, say Yes or No:
+sentence1: Insects may overwinter in fallen fruit if it is not removed .
+sentence2: Shackleton 's men overwintered on Elephant Island .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'spin' same in the following two sentences, say Yes or No:
+sentence1: One of the planet 's moons has a slower spin than the others .
+sentence2: The car went into a spin .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'truth' same in the following two sentences, say Yes or No:
+sentence1: He thought of answering with the truth but he knew they would n't believe it .
+sentence2: Hunger and jealousy are just eternal truths of human existence .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'match' same in the following two sentences, say Yes or No:
+sentence1: Their interests did n't match , so it took a long time to agree what to do together .
+sentence2: These two copies are supposed to be identical , but they do n't match .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'unearth' same in the following two sentences, say Yes or No:
+sentence1: To unearth a secret .
+sentence2: The CIA unearthed a plot to kill the President .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'shower' same in the following two sentences, say Yes or No:
+sentence1: Her church group has planned an adoption shower .
+sentence2: Would male strippers be appropriate for the divorce shower ?
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'reunite' same in the following two sentences, say Yes or No:
+sentence1: After ten years apart , the band will reunite .
+sentence2: Two of the members tried several times , but failed to reunite the band .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'slick' same in the following two sentences, say Yes or No:
+sentence1: Careful in turn three — there 's an oil slick on the road .
+sentence2: The oil slick has now spread to cover the entire bay , critically endangering the sea life .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'heartland' same in the following two sentences, say Yes or No:
+sentence1: It was in the heartland of the French wine growing areas .
+sentence2: The home counties are the Conservative heartland .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'instinct' same in the following two sentences, say Yes or No:
+sentence1: Many animals fear fire by instinct .
+sentence2: Altruistic instincts in social animals .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'alleviator' same in the following two sentences, say Yes or No:
+sentence1: Blessed is he who is an alleviator of suffering .
+sentence2: Aspirin is an alleviator of headaches .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'involvement' same in the following two sentences, say Yes or No:
+sentence1: He escaped involvement in the accident .
+sentence2: There was additional involvement of the liver and spleen .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'demand' same in the following two sentences, say Yes or No:
+sentence1: The automobile reduced the demand for buggywhips .
+sentence2: The demand exceeded the supply .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'demand' same in the following two sentences, say Yes or No:
+sentence1: I demand to see the manager .
+sentence2: The boss demanded that he be fired immediately .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'identification' same in the following two sentences, say Yes or No:
+sentence1: Identification of the gun was an important clue .
+sentence2: The thief 's identification was followed quickly by his arrest .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'pig' same in the following two sentences, say Yes or No:
+sentence1: After the ill-advised trade , the investor was stuck with worthless options for 10,000 tons of iron pig .
+sentence2: The conveyor carried the pigs from the smelter to the freight cars .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'smear' same in the following two sentences, say Yes or No:
+sentence1: Smear the wall with paint .
+sentence2: She smeared her lips with lipstick .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'gesture' same in the following two sentences, say Yes or No:
+sentence1: The middle-finger gesture is really a nonverbal swear .
+sentence2: This Web browser can be controlled with mouse gestures .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'charge' same in the following two sentences, say Yes or No:
+sentence1: The wrestler 's charge carried him past his adversary .
+sentence2: The battle began with a cavalry charge .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'value' same in the following two sentences, say Yes or No:
+sentence1: Value the jewelry and art work in the estate .
+sentence2: The dealer valued the book .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'runoff' same in the following two sentences, say Yes or No:
+sentence1: The runoff of nitrates is poisoning the lake .
+sentence2: When there is very heavy rainfall on California hillsides over a prolonged period , there is almost always ensuing surface runoff .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'trouble' same in the following two sentences, say Yes or No:
+sentence1: What is the trouble ?
+sentence2: The troubles in Northern Ireland .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'hear' same in the following two sentences, say Yes or No:
+sentence1: We must hear the expert before we make a decision .
+sentence2: I heard a sound from outside the window .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'contact' same in the following two sentences, say Yes or No:
+sentence1: The wire must not contact the metal cover .
+sentence2: The surfaces contact at this point .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'quest' same in the following two sentences, say Yes or No:
+sentence1: A quest for diamonds .
+sentence2: A quest for wealth .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'fundus' same in the following two sentences, say Yes or No:
+sentence1: The fundus of the stomach .
+sentence2: The uterine fundus .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'brandish' same in the following two sentences, say Yes or No:
+sentence1: Brandish a sword .
+sentence2: He brandished his sword at the pirates .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'satellite' same in the following two sentences, say Yes or No:
+sentence1: A spent upper stage is a derelict satellite .
+sentence2: The Moon is a natural satellite of the Earth .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'reform' same in the following two sentences, say Yes or No:
+sentence1: Reform your conduct .
+sentence2: The Church reformed me .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'age' same in the following two sentences, say Yes or No:
+sentence1: Age has n't slowed him down at all .
+sentence2: Old age is not for sissies .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'pump' same in the following two sentences, say Yes or No:
+sentence1: Pump the gas pedal .
+sentence2: I 've pumped over 1000 gallons of water in the last ten minutes .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'pulse' same in the following two sentences, say Yes or No:
+sentence1: Pulse waves .
+sentence2: A transmitter pulsed by an electronic tube .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'buy' same in the following two sentences, say Yes or No:
+sentence1: I 'm going to buy my father something nice for his birthday .
+sentence2: She buys for the big department store .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'answer' same in the following two sentences, say Yes or No:
+sentence1: There is no simple answer to corruption .
+sentence2: The answers were in the back of the book .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'prize' same in the following two sentences, say Yes or No:
+sentence1: We prize his creativity .
+sentence2: I prize these old photographs .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'toehold' same in the following two sentences, say Yes or No:
+sentence1: American diplomacy provided a toehold on which to proceed toward peace talks .
+sentence2: His father gave him a toehold in the oil business .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'garden' same in the following two sentences, say Yes or No:
+sentence1: Our garden is overgrown with weeds .
+sentence2: This house has a swimming pool , a tent , a swing set and a fountain in the garden .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'waste' same in the following two sentences, say Yes or No:
+sentence1: Waste heat .
+sentence2: Waste a joke on an unappreciative audience .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'act' same in the following two sentences, say Yes or No:
+sentence1: You should act like an adult .
+sentence2: He 's acting strangely - I think there 's something wrong with him .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'card' same in the following two sentences, say Yes or No:
+sentence1: They have to card anybody who looks 21 or younger .
+sentence2: I heard you do n't get carded at the other liquor store .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'blanket' same in the following two sentences, say Yes or No:
+sentence1: The city woke under a thick blanket of fog .
+sentence2: There was a blanket of snow .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'do' same in the following two sentences, say Yes or No:
+sentence1: What makes her do this way ?
+sentence2: Do n't behave like a fool .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'tad' same in the following two sentences, say Yes or No:
+sentence1: A tad too expensive .
+sentence2: Not a tad of difference .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'receive' same in the following two sentences, say Yes or No:
+sentence1: These aspects of civilization do not find expression or receive an interpretation .
+sentence2: His movie received a good review .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'inwardness' same in the following two sentences, say Yes or No:
+sentence1: The sensitiveness of James 's characters , their seeming inwardness .
+sentence2: Inwardness is what an Englishman quite simply has , painlessly , as a birthright .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'cure' same in the following two sentences, say Yes or No:
+sentence1: Cure pickles .
+sentence2: The smoke and heat cures the meat .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'minute' same in the following two sentences, say Yes or No:
+sentence1: He ran a 4 minute mile .
+sentence2: You have twenty minutes to complete the test .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'juncture' same in the following two sentences, say Yes or No:
+sentence1: We 're at a crucial juncture in our relationship .
+sentence2: At that juncture he had no idea what to do .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'vow' same in the following two sentences, say Yes or No:
+sentence1: The old hermit , up in the mountains , took a vow of silence .
+sentence2: They took vows of poverty .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'demand' same in the following two sentences, say Yes or No:
+sentence1: I demand an explanation .
+sentence2: I demand an immediate explanation .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'synthesize' same in the following two sentences, say Yes or No:
+sentence1: His operas synthesize music and drama in perfect harmony .
+sentence2: The liver synthesizes vitamins .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'stringer' same in the following two sentences, say Yes or No:
+sentence1: A second stringer .
+sentence2: A first stringer .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'foul' same in the following two sentences, say Yes or No:
+sentence1: Foul the water .
+sentence2: Jones fouled for strike one .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'erase' same in the following two sentences, say Yes or No:
+sentence1: Please erase the formula on the blackboard -- it is wrong !
+sentence2: Her painful memories seemingly erased completely .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'sawmill' same in the following two sentences, say Yes or No:
+sentence1: He brought his portable sawmill and turned the old beams into interesting flooring .
+sentence2: The sawmill sells lumber to carpenters and sawdust to gardeners .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'view' same in the following two sentences, say Yes or No:
+sentence1: View a problem .
+sentence2: He viewed the painting and praised the artist for his masterpiece .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'sincerity' same in the following two sentences, say Yes or No:
+sentence1: His sincerity inspired belief .
+sentence2: They demanded some proof of my sincerity .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'hair' same in the following two sentences, say Yes or No:
+sentence1: He combed his hair .
+sentence2: In the western world , women usually have long hair while men usually have short hair .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'concentrate' same in the following two sentences, say Yes or No:
+sentence1: Population tends to concentrate in cities .
+sentence2: These groups concentrate in the inner cities .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'balance' same in the following two sentences, say Yes or No:
+sentence1: Balance the two weights .
+sentence2: She has to balance work and her domestic duties .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'oxygenate' same in the following two sentences, say Yes or No:
+sentence1: Oxygenate blood .
+sentence2: After we oxygenated the river , the fish returned .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'weather' same in the following two sentences, say Yes or No:
+sentence1: They were hoping for good weather .
+sentence2: Wooden garden furniture must be well oiled as it is continuously exposed to weather .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'extension' same in the following two sentences, say Yes or No:
+sentence1: Files with the .txt extension usually contain text .
+sentence2: Most applications provide extensions for the files they create .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'plant' same in the following two sentences, say Yes or No:
+sentence1: The police used a plant to trick the thieves .
+sentence2: He claimed that the evidence against him was a plant .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'wall' same in the following two sentences, say Yes or No:
+sentence1: Competition was pushing them to the wall .
+sentence2: His back was to the wall .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'cream' same in the following two sentences, say Yes or No:
+sentence1: The cream of England 's young men were killed in the Great War .
+sentence2: The cream of a collection of books or pictures .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'negate' same in the following two sentences, say Yes or No:
+sentence1: The investigation tending to negate any supernatural influences .
+sentence2: A pessimism that always negates .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'guard' same in the following two sentences, say Yes or No:
+sentence1: Guard my possessions while I 'm away .
+sentence2: There would be men guarding the horses .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'subscription' same in the following two sentences, say Yes or No:
+sentence1: I have a monthly subscription to The Daily Telegraph newspaper .
+sentence2: My library subscription is about to expire .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'stimulate' same in the following two sentences, say Yes or No:
+sentence1: This herbal infusion does n't stimulate .
+sentence2: Coffee and tea stimulate me .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'catcher' same in the following two sentences, say Yes or No:
+sentence1: A catcher needs a lot of protective equipment .
+sentence2: A catcher plays behind the plate .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'piracy' same in the following two sentences, say Yes or No:
+sentence1: Air piracy .
+sentence2: How shoud the international community respond to Somali piracy ?
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'snapshot' same in the following two sentences, say Yes or No:
+sentence1: He carried a snapshot of his daughter .
+sentence2: My snapshots have n't been developed yet .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'say' same in the following two sentences, say Yes or No:
+sentence1: What does this painting say ?
+sentence2: Did his face say anything about how he felt ?
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'face' same in the following two sentences, say Yes or No:
+sentence1: Shut your face !
+sentence2: He 's always stuffing his face with chips .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'appreciate' same in the following two sentences, say Yes or No:
+sentence1: Do you appreciate the full meaning of this letter ?
+sentence2: To test the power of bees to appreciate color .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'memory' same in the following two sentences, say Yes or No:
+sentence1: He can do it from memory .
+sentence2: Memory is a facility common to all animals .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'hit' same in the following two sentences, say Yes or No:
+sentence1: One boy hit the other .
+sentence2: He hit her hard in the face .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'truncation' same in the following two sentences, say Yes or No:
+sentence1: It is an obvious truncation of the verse .
+sentence2: They were sentenced to a truncation of their limbs .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'analyze' same in the following two sentences, say Yes or No:
+sentence1: Analyze a sonnet by Shakespeare .
+sentence2: The inspector analyzed the building .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'remainder' same in the following two sentences, say Yes or No:
+sentence1: 17 leaves a remainder of 2 when divided by 3 .
+sentence2: 11 divided by 2 is 5 remainder 1 .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'experiment' same in the following two sentences, say Yes or No:
+sentence1: Students experiment sexually .
+sentence2: The composer experimented with a new style .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'tenderness' same in the following two sentences, say Yes or No:
+sentence1: He noted her extreme tenderness when he touched the bruise on her thigh .
+sentence2: The best results are generally obtained by inserting the needle into the point of maximum tenderness .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'lash' same in the following two sentences, say Yes or No:
+sentence1: And big waves lash the frighted shores . — John Dryden .
+sentence2: The whale lashes the sea with its tail .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'run' same in the following two sentences, say Yes or No:
+sentence1: Run a subject .
+sentence2: Run a process .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'warrant' same in the following two sentences, say Yes or No:
+sentence1: I warrant this information .
+sentence2: The dealer warrants all the cars he sells .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'enjoy' same in the following two sentences, say Yes or No:
+sentence1: I plan to go travelling while I still enjoy good health .
+sentence2: Enjoy privileges .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'dig' same in the following two sentences, say Yes or No:
+sentence1: Dig a hole .
+sentence2: My seven-year-old son always digs a hole in the middle of his mashed potatoes and fills it with gravy before he starts to eat them .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'ribbon' same in the following two sentences, say Yes or No:
+sentence1: A steel or magnesium ribbon .
+sentence2: Sails torn to ribbons .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'draft' same in the following two sentences, say Yes or No:
+sentence1: A preliminary draft .
+sentence2: The final draft of the constitution .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'stater' same in the following two sentences, say Yes or No:
+sentence1: Keystone stater .
+sentence2: Farm staters .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'crumb' same in the following two sentences, say Yes or No:
+sentence1: He gave only a crumb of information about his plans .
+sentence2: There were few crumbs of comfort in the report .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'blue' same in the following two sentences, say Yes or No:
+sentence1: The boys in blue marched to the pipers .
+sentence2: She was wearing blue .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'check' same in the following two sentences, say Yes or No:
+sentence1: Check the spelling of this word .
+sentence2: Check your facts .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'channel' same in the following two sentences, say Yes or No:
+sentence1: We will channel the traffic to the left with these cones .
+sentence2: Channel information towards a broad audience .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'enclosure' same in the following two sentences, say Yes or No:
+sentence1: He faced punishment for creating the fenced enclosure in a public park .
+sentence2: The winning horse was first into the unsaddling enclosure .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'third' same in the following two sentences, say Yes or No:
+sentence1: He was cut down on a close play at third .
+sentence2: The play ended with Jones standing on third .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'hi' same in the following two sentences, say Yes or No:
+sentence1: I just dropped by to say “ hi ” .
+sentence2: Hi , how are you ?
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'infamy' same in the following two sentences, say Yes or No:
+sentence1: A date which will live in infamy - Franklin D. Roosevelt in response to the Japanese attack on Pearl Harbour .
+sentence2: Infamy , infamy - they 've all got it in for me ! - Kenneth Williams as Julius Caesar in Carry On Cleo .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'fuckup' same in the following two sentences, say Yes or No:
+sentence1: You 've got to fire that fuckup .
+sentence2: Forgetting our anniversary was a major fuckup .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'difference' same in the following two sentences, say Yes or No:
+sentence1: You need to learn to be more tolerant of difference .
+sentence2: There are many differences between jazz and rock .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'luck' same in the following two sentences, say Yes or No:
+sentence1: Sometimes it takes a bit of luck to get success .
+sentence2: The raffle is just a matter of luck .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'curve' same in the following two sentences, say Yes or No:
+sentence1: To curve a line .
+sentence2: The road curved sharply .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'do' same in the following two sentences, say Yes or No:
+sentence1: All you ever do is surf the Internet .
+sentence2: She did a little dance .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'crook' same in the following two sentences, say Yes or No:
+sentence1: A crook in the path .
+sentence2: She held the baby in the crook of her arm .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'fit' same in the following two sentences, say Yes or No:
+sentence1: He had a laughing fit which lasted more than ten minutes .
+sentence2: He threw a fit when his car broke down .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'disaster' same in the following two sentences, say Yes or No:
+sentence1: The earthquake was a disaster .
+sentence2: His policies were a disaster .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'witness' same in the following two sentences, say Yes or No:
+sentence1: She can bear witness , since she was there at the time .
+sentence2: As a witness to the event , I can tell you that he really said that .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'submission' same in the following two sentences, say Yes or No:
+sentence1: What was the date of submission of your proposal ?
+sentence2: Several of his submissions were rejected by publishers .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'reorganization' same in the following two sentences, say Yes or No:
+sentence1: The reorganization was prescribed by federal bankruptcy laws .
+sentence2: After the takeover there was a thorough reorganization .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'ship' same in the following two sentences, say Yes or No:
+sentence1: Ship the cargo in the hold of the vessel .
+sentence2: To ship the tiller or rudder .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'career' same in the following two sentences, say Yes or No:
+sentence1: He had a long career in the law .
+sentence2: The general had had a distinguished career .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'here' same in the following two sentences, say Yes or No:
+sentence1: Where do we go from here ?
+sentence2: An Alzheimer patient 's in here may in his mind be anywhere he called home in the time he presently re-lives .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'water' same in the following two sentences, say Yes or No:
+sentence1: The smell of fried onions makes my mouth water .
+sentence2: His eyes were watering .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'delay' same in the following two sentences, say Yes or No:
+sentence1: Do n't delay your application to graduate school or else it wo n't be considered .
+sentence2: He delayed the watering .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'crystallize' same in the following two sentences, say Yes or No:
+sentence1: Crystallize minerals .
+sentence2: I crystallized the copper sulphate by slowly cooling a saturated solution .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'dig' same in the following two sentences, say Yes or No:
+sentence1: In the wintertime , heavy truck tires dig into the road , forming potholes .
+sentence2: They dug an eight - foot ditch along the side of the road .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'cheat' same in the following two sentences, say Yes or No:
+sentence1: Six years of a happy relationship , and then she had the nerve to cheat on me with a barman !
+sentence2: My husband cheated on me with his secretary .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'relax' same in the following two sentences, say Yes or No:
+sentence1: Let 's all relax after a hard day 's work .
+sentence2: He relaxed in the hot tub .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'appropriation' same in the following two sentences, say Yes or No:
+sentence1: A person 's appropriation of property belonging to another is dishonest .
+sentence2: The necessary funds were obtained by the government 's appropriation of the company 's operating unit .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'name' same in the following two sentences, say Yes or No:
+sentence1: Name your accomplices !
+sentence2: He named his demands .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'blaze' same in the following two sentences, say Yes or No:
+sentence1: The horse had a blaze between its eyes .
+sentence2: They chipped off bark to mark the trail with blazes .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'clip' same in the following two sentences, say Yes or No:
+sentence1: Give him a clip round the ear !
+sentence2: He gave me a clip on the ear .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'warn' same in the following two sentences, say Yes or No:
+sentence1: I warn you against false assumptions .
+sentence2: I warned him not to go too far .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'mold' same in the following two sentences, say Yes or No:
+sentence1: A lobster mold .
+sentence2: A gelatin dessert made in a mold .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'drain' same in the following two sentences, say Yes or No:
+sentence1: Please drain the sink . It 's full of dirty water .
+sentence2: We drained the oil tank .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'writing' same in the following two sentences, say Yes or No:
+sentence1: He turned the paper over so the writing would n't show .
+sentence2: The doctor 's writing was illegible .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'circuit' same in the following two sentences, say Yes or No:
+sentence1: On the lecture circuit .
+sentence2: The international tennis circuit .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'signal' same in the following two sentences, say Yes or No:
+sentence1: The victory was a signal for wild celebration .
+sentence2: He awaited the signal to start .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'protocol' same in the following two sentences, say Yes or No:
+sentence1: Academic protocol .
+sentence2: Safety protocols .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'master' same in the following two sentences, say Yes or No:
+sentence1: The methods can master the problems .
+sentence2: Her pain completely mastered her .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'veil' same in the following two sentences, say Yes or No:
+sentence1: Women in Afghanistan veil their faces .
+sentence2: The forest fire was veiled by smoke , but I could hear it clearly .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'bare' same in the following two sentences, say Yes or No:
+sentence1: Bare your breasts .
+sentence2: Bare your feelings .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'gimmick' same in the following two sentences, say Yes or No:
+sentence1: It was a great sales gimmick .
+sentence2: A cheap promotions gimmick for greedy businessmen .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'restoration' same in the following two sentences, say Yes or No:
+sentence1: The restoration of this painting will take years .
+sentence2: The restoration of this medieval church involved undoing all the Victorian modifications .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'socialize' same in the following two sentences, say Yes or No:
+sentence1: The old man hates to socialize .
+sentence2: He never socializes with his colleagues .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'respect' same in the following two sentences, say Yes or No:
+sentence1: Syngman Rhee kept imprisoned the Dowager Queen Yun Empress Sunjeong of the Korean Empire for fear of the respect the people held for her .
+sentence2: He is an intellectual giant , and I have great respect for him .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'rekindle' same in the following two sentences, say Yes or No:
+sentence1: Rekindle her love .
+sentence2: Rekindle hopes .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'clean' same in the following two sentences, say Yes or No:
+sentence1: Can you clean the windows today ?
+sentence2: Clean the stove !
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'home' same in the following two sentences, say Yes or No:
+sentence1: A home for outcasts .
+sentence2: A home for the elderly .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'string' same in the following two sentences, say Yes or No:
+sentence1: The child drew glass beads on a string .
+sentence2: String pearls on a string .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'investment' same in the following two sentences, say Yes or No:
+sentence1: This job calls for the investment of some hard thinking .
+sentence2: He made an emotional investment in the work .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'racket' same in the following two sentences, say Yes or No:
+sentence1: What 's all this racket ?
+sentence2: Power tools work quickly , but they sure make a racket .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'truss' same in the following two sentences, say Yes or No:
+sentence1: Truss the roofs .
+sentence2: Trussed bridges .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'bitch' same in the following two sentences, say Yes or No:
+sentence1: Karma 's a bitch .
+sentence2: This problem is a real bitch .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'loss' same in the following two sentences, say Yes or No:
+sentence1: Loss of livestock left the rancher bankrupt .
+sentence2: The car was a total loss .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'kilter' same in the following two sentences, say Yes or No:
+sentence1: In good kilter .
+sentence2: Out of kilter .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'corrupt' same in the following two sentences, say Yes or No:
+sentence1: Corrupt the morals .
+sentence2: Socrates was accused of corrupting young men .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'vamp' same in the following two sentences, say Yes or No:
+sentence1: Vamp up an excuse for not attending the meeting .
+sentence2: Vamp up an old speech .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'come' same in the following two sentences, say Yes or No:
+sentence1: Nothing good will come of this .
+sentence2: This kind of accident comes when you are careless .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'crush' same in the following two sentences, say Yes or No:
+sentence1: Crush an aluminum can .
+sentence2: Ye shall not offer unto the Lord that which is bruised , crushed , broken or cut . --Lev . xxii .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'agony' same in the following two sentences, say Yes or No:
+sentence1: An agony of doubt .
+sentence2: Being in an agony he prayed more earnestly . —Luke xxii . 44 .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'half' same in the following two sentences, say Yes or No:
+sentence1: Half an hour .
+sentence2: You do n't know the half of it .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'walk' same in the following two sentences, say Yes or No:
+sentence1: I 'll walk you to your car .
+sentence2: I walk the dog every morning .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'height' same in the following two sentences, say Yes or No:
+sentence1: She 's at the height of her career .
+sentence2: At the height of her career .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'suit' same in the following two sentences, say Yes or No:
+sentence1: What suit is trumps ?
+sentence2: To deal and shuffle , to divide and sort Her mingled suits and sequences . — .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'fertility' same in the following two sentences, say Yes or No:
+sentence1: In most industrialized countries the fertility rate has dropped well below replacement rate .
+sentence2: In America the fertility rate of recent immigrants tends to be higher than that of native population .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'club' same in the following two sentences, say Yes or No:
+sentence1: He felt as if he had been hit with a club .
+sentence2: He carried a club in self defense .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'half' same in the following two sentences, say Yes or No:
+sentence1: Half a loaf .
+sentence2: A century and one half .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'revival' same in the following two sentences, say Yes or No:
+sentence1: A revival of a neglected play by Moliere .
+sentence2: The revival of trade .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'alphabet' same in the following two sentences, say Yes or No:
+sentence1: In the first year of school , pupils are taught to recite the alphabet .
+sentence2: The Greek alphabet has only twenty-four letters .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'guy' same in the following two sentences, say Yes or No:
+sentence1: A nice guy .
+sentence2: The guy 's only doing it for some doll .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'step' same in the following two sentences, say Yes or No:
+sentence1: It is but a step .
+sentence2: It 's only a step to the drugstore .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'reshuffle' same in the following two sentences, say Yes or No:
+sentence1: So as to prevent cheating , he was asked to reshuffle the cards .
+sentence2: The new Prime Minister reshuffled his cabinet .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'vent' same in the following two sentences, say Yes or No:
+sentence1: He vented her frustration when he got home .
+sentence2: She vented her anger .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'girlfriend' same in the following two sentences, say Yes or No:
+sentence1: His girlfriend kicked him out .
+sentence2: Marc went to the park with his girlfriend and watched the sunset with her .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'aroma' same in the following two sentences, say Yes or No:
+sentence1: I love the aroma of cinnamon .
+sentence2: The toilet was emitting a pungent , foul aroma .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'shrink' same in the following two sentences, say Yes or No:
+sentence1: Hot water will shrink the sweater .
+sentence2: Can you shrink this image ?
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'land' same in the following two sentences, say Yes or No:
+sentence1: The land had never been plowed .
+sentence2: Good or bad land for growing potatoes .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'day' same in the following two sentences, say Yes or No:
+sentence1: Every dog has his day .
+sentence2: He deserves his day in court .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'salvation' same in the following two sentences, say Yes or No:
+sentence1: In Islam , salvation is achieved by praying in the mosque to Allah and following the sunnah of Muhammad .
+sentence2: The salvation of his party was the president 's major concern .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'service' same in the following two sentences, say Yes or No:
+sentence1: The service happened yesterday .
+sentence2: He accepted service of the subpoena .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'separatism' same in the following two sentences, say Yes or No:
+sentence1: Demands for some form of separatism on grounds of religion have been perceived as a threat to mainstream education .
+sentence2: Separatism is a serious problem in Quebec .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'good' same in the following two sentences, say Yes or No:
+sentence1: Weigh the good against the bad .
+sentence2: Among the highest goods of all are happiness and self-realization .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'setup' same in the following two sentences, say Yes or No:
+sentence1: It takes time to learn the setup around here .
+sentence2: The classroom setup was simple and efficient .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'trail' same in the following two sentences, say Yes or No:
+sentence1: You 'll get your coat all muddy if you trail it around like that .
+sentence2: The bride 's veiled trailed along the ground .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'gang' same in the following two sentences, say Yes or No:
+sentence1: Do a drop for the telephone gang through the ceiling of the wiring closet .
+sentence2: A gang of wires .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'claimant' same in the following two sentences, say Yes or No:
+sentence1: He was a claimant to the throne .
+sentence2: Claimants of unemployment compensation .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'mellow' same in the following two sentences, say Yes or No:
+sentence1: These apples need to mellow a bit more .
+sentence2: The sun mellowed the fruit .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'draw' same in the following two sentences, say Yes or No:
+sentence1: He played only draw and stud .
+sentence2: John only had four cards of the same suit ; he had a drawing hand .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'control' same in the following two sentences, say Yes or No:
+sentence1: Measures for the control of disease .
+sentence2: They instituted controls over drinking on campus .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'amount' same in the following two sentences, say Yes or No:
+sentence1: The amount he had in cash was insufficient .
+sentence2: The dogs need different amounts of food .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'man' same in the following two sentences, say Yes or No:
+sentence1: We can not man all the desks .
+sentence2: Students were manning the booths .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'slave' same in the following two sentences, say Yes or No:
+sentence1: A slave to fashion .
+sentence2: A slave to cocaine .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'zinger' same in the following two sentences, say Yes or No:
+sentence1: She tried to think of some killer of an argument , a real zinger that would disarm all opposition .
+sentence2: He always greeted me with a new zinger .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'tread' same in the following two sentences, say Yes or No:
+sentence1: To tread land when too light .
+sentence2: For fools rush in where angels fear to tread .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'lay' same in the following two sentences, say Yes or No:
+sentence1: To lay a body in the grave .
+sentence2: Lay the books on the table .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'softening' same in the following two sentences, say Yes or No:
+sentence1: Refrigeration delayed the softening of the fruit .
+sentence2: He observed the softening of iron by heat .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'drink' same in the following two sentences, say Yes or No:
+sentence1: You can lead a horse to water but you ca n't make him drink .
+sentence2: Cynthia drank the wine .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'squeamishness' same in the following two sentences, say Yes or No:
+sentence1: The program was withdrawn because of the squeamishness of some viewers .
+sentence2: He refused to allow squeamishness to deter him from his duty .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'date' same in the following two sentences, say Yes or No:
+sentence1: You may need that at a later date .
+sentence2: They hoped to get together at an early date .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'unlock' same in the following two sentences, say Yes or No:
+sentence1: Unlock the door .
+sentence2: I unlocked the door and walked in .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'bed' same in the following two sentences, say Yes or No:
+sentence1: The room had only a bed and chair .
+sentence2: He sat on the edge of the bed .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'reading' same in the following two sentences, say Yes or No:
+sentence1: He bought some reading material at the airport .
+sentence2: The teacher assigned new readings .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'digress' same in the following two sentences, say Yes or No:
+sentence1: Do n't digress when you give a lecture .
+sentence2: She always digresses when telling a story .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'head' same in the following two sentences, say Yes or No:
+sentence1: Head the fish .
+sentence2: The salmon are first headed and then scaled .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'smoking' same in the following two sentences, say Yes or No:
+sentence1: Smoking stinks .
+sentence2: Smoking is permitted .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'entrance' same in the following two sentences, say Yes or No:
+sentence1: Her entrance attracted no attention whatsoever .
+sentence2: She made a grand entrance .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'stay' same in the following two sentences, say Yes or No:
+sentence1: You can stay with me while you are in town .
+sentence2: Stay a bit longer -- the day is still young .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'sustain' same in the following two sentences, say Yes or No:
+sentence1: The money will sustain our good cause .
+sentence2: She alone sustained her family .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'contour' same in the following two sentences, say Yes or No:
+sentence1: It defines a major contour of this administration .
+sentence2: The contours of the melody .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'child' same in the following two sentences, say Yes or No:
+sentence1: My youngest child is forty-three .
+sentence2: They had three children .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'elaborate' same in the following two sentences, say Yes or No:
+sentence1: Elaborate a plan .
+sentence2: Could you elaborate on the plot for your novel for me ?
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'genre' same in the following two sentences, say Yes or No:
+sentence1: The still-life has been a popular genre in painting since the 17th century .
+sentence2: The computer game Half-Life redefined the first-person shooter genre .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'pluck' same in the following two sentences, say Yes or No:
+sentence1: To pluck at somebody 's sleeve .
+sentence2: He plucked the strings of his mandolin .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'lighten' same in the following two sentences, say Yes or No:
+sentence1: Lighten the burden of caring for her elderly parents .
+sentence2: She lightened the load on the tired donkey .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'yogi' same in the following two sentences, say Yes or No:
+sentence1: Gurdjieff connects this type of breathing with yogi breathing .
+sentence2: It 's a yogi trick of some sort .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'rudeness' same in the following two sentences, say Yes or No:
+sentence1: His rudeness was inexcusable .
+sentence2: The rudeness of the cabin gave it a rustic charm but little comfort .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'charge' same in the following two sentences, say Yes or No:
+sentence1: He was arrested on a charge of larceny .
+sentence2: That 's a slanderous charge of abuse of trust .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'simmer' same in the following two sentences, say Yes or No:
+sentence1: Simmer the sauce .
+sentence2: Simmering water .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'hide' same in the following two sentences, say Yes or No:
+sentence1: Hide the money .
+sentence2: Muslim women hide their faces .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'suggestion' same in the following two sentences, say Yes or No:
+sentence1: It was a suggestion we could n't refuse .
+sentence2: Suggestion often works better than explicit demand .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'consolidate' same in the following two sentences, say Yes or No:
+sentence1: Consolidate one 's hold on first place .
+sentence2: Consolidate one 's gains .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'remember' same in the following two sentences, say Yes or No:
+sentence1: After the shelling , many people lost the ability to remember .
+sentence2: Some remember better than others .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'gentrify' same in the following two sentences, say Yes or No:
+sentence1: Gentrify the old center of town .
+sentence2: Gentrify a row of old houses .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'grind' same in the following two sentences, say Yes or No:
+sentence1: A coarse grind of coffee .
+sentence2: This bag contains espresso grind .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'function' same in the following two sentences, say Yes or No:
+sentence1: The function of a teacher .
+sentence2: The function of an auger is to bore holes .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'overcome' same in the following two sentences, say Yes or No:
+sentence1: You must overcome all difficulties .
+sentence2: He overcame his infirmity .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'intimidate' same in the following two sentences, say Yes or No:
+sentence1: He 's trying to intimidate you . If you ignore him , hopefully he 'll stop .
+sentence2: Her boss intimidates her .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'drip' same in the following two sentences, say Yes or No:
+sentence1: I put a drip of vanilla extract in my hot cocoa .
+sentence2: The constant sound of dripping irritated him .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'knead' same in the following two sentences, say Yes or No:
+sentence1: Knead dough .
+sentence2: I kneaded the dough into a loaf .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'cord' same in the following two sentences, say Yes or No:
+sentence1: The bundle was tied with a cord .
+sentence2: The burglar tied up the victim with a cord .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'complement' same in the following two sentences, say Yes or No:
+sentence1: The complement of 01100101_2 is 10011011_2 .
+sentence2: A full complement of workers .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'trial' same in the following two sentences, say Yes or No:
+sentence1: He had a fair trial and the jury found him guilty .
+sentence2: Most of these complaints are settled before they go to trial .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'finger' same in the following two sentences, say Yes or No:
+sentence1: Human hands have five fingers : the thumb , the forefinger ( or index finger ) , the middle finger , the ring finger and the little finger .
+sentence2: Her fingers were long and thin .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'record' same in the following two sentences, say Yes or No:
+sentence1: Chicago set the homicide record .
+sentence2: Coffee production last year broke all previous records .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'moderate' same in the following two sentences, say Yes or No:
+sentence1: Moderate your alcohol intake .
+sentence2: Moderate your speed .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'matter' same in the following two sentences, say Yes or No:
+sentence1: It does not matter much .
+sentence2: It matters that they left .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'eligibility' same in the following two sentences, say Yes or No:
+sentence1: Eligibility for a loan .
+sentence2: Eligibility of a candidate for office .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'asthmatic' same in the following two sentences, say Yes or No:
+sentence1: The painful gasps of a dying asthmatic .
+sentence2: She is a chronic asthmatic .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'talk' same in the following two sentences, say Yes or No:
+sentence1: Actions talk louder than words .
+sentence2: Susan talked with Rachel .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'look' same in the following two sentences, say Yes or No:
+sentence1: Do n't look in the closet .
+sentence2: Look at my new car !
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'appeal' same in the following two sentences, say Yes or No:
+sentence1: An appeal for help .
+sentence2: An appeal to the public to keep calm .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'faddist' same in the following two sentences, say Yes or No:
+sentence1: He is such a fashion faddist .
+sentence2: The faddist magazines have been hyping that lately .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'growth' same in the following two sentences, say Yes or No:
+sentence1: The growth of population .
+sentence2: Growth was dampened by a softening of the global economy in 2001 , but picked up in the subsequent years due to strong growth in China .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'bother' same in the following two sentences, say Yes or No:
+sentence1: A spot of bother .
+sentence2: A bit of a bother .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'swing' same in the following two sentences, say Yes or No:
+sentence1: It took time to get into the swing of things .
+sentence2: The party went with a swing .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'processing' same in the following two sentences, say Yes or No:
+sentence1: The processing of ore to obtain minerals .
+sentence2: The processing of newly arrived immigrants .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'mind' same in the following two sentences, say Yes or No:
+sentence1: I would n't mind an ice cream right now .
+sentence2: I do n't mind your behavior .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'resemble' same in the following two sentences, say Yes or No:
+sentence1: The twins resemble each other .
+sentence2: This paper resembles my own work .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'divest' same in the following two sentences, say Yes or No:
+sentence1: The company decided to divest .
+sentence2: The board of trustees divested $ 20 million in real estate property .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'carpet' same in the following two sentences, say Yes or No:
+sentence1: The larvae of some moths spin a web that resembles a carpet .
+sentence2: A carpet of flowers .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'wipe' same in the following two sentences, say Yes or No:
+sentence1: Wipe the blackboard .
+sentence2: Brian wiped at the counter .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'look' same in the following two sentences, say Yes or No:
+sentence1: He gave me a dirty look .
+sentence2: If looks could kill ...
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'presidency' same in the following two sentences, say Yes or No:
+sentence1: After many years as a party leader , she finally ascended to the presidency .
+sentence2: Andrew Jackson expanded the power of the presidency beyond what was customary before his time .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'form' same in the following two sentences, say Yes or No:
+sentence1: When icicles start to form on the eaves you know the roads will be icy .
+sentence2: The water formed little beads .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'revamp' same in the following two sentences, say Yes or No:
+sentence1: They plan to revamp the historical theater in the old downtown .
+sentence2: They revamped their old house before selling it .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'agree' same in the following two sentences, say Yes or No:
+sentence1: I ca n't agree with you !
+sentence2: They agreed about what should be done .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'consensus' same in the following two sentences, say Yes or No:
+sentence1: The lack of consensus reflected differences in theoretical positions .
+sentence2: Those rights and obligations are based on an unstated consensus .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'aggravate' same in the following two sentences, say Yes or No:
+sentence1: To aggravate my woes . —Alexander Pope .
+sentence2: The defense made by the prisoner 's counsel did rather aggravate than extenuate his crime . —Addison .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'retain' same in the following two sentences, say Yes or No:
+sentence1: I retain this drug for a long time .
+sentence2: The dam retains the water .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'cry' same in the following two sentences, say Yes or No:
+sentence1: A cry to arms .
+sentence2: I heard a cry from afar .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'round' same in the following two sentences, say Yes or No:
+sentence1: Round the edges .
+sentence2: Round the bend .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'occupy' same in the following two sentences, say Yes or No:
+sentence1: The young prince will soon occupy the throne .
+sentence2: He occupies the position of manager .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'crack' same in the following two sentences, say Yes or No:
+sentence1: The crack of the bat hitting the ball .
+sentence2: The crack of a whip .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'moon' same in the following two sentences, say Yes or No:
+sentence1: The clock had a moon that showed various phases .
+sentence2: He made a moon lamp that he used as a night light .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'zero' same in the following two sentences, say Yes or No:
+sentence1: In unary and k - adic notation in general , zero is the empty string .
+sentence2: Write 0.0 to indicate a floating point number rather than the integer zero .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'deceleration' same in the following two sentences, say Yes or No:
+sentence1: The rocket is now in deceleration .
+sentence2: He initiated deceleration by braking .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'lifeline' same in the following two sentences, say Yes or No:
+sentence1: She offered me a lifeline in my time of grief .
+sentence2: The airlift provided a lifeline for Berlin .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'failure' same in the following two sentences, say Yes or No:
+sentence1: The mechanic 's failure to check the brakes .
+sentence2: He resented my failure to return his call .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'sell' same in the following two sentences, say Yes or No:
+sentence1: I 'll sell you all three for a hundred dollars .
+sentence2: He sold his house in January .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'butter' same in the following two sentences, say Yes or No:
+sentence1: Lora buttered the toast with unsalted butter .
+sentence2: Lora buttered the toast .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'print' same in the following two sentences, say Yes or No:
+sentence1: Using a crayon , the girl made a print of the leaf under the page .
+sentence2: Paw prints were everywhere .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'post' same in the following two sentences, say Yes or No:
+sentence1: Two of the receivers ran post patterns .
+sentence2: He set a row of posts in the ground and strung barbwire between them .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'trade' same in the following two sentences, say Yes or No:
+sentence1: As they say in the trade .
+sentence2: The skilled trades were the first to organize modern labor unions .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'segregate' same in the following two sentences, say Yes or No:
+sentence1: We do n't segregate in this county .
+sentence2: This neighborhood is segregated .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'dean' same in the following two sentences, say Yes or No:
+sentence1: He is the dean of foreign correspondents .
+sentence2: Dean of the diplomatic corps - a country 's most senior ambassador .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'retraction' same in the following two sentences, say Yes or No:
+sentence1: The retraction of the landing gear .
+sentence2: Retraction of the foreskin .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'transportation' same in the following two sentences, say Yes or No:
+sentence1: Mulligan 's sentence was commuted from death to transportation .
+sentence2: The sentence was one of transportation for life .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'cybernate' same in the following two sentences, say Yes or No:
+sentence1: Cybernate a factory .
+sentence2: We live in a cybernated age .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'redefinition' same in the following two sentences, say Yes or No:
+sentence1: Words like ` conservative ' require periodic redefinition .
+sentence2: She provided a redefinition of his duties .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'vice' same in the following two sentences, say Yes or No:
+sentence1: Vice offends the moral standards of the community .
+sentence2: Smoking is a vice , not a virtue .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'real' same in the following two sentences, say Yes or No:
+sentence1: Every integer is a real number , but not vice versa .
+sentence2: A real number can be regarded abstractly as an equivalence class of Cauchy sequences of real numbers .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'superlative' same in the following two sentences, say Yes or No:
+sentence1: The superlative of " big " is " biggest " .
+sentence2: ` most surely ' is the superlative of the adverb ` surely ' .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'kind' same in the following two sentences, say Yes or No:
+sentence1: This is a strange kind of tobacco .
+sentence2: What kinds of desserts are there ?
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'file' same in the following two sentences, say Yes or No:
+sentence1: File for divorce .
+sentence2: File a complaint .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'arrangement' same in the following two sentences, say Yes or No:
+sentence1: He changed the arrangement of the topics .
+sentence2: The arrangement of the furniture .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'contact' same in the following two sentences, say Yes or No:
+sentence1: They kept in daily contact .
+sentence2: They claimed that they had been in contact with extraterrestrial beings .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'capture' same in the following two sentences, say Yes or No:
+sentence1: Capture the essence of Spring .
+sentence2: Capture an idea .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'excogitate' same in the following two sentences, say Yes or No:
+sentence1: The scientist must stop to observe and start to excogitate .
+sentence2: Excogitate a way to measure the speed of light .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'glimpse' same in the following two sentences, say Yes or No:
+sentence1: I have only begun to glimpse the magnitude of the problem .
+sentence2: We glimpsed the Queen as she got into her limousine .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'explode' same in the following two sentences, say Yes or No:
+sentence1: They sought to explode the myth .
+sentence2: The enemy exploded the bridge .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'interest' same in the following two sentences, say Yes or No:
+sentence1: They said nothing of great interest .
+sentence2: Primary colors can add interest to a room .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'heart' same in the following two sentences, say Yes or No:
+sentence1: Buddhists believe that suffering is right at the heart of all life .
+sentence2: The wood at the heart of a tree is the oldest .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'inspire' same in the following two sentences, say Yes or No:
+sentence1: The lung cancer patient can not inspire air very well .
+sentence2: The patient has trouble inspiring .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'coarsen' same in the following two sentences, say Yes or No:
+sentence1: Coarsen the surface .
+sentence2: Because the wool is poor quality it will coarsen the fabric .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'reek' same in the following two sentences, say Yes or No:
+sentence1: You reek of perfume .
+sentence2: Your fridge reeks of egg .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'sickness' same in the following two sentences, say Yes or No:
+sentence1: Drugs have become a sickness they can not cure .
+sentence2: A great sickness of his judgment .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'line' same in the following two sentences, say Yes or No:
+sentence1: That salesman must have practiced his fast line of talk .
+sentence2: ` let me show you my etchings ' is a rather worn line .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'provide' same in the following two sentences, say Yes or No:
+sentence1: We aim to provide the local community with more green spaces .
+sentence2: The hostess provided lunch for all the guests .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'balance' same in the following two sentences, say Yes or No:
+sentence1: He took what he wanted and I got the balance .
+sentence2: The balance of the agreement remains in effect .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'gasp' same in the following two sentences, say Yes or No:
+sentence1: She gave a gasp and fainted .
+sentence2: I 'm popping out for a gasp .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'void' same in the following two sentences, say Yes or No:
+sentence1: Nobody has crossed the void since one man died trying three hundred years ago ; it 's high time we had another go .
+sentence2: The huge desert voids .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'love' same in the following two sentences, say Yes or No:
+sentence1: Their love left them indifferent to their surroundings .
+sentence2: She was his first love .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'treatment' same in the following two sentences, say Yes or No:
+sentence1: The right to equal treatment in the criminal justice system .
+sentence2: The treatment of water sewage .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'addition' same in the following two sentences, say Yes or No:
+sentence1: The addition of flowers created a pleasing effect .
+sentence2: The addition of five more items to the agenda will make the meeting unbearably long .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'harvest' same in the following two sentences, say Yes or No:
+sentence1: A harvest of love .
+sentence2: They gathered a harvest of examples .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'resign' same in the following two sentences, say Yes or No:
+sentence1: Resign a claim to the throne .
+sentence2: He resigned the crown to follow his heart .
+
+Please do not provide explanations.
+
+RESULT: T
+Gold answer: F
+========
+
+PROMPT: Is the sense of 'grace' same in the following two sentences, say Yes or No:
+sentence1: Their youngest son said grace .
+sentence2: It has become less common to say grace before having dinner .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'read' same in the following two sentences, say Yes or No:
+sentence1: The King will read the proclamation at noon .
+sentence2: Have you read this book ?
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'superlative' same in the following two sentences, say Yes or No:
+sentence1: ` least famous ' is the superlative degree of the adjective ` famous ' .
+sentence2: ` fastest ' is the superlative of the adjective ` fast ' .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'matter' same in the following two sentences, say Yes or No:
+sentence1: What 's the matter ?
+sentence2: Several matters to attend to .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'bury' same in the following two sentences, say Yes or No:
+sentence1: Bury a bone .
+sentence2: They buried the stolen goods .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'edition' same in the following two sentences, say Yes or No:
+sentence1: It was too late for the morning edition .
+sentence2: The first edition appeared in 1920 .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'rank' same in the following two sentences, say Yes or No:
+sentence1: Based on your test scores , you have a rank of 23 .
+sentence2: The fancy hotel was of the first rank .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'trough' same in the following two sentences, say Yes or No:
+sentence1: The neurologist pointed to a troubling trough in the pattern of his brain-waves .
+sentence2: The buoy bobbed between the crests and troughs of the waves moving across the bay .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'day' same in the following two sentences, say Yes or No:
+sentence1: Every dog has its day .
+sentence2: Two days later they left .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'custody' same in the following two sentences, say Yes or No:
+sentence1: Your guests are now in my custody .
+sentence2: The mother was awarded custody of the children .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'fear' same in the following two sentences, say Yes or No:
+sentence1: I fear the winters in Moscow .
+sentence2: We should not fear the Communists !
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'presidency' same in the following two sentences, say Yes or No:
+sentence1: Ernest was a historian specializing in the presidency of Herbert Hoover .
+sentence2: In France , a presidency lasts for five years .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'shuffle' same in the following two sentences, say Yes or No:
+sentence1: Do n't forget to shuffle the cards .
+sentence2: The data packets are shuffled before transmission .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'boil' same in the following two sentences, say Yes or No:
+sentence1: Boil this liquid until it evaporates .
+sentence2: Boil some water in a pan .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'quarry' same in the following two sentences, say Yes or No:
+sentence1: A British term for ` quarry ' is ` stone pit ' .
+sentence2: Michelangelo personally quarried marble from the world-famous quarry at Carrara .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'game' same in the following two sentences, say Yes or No:
+sentence1: For actors , memorizing lines is no game .
+sentence2: For him , life is all fun and games .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'holder' same in the following two sentences, say Yes or No:
+sentence1: He 's been an account holder with us since 2004 .
+sentence2: In 2012 , there were 28 living holders of the Victoria Cross or the George Cross .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'age' same in the following two sentences, say Yes or No:
+sentence1: We age every day -- what a depressing thought !
+sentence2: She aged gracefully .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'counsel' same in the following two sentences, say Yes or No:
+sentence1: Psychiatrists , psychologists , social workers and other mental health professionals counsel clients .
+sentence2: The lawyer counselled his client to remain silent .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'repair' same in the following two sentences, say Yes or No:
+sentence1: To repair a house , a road , a shoe , or a ship .
+sentence2: To repair a shattered fortune .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'wall' same in the following two sentences, say Yes or No:
+sentence1: He ducked behind the garden wall and waited .
+sentence2: The wall followed the road .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'agree' same in the following two sentences, say Yes or No:
+sentence1: All parties agree in the expediency of the law .
+sentence2: They agreed about what to do .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'nursing' same in the following two sentences, say Yes or No:
+sentence1: She went into nursing as a career .
+sentence2: Study nursing .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'extent' same in the following two sentences, say Yes or No:
+sentence1: An orchard of considerable extent .
+sentence2: The vast extent of the desert .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+
+PROMPT: Is the sense of 'build' same in the following two sentences, say Yes or No:
+sentence1: Build a modern nation .
+sentence2: Build a million-dollar business .
+
+Please do not provide explanations.
+
+RESULT: F
+Gold answer: T
+========
+

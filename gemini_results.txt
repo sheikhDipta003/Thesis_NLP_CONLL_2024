@@ -1,0 +1,66 @@
+Unified Framework
+------------------------------------------------------------------------
+ALL :
+Attempted: 6697, Correct: 4785, Accuracy: 0.7144990294161565
+Total Processed sentences: 1173
+========
+
+semeval2007:
+Attempted: 431, Correct: 282, Accuracy: 0.654292343387471
+Total Processed sentences: 135
+========
+
+semeval2013:
+Attempted: 1482, Correct: 1098, Accuracy: 0.7408906882591093
+Total Processed sentences: 306
+========
+
+semeval2015:
+Attempted: 956, Correct: 697, Accuracy: 0.7290794979079498
+Total Processed sentences: 138
+========
+
+senseval2:
+Attempted: 2144, Correct: 1524, Accuracy: 0.710820895522388
+Total Processed sentences: 242
+========
+
+senseval3:
+Attempted: 1706, Correct: 1192, Accuracy: 0.6987104337631888
+Total Processed sentences: 352
+========
+
+
+
+WiC
+------------------------------------------------------------------------
+test/test.data.txt:
+Attempted: 1400 Correct: 921 Accuracy: 0.6578571428571428
+Total Processed sentences: 1400
+========
+
+
+
+Fews
+------------------------------------------------------------------------
+test/test.few-shot.txt:
+Attempted: 4986 Correct: 3542 Accuracy: 0.7103890894504613
+Total Processed sentences: 5000
+========
+
+test/test.zero-shot.txt:
+Attempted: 4986 Correct: 3240 Accuracy: 0.6498194945848376
+Total Processed sentences: 5000
+========
+
+
+
+CoarseWSD
+------------------------------------------------------------------------
+master/data/CoarseWSD-20:
+Attempted: 10194 Correct: 9576 Accuracy: 0.9393761035903473
+========
+
+master/data/CoarseWSD-20_balanced:
+Attempted: 10194 Correct: 9588 Accuracy: 0.9405532666274279
+========

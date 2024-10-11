@@ -1,0 +1,8 @@
+# shell commands
+
+# get the dataset
+!wget https://nlp.cs.washington.edu/fews/fews.zip
+!unzip fews.zip
+
+# install api to mistral
+!pip install mistralai

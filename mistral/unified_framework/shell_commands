@@ -1,0 +1,12 @@
+# shell commands
+
+# get the dataset
+!wget http://lcl.uniroma1.it/wsdeval/data/WSD_Evaluation_Framework.zip
+!unzip WSD_Evaluation_Framework.zip
+
+# install api to mistral
+!pip install mistralai
+
+import nltk
+nltk.download('wordnet')
+from nltk.corpus import wordnet

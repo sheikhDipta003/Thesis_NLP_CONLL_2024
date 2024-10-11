@@ -1,0 +1,63 @@
+Unified Framework
+------------------------------------------------------------------------
+ALL:
+Attempted: 6914 Correct: 4363 Accuracy: 0.6310384726641597
+Total Processed Sentences: 1173
+========
+
+semeval2007:
+Attempted: 436 Correct: 243 Accuracy: 0.5573394495412844
+Total Processed sentences: 135
+========
+
+semeval2013:
+Attempted: 1271 Correct: 838 Accuracy: 0.6593233674272226
+Total Processed sentences: 255 (83%; read operation timed out)
+========
+
+semeval2015:
+Attempted: 982 Correct: 629 Accuracy: 0.6405295315682281
+Total Processed sentences: 138
+========
+
+senseval2:
+Attempted: 2220 Correct: 1443 Accuracy: 0.65
+Total Processed sentences: 242
+========
+
+senseval3:
+Attempted: 1756 Correct: 1032 Accuracy: 0.5876993166287016
+Total Processed sentences: 352
+========
+
+
+
+WiC
+------------------------------------------------------------------------
+test/test.data.txt:
+Attempted: 1400 Correct: 862 Accuracy: 0.6157142857142858
+Total Processed sentences: 1400
+========
+
+
+
+
+Fews
+------------------------------------------------------------------------
+test/test.few-shot.txt:
+Attempted: 4526 Correct: 2881 Accuracy: 0.6365444100751215
+Total Processed sentences: 4526 (91%; api.mistral.ai | 520: Web server is returning an unknown error)
+========
+
+test/test.zero-shot.txt:
+Attempted: 5000 Correct: 2934 Accuracy: 0.5868
+Total Processed sentences: 5000
+========
+
+
+
+CoarseWSD
+------------------------------------------------------------------------
+master/data/CoarseWSD-20:
+Attempted: 10195 Correct: 8772 Accuracy: 0.8604217753800882 (failure cases data lost due to runtime disconnect)
+========

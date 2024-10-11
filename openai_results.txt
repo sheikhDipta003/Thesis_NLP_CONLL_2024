@@ -2,7 +2,7 @@ Unified Framework
 ------------------------------------------------------------------------
 ALL:
 Attempted: 3859 Correct: 2499 Accuracy: 0.6475770925110133
-Total Processed Sentences: 560 (48%)
+Total Processed Sentences: 560
 ========
 
 semeval2007:
@@ -61,4 +61,6 @@ CoarseWSD
 master/data/CoarseWSD-20:
 Attempted: 10161 Correct: 8544 Accuracy: 0.8408621198700915
 ========
+
+
 

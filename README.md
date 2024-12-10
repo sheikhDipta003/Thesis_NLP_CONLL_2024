@@ -33,13 +33,12 @@ Set your own API keys for Gemini, LLama, Mistral and OpenAI in Google Colab.
 If you use this code in your research, please cite:
 
 ```bibtex
-@inproceedings{
-anonymous2024on,
-title={On Functional Competence of {LLM}s for Linguistic Disambiguation},
-author={Anonymous},
-booktitle={The SIGNLL Conference on Computational Natural Language Learning},
-year={2024},
-url={https://openreview.net/forum?id=rWOrOirukn}
+@inproceedings{kibria2024functional,
+  title={On Functional Competence of LLMs for Linguistic Disambiguation},
+  author={Kibria, Raihan and Dipta, Sheikh and Adnan, Muhammad},
+  booktitle={Proceedings of the 28th Conference on Computational Natural Language Learning},
+  pages={143--160},
+  year={2024}
 }
 ```
 
